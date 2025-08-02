@@ -12,7 +12,7 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
 
 #EXTINF:-1 tvg-id="True Grit Wrestling - Wrestlefest 2025" tvg-name="20:00 True Grit Wrestling: Wrestlefest 2025 - 02/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1750.php
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-175.php
 
 #EXTINF:-1 tvg-id="Rage Kombat - Inferno" tvg-name="20:00 Rage Kombat: Inferno - 02/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
