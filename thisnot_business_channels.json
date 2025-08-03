@@ -11,18 +11,6 @@
       "url": "https://thisnot.business/player.php?id=SportF1_DE"
     }
   },
-  "https://thisnot.business/player.php?id=RTL": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd&key_id=57e48b99f3f6d4f13f5c5afdcca084ca&key=29379a5e2d3405fad2f5d9cbe92586c3",
-    "info": {
-      "category": "FORMULA 1",
-      "title": "GP D'UNGHERIA",
-      "date": "DOMENICA 3 AGOSTO",
-      "event": "15:00 Gara",
-      "channel": "RTL",
-      "language": "de",
-      "url": "https://thisnot.business/player.php?id=RTL"
-    }
-  },
   "https://thisnot.business/player.php?id=RSILA2": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd",
     "info": {
@@ -31,7 +19,7 @@
       "date": "DOMENICA 3 AGOSTO",
       "event": "15:00 Gara",
       "channel": "RSI",
-      "language": "it",
+      "language": "de",
       "url": "https://thisnot.business/player.php?id=RSILA2"
     }
   },

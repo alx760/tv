@@ -5,10 +5,6 @@ Pagina Evento: https://thisnot.business/player.php?id=SportF1_DE
   Dettagli: Categoria='FORMULA 1', Evento='15:00 Gara', Canale='Sky Sport'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://linear201-de-dash1-prd-ak.cdn12.skycdp.com/032111-50/index.mpd&key_id=000b4b05b463b25ac9474c6b8de9242a&key=108e1dc2c98ce68de84cbfd1b1715c03
 
-Pagina Evento: https://thisnot.business/player.php?id=RTL
-  Dettagli: Categoria='FORMULA 1', Evento='15:00 Gara', Canale='RTL'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://pnowlive-a.akamaized.net/live/rtlhd/dash/rtlhd.mpd&key_id=57e48b99f3f6d4f13f5c5afdcca084ca&key=29379a5e2d3405fad2f5d9cbe92586c3
-
 Pagina Evento: https://thisnot.business/player.php?id=RSILA2
   Dettagli: Categoria='FORMULA 1', Evento='15:00 Gara', Canale='RSI'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd
