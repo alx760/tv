@@ -1,25 +1,13 @@
 {
-  "https://thisnot.business/player.php?id=ESPN1_NL": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpm.tv.delta.nl/live/3036/3036_live.isml/playlist.mpd%3Fbk-network%3Dftth-mobile%26ck%3DM2Y4MTg4ZWE5MTA3MDU5M2U3ODkzY2ViYTFlOTYyOTY6MDg1YTJhMTYwMWRlMjNkODI5ZDU5ZTIxNThhODIxZGY%3D&key_id=3f8188ea91070593e7893ceba1e96296&key=085a2a1601de23d829d59e2158a821df",
-    "info": {
-      "category": "CALCIO",
-      "title": "CHAMPIONS LEAGUE - PRELIMINARI",
-      "date": "MARTEDI 5 AGOSTO",
-      "event": "18:00 Bayer Leverkusen - Pisa",
-      "channel": "ESPN",
-      "language": "",
-      "url": "https://thisnot.business/player.php?id=ESPN1_NL"
-    }
-  },
   "https://thisnot.business/player.php?id=Dazn1amazon": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd",
     "info": {
       "category": "CALCIO",
       "title": "CHAMPIONS LEAGUE - PRELIMINARI",
-      "date": "MARTEDI 5 AGOSTO",
+      "date": "MERCOLEDI 6 AGOSTO",
       "event": "20:30 Aston Villa - Roma",
       "channel": "Dazn",
-      "language": "it",
+      "language": "",
       "url": "https://thisnot.business/player.php?id=Dazn1amazon"
     }
   },
@@ -28,10 +16,10 @@
     "info": {
       "category": "CALCIO",
       "title": "CHAMPIONS LEAGUE - PRELIMINARI",
-      "date": "MARTEDI 5 AGOSTO",
+      "date": "MERCOLEDI 6 AGOSTO",
       "event": "17:00 Kairat - Slovan Bratislava",
       "channel": "Arena Sport",
-      "language": "cz",
+      "language": "it",
       "url": "https://thisnot.business/player.php?id=ArenaSP1_ME"
     }
   },
@@ -40,7 +28,7 @@
     "info": {
       "category": "CALCIO",
       "title": "CHAMPIONS LEAGUE - PRELIMINARI",
-      "date": "MARTEDI 5 AGOSTO",
+      "date": "MERCOLEDI 6 AGOSTO",
       "event": "19:00 Ludogorets - Ferencvaros",
       "channel": "Arena Sport",
       "language": "rs",
@@ -52,7 +40,7 @@
     "info": {
       "category": "CALCIO",
       "title": "CHAMPIONS LEAGUE - PRELIMINARI",
-      "date": "MARTEDI 5 AGOSTO",
+      "date": "MERCOLEDI 6 AGOSTO",
       "event": "21:00 Nice - Benfica",
       "channel": "Arena Sport",
       "language": "rs",

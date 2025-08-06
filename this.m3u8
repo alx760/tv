@@ -1,18 +1,15 @@
 #EXTM3U
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="ESPN1_NL" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MARTEDI 5 AGOSTO 18:00 Bayer Leverkusen - Pisa" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", ESPN (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpm.tv.delta.nl/live/3036/3036_live.isml/playlist.mpd%3Fbk-network%3Dftth-mobile%26ck%3DM2Y4MTg4ZWE5MTA3MDU5M2U3ODkzY2ViYTFlOTYyOTY6MDg1YTJhMTYwMWRlMjNkODI5ZDU5ZTIxNThhODIxZGY%3D&key_id=3f8188ea91070593e7893ceba1e96296&key=085a2a1601de23d829d59e2158a821df
-
-#EXTINF:-1 tvg-id="Dazn1amazon" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MARTEDI 5 AGOSTO 20:30 Aston Villa - Roma" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
+#EXTINF:-1 tvg-id="Dazn1amazon" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MERCOLEDI 6 AGOSTO 20:30 Aston Villa - Roma" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
 
-#EXTINF:-1 tvg-id="ArenaSP1_ME" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MARTEDI 5 AGOSTO 17:00 Kairat - Slovan Bratislava" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
+#EXTINF:-1 tvg-id="ArenaSP1_ME" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MERCOLEDI 6 AGOSTO 17:00 Kairat - Slovan Bratislava" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
 
-#EXTINF:-1 tvg-id="ArenaSP3_ME" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MARTEDI 5 AGOSTO 19:00 Ludogorets - Ferencvaros" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
+#EXTINF:-1 tvg-id="ArenaSP3_ME" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MERCOLEDI 6 AGOSTO 19:00 Ludogorets - Ferencvaros" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arenasport_3/default/index.mpd&key_id=f2bdc52385035dbf8d604bfcbbc7c331&key=83e12c55225e86dfb2ab80b315b10f35,b56ffef5277f53ee897b6cd5f9f1592a:5e47506c9c41dbfe2b2c363c849d0580,1b15f7f038925b8cb24114202aa57ef9:8e1eaab640fc730bf61981e5da56d23c
 
-#EXTINF:-1 tvg-id="ArenaSP2_ME" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MARTEDI 5 AGOSTO 21:00 Nice - Benfica" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
+#EXTINF:-1 tvg-id="ArenaSP2_ME" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MERCOLEDI 6 AGOSTO 21:00 Nice - Benfica" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_2/default/index.mpd&key_id=50e2b92181a35cd9a603bf398660e5c7&key=0779f9325ccbb29b5926793236a1537d,dc5ff1824cd650569eb2252dce236b67:55e89387b90d67f0fe7b8f7845c3b9e6,39a06f8583d25d1dbf62a4cee3170342:5976017af75ba543275891b960e403ab
 
 #EXTINF:-1 tvg-id="ZiggoSP1" tvg-name="ATP 1000 TORONTO - CANADA LUNEDI 28 LUGLIO - GIOVEDI 7 AGOSTO 17:00 Live" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Ziggo (TN)
