@@ -47,14 +47,14 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-413.php
 #EXTINF:-1 tvg-id="South Africa - Varsity Football - University Of Johannesburg vs North-west University" tvg-name="16:45 South Africa - Varsity Football : University Of Johannesburg vs North-west University - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport Laliga
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-415.php
 
-#EXTINF:-1 tvg-id="UEFA Conference League - Aris vs AEK Athens" tvg-name="20:00 UEFA Conference League : Aris vs AEK Athens - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 1 Cyprus
+#EXTINF:-1 tvg-id="UEFA Conference League - Araz vs Omonia Nicosia" tvg-name="18:00 UEFA Conference League : Araz vs Omonia Nicosia - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 4 Cyprus
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-914.php
+
+#EXTINF:-1 tvg-id="UEFA Conference League - Aris vs AEK Athens" tvg-name="18:00 UEFA Conference League : Aris vs AEK Athens - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 1 Cyprus
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-911.php
 
-#EXTINF:-1 tvg-id="UEFA Conference League - Aris vs AEK Athens" tvg-name="20:00 UEFA Conference League : Aris vs AEK Athens - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 2 Greece
+#EXTINF:-1 tvg-id="UEFA Conference League - Aris vs AEK Athens" tvg-name="18:00 UEFA Conference League : Aris vs AEK Athens - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cosmote Sport 2 Greece
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-623.php
-
-#EXTINF:-1 tvg-id="UEFA Conference League - Araz vs Omonia Nicosia" tvg-name="17:00 UEFA Conference League : Araz vs Omonia Nicosia - 07/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Cytavision Sports 4 Cyprus
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-914.php
 
 #EXTINF:-1 tvg-id="UEFA Conference League - Kauno Žalgiris vs Arda" tvg-name="18:00 UEFA Conference League : Kauno Žalgiris vs Arda - 07/08/25" tvg-logo="https://guardacalcio.sbs/templates/calciostreaming1/images/logo.png" group-title="Calcio", Diema Sport 3 Bulgaria
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-467.php
