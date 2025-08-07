@@ -6,9 +6,21 @@
       "title": "CHAMPIONS LEAGUE - PRELIMINARI",
       "date": "MERCOLEDI 6 AGOSTO",
       "event": "20:30 Aston Villa - Roma",
-      "channel": "Dazn",
+      "channel": "Dazn1",
       "language": "es",
       "url": "https://thisnot.business/player.php?id=Dazn1amazon"
+    }
+  },
+  "https://thisnot.business/player.php?id=Dazn": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/15qm2tjn03j9d1bcufjccmcthj/tv/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYzdlOWY3ZDQ5YzU2NTkzMjg0Mjk2M2NlZThlMjVlNjE6NTdkYzk1OWQxYmU4ZDQ2OGFhZTY3OGVlMTQzNTk1NWY%3D&key_id=c7e9f7d49c565932842963cee8e25e61&key=57dc959d1be8d468aae678ee1435955f",
+    "info": {
+      "category": "CALCIO",
+      "title": "CHAMPIONS LEAGUE - PRELIMINARI",
+      "date": "MERCOLEDI 6 AGOSTO",
+      "event": "20:30 Aston Villa - Roma",
+      "channel": "Dazn",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=Dazn"
     }
   },
   "https://thisnot.business/player.php?id=ArenaSP1_ME": {

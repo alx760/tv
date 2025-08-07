@@ -1,7 +1,10 @@
 #EXTM3U
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="Dazn1amazon" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MERCOLEDI 6 AGOSTO 20:30 Aston Villa - Roma" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn (TN)
+#EXTINF:-1 tvg-id="Dazn1amazon" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MERCOLEDI 6 AGOSTO 20:30 Aston Villa - Roma" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn1 (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
+
+#EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://thisnot.business/loghi/logo.png" group-title="Sport;ThisNot", Dazn 1 (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-co-live-gcr.gcdn.co/15qm2tjn03j9d1bcufjccmcthj/tv/stream.mpd%3Fchannel%3D3916%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DYzdlOWY3ZDQ5YzU2NTkzMjg0Mjk2M2NlZThlMjVlNjE6NTdkYzk1OWQxYmU4ZDQ2OGFhZTY3OGVlMTQzNTk1NWY%3D&key_id=c7e9f7d49c565932842963cee8e25e61&key=57dc959d1be8d468aae678ee1435955f
 
 #EXTINF:-1 tvg-id="ArenaSP1_ME" tvg-name="CHAMPIONS LEAGUE - PRELIMINARI MERCOLEDI 6 AGOSTO 17:00 Kairat - Slovan Bratislava" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Arena Sport (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
