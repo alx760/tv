@@ -17,9 +17,9 @@
       "category": "CALCIO",
       "title": "SUPER LIG - TURCHIA",
       "date": "VENERDI 8 AGOSTO",
-      "event": "20:00 Monaco - Inter",
+      "event": "21:00 Valencia - Torino",
       "channel": "Dazn1",
-      "language": "uk",
+      "language": "it",
       "url": "https://thisnot.business/player.php?id=Dazn1amazon"
     }
   },
@@ -29,9 +29,9 @@
       "category": "CALCIO",
       "title": "SUPER LIG - TURCHIA",
       "date": "VENERDI 8 AGOSTO",
-      "event": "21:15 Casa Pia - Sporting Lisbona",
+      "event": "21:30 Arouca - AVS",
       "channel": "Sport•TV",
-      "language": "it",
+      "language": "pt",
       "url": "https://thisnot.business/player.php?id=SportTV1_PT"
     }
   },
@@ -41,9 +41,9 @@
       "category": "CALCIO",
       "title": "SUPER LIG - TURCHIA",
       "date": "VENERDI 8 AGOSTO",
-      "event": "18:30 Konferenz",
+      "event": "20:30 Kaiserslautern - Schalke 04",
       "channel": "Sky Sport Bundesliga",
-      "language": "pt",
+      "language": "de",
       "url": "https://thisnot.business/player.php?id=Bundesliga1"
     }
   },
@@ -53,7 +53,7 @@
       "category": "CALCIO",
       "title": "SUPER LIG - TURCHIA",
       "date": "VENERDI 8 AGOSTO",
-      "event": "18:30 Nurnberg - Darmstadt 98",
+      "event": "13:00 Dynamo Dresden - Magdeburg",
       "channel": "Sky Sport Bundesliga",
       "language": "de",
       "url": "https://thisnot.business/player.php?id=Bundesliga2"
@@ -65,10 +65,22 @@
       "category": "CALCIO",
       "title": "SUPER LIG - TURCHIA",
       "date": "VENERDI 8 AGOSTO",
-      "event": "18:30PreuBen Munster - Paderborn",
+      "event": "13:00 Fortuna Dusseldorf - Hannover 96",
       "channel": "Sky Sport Bundesliga",
       "language": "de",
       "url": "https://thisnot.business/player.php?id=Bundesliga3"
+    }
+  },
+  "https://thisnot.business/player.php?id=Bundesliga4": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://linear204-de-dash1-prd-ak.cdn12.skycdp.com/031125-50/index_stereo.mpd%3F%26ck%3DMDAwYmE3MjFhMGZmZmU0OTI2NTYyNzZiNzY3MDFkODU6NzQ2MTYxYjdlZDIwMzUzMmY0MGFjM2YzODUyYmQxMmE%3D&key_id=000ba721a0fffe492656276b76701d85&key=746161b7ed203532f40ac3f3852bd12a",
+    "info": {
+      "category": "CALCIO",
+      "title": "SUPER LIG - TURCHIA",
+      "date": "VENERDI 8 AGOSTO",
+      "event": "13:00 Eintracht Braunschweig - Greuther Furth",
+      "channel": "Sky Sport Bundesliga",
+      "language": "de",
+      "url": "https://thisnot.business/player.php?id=Bundesliga4"
     }
   },
   "https://thisnot.business/player.php?id=ESPN1_NL": {
@@ -77,10 +89,22 @@
       "category": "CALCIO",
       "title": "SUPER LIG - TURCHIA",
       "date": "VENERDI 8 AGOSTO",
-      "event": "20:00 Fortuna Sittard - Go Ahead Eagles",
+      "event": "20:00 Heerenveen - Volendam",
       "channel": "ESPN",
-      "language": "de",
+      "language": "nl",
       "url": "https://thisnot.business/player.php?id=ESPN1_NL"
+    }
+  },
+  "https://thisnot.business/player.php?id=ESPN2_NL": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpm.tv.delta.nl/live/3037/3037_live.isml/playlist.mpd%3Fbk-network%3Dftth-mobile%26ck%3DNDc5YzNkOTRiNThkZGRlNjQ5NTBkNjQ3MGU5ODU5ODg6MjUwNTFhMDIxN2UzMjJlNjg1YTA4MGQ3NmQzNDY1YWQ%3D&key_id=479c3d94b58ddde64950d6470e985988&key=25051a0217e322e685a080d76d3465ad",
+    "info": {
+      "category": "CALCIO",
+      "title": "SUPER LIG - TURCHIA",
+      "date": "VENERDI 8 AGOSTO",
+      "event": "21:00 PSV - Sparta Rotterdam",
+      "channel": "ESPN",
+      "language": "nl",
+      "url": "https://thisnot.business/player.php?id=ESPN2_NL"
     }
   },
   "https://thisnot.business/player.php?id=ArenaSP1_ME": {
@@ -103,7 +127,7 @@
       "date": "GIOVEDI 7 AGOSTO - DOMENICA 18 AGOSTO",
       "event": "17:00 Live",
       "channel": "Ziggo",
-      "language": "nl",
+      "language": "rs",
       "url": "https://thisnot.business/player.php?id=ZiggoSP4"
     }
   },
