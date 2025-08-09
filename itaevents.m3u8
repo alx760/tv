@@ -1,4 +1,37 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AMA Supercross Championship Crawfordsville - AMA Supercross Championship Crawfordsville" tvg-name="19:00 AMA Supercross Championship Crawfordsville - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Peacock
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="WR - Jerry Lynn Invitational, Part 1" tvg-name="21:00 WR: Jerry Lynn Invitational, Part 1 - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-155.php
+
+#EXTINF:-1 tvg-id="Mr Supermodified Oswego - Mr Supermodified Oswego" tvg-name="23:15 Mr Supermodified Oswego - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="2025 Thunder on the Thruway at Fonda Speedway - 2025 Thunder on the Thruway at Fonda Speedway" tvg-name="00:30 2025 Thunder on the Thruway at Fonda Speedway - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-157.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Knoxville - World of Outlaws Knoxville" tvg-name="00:30 World of Outlaws Knoxville - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
+
+#EXTINF:-1 tvg-id="2025 Lucas Oil North/South 100 at Florence Speedway - 2025 Lucas Oil North/South 100 at Florence Speedway" tvg-name="00:45 2025 Lucas Oil North/South 100 at Florence Speedway - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="Bxng Next Generation Atlantic City - Bxng Next Generation Atlantic City" tvg-name="00:30 Bxng Next Generation Atlantic City - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Bxng Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="2025 IMCA Weekly Racing at 141 Speedway - 2025 IMCA Weekly Racing at 141 Speedway" tvg-name="00:55 2025 IMCA Weekly Racing at 141 Speedway - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="USAC Silver Crown Salem - USAC Silver Crown Salem" tvg-name="01:00 USAC Silver Crown Salem - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="IWC - Alwayz Ready 2025" tvg-name="01:00 IWC: Alwayz Ready 2025 - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="WR - Jerry Lynn Invitational, Part 2" tvg-name="02:00 WR: Jerry Lynn Invitational, Part 2 - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-164.php
+
 #EXTINF:-1 tvg-id="England - Championship - Charlton Athletic vs Watford" tvg-name="13:30 England - Championship : Charlton Athletic vs Watford - 09/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
 
