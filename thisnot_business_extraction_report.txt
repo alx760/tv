@@ -1,10 +1,6 @@
 Report Estrazione Link da thisnot.business
 ===========================================
 
-Pagina Evento: https://thisnot.business/player.php?id=DaznFIO
-  Dettagli: Categoria='CALCIO', Evento='13:45 Manchester United - Fiorentina', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/bmib2ujfzjcq1d433582lfur8/web/stream.mpd%3Fchannel%3D3920%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZmFhMzdmM2FjOTE5NWFkZGI0YzkyM2Q2YTE4NjlhYzM6NjFkZTFkMjU1MTE4M2ZiNDEwNzgwZjYwNmJjNmRhMDI%3D&key_id=faa37f3ac9195addb4c923d6a1869ac3&key=61de1d2551183fb410780f606bc6da02
-
 Pagina Evento: https://thisnot.business/player.php?id=DaznATA
   Dettagli: Categoria='CALCIO', Evento='15:30 Koln - Atalanta', Canale='Dazn'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/p4inrj969jyj1xttuxjdjd8ek/web/stream.mpd%3Fchannel%3D9943%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZjJkMzE1NDI2YTQ2NWIzMGI1ODExYzU2NTI0MjExZDQ6ZDEzN2I5NGY0MGY5MWRiMDg4ODY4N2IyMWQ1MjI5ZjU%3D&key_id=f2d315426a465b30b5811c56524211d4&key=d137b94f40f91db0888687b21d5229f5
@@ -19,11 +15,15 @@ Pagina Evento: https://thisnot.business/player.php?id=DaznUDI
 
 Pagina Evento: https://thisnot.business/player.php?id=DaznROM
   Dettagli: Categoria='CALCIO', Evento='16:00 Everton - Roma', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/vn0i8tg52w1c1cqt4sxjt51e9/web/stream.mpd%3Fchannel%3D3959%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DMjNkMDIxMWUwNTA0NTNmZWFmMjNhMmZlNzQ0YzUwNTA6N2YwZTQwYTQ0ODljMTE2NGFlOTdhOGI5ZDNhMTkzMDc%3D&key_id=23d0211e050453feaf23a2fe744c5050&key=7f0e40a4489c1164ae97a8b9d3a19307
 
 Pagina Evento: https://thisnot.business/player.php?id=DaznLAZ
   Dettagli: Categoria='CALCIO', Evento='16:00 Burnley - Lazio', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/622zr6fku3jo158pb5jwaez7s/tv/stream.mpd%3Fchannel%3D3926%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZmUwY2JlMDFiZDk4NWZmMmJiYzdmNjU0YzZkODI4NGE6OGUwNmRlZmJkYmRjM2QxZGIzMWVhZjkwYmEzMTgzMGU%3D&key_id=fe0cbe01bd985ff2bbc7f654c6d8284a&key=8e06defbdbdc3d1db31eaf90ba31830e
+
+Pagina Evento: https://thisnot.business/player.php?id=DaznMIL
+  Dettagli: Categoria='CALCIO', Evento='16:00 Leeds - Milan', Canale='Dazn'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-rw-livedazn.cdn.netrw.it/12c2tuvao849fzpv21dt6mm0u/tv/stream.mpd%3Fchannel%3D7082%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DOTZjM2RlNDc1MTVlNTJhNDk3MTkwZGFiZGRlMmM4NDA6MGFlMzdkZjI4NzBlM2I3MTUxNWE0NzVlNzYxZDI4MzM%3D&key_id=96c3de47515e52a497190dabdde2c840&key=0ae37df2870e3b71515a475e761d2833
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn1amazon
   Dettagli: Categoria='CALCIO', Evento='16:00 Leeds - Milan', Canale='Dazn1'
@@ -141,10 +141,6 @@ Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
   Dettagli: Categoria='CALCIO', Evento='16:00 Crystal Palace - Liverpool', Canale='Arena Sport'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
 
-Pagina Evento: https://thisnot.business/player.php?id=DaznFIO
-  Dettagli: Categoria='CALCIO', Evento='13:45 Manchester United - Fiorentina', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/bmib2ujfzjcq1d433582lfur8/web/stream.mpd%3Fchannel%3D3920%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZmFhMzdmM2FjOTE5NWFkZGI0YzkyM2Q2YTE4NjlhYzM6NjFkZTFkMjU1MTE4M2ZiNDEwNzgwZjYwNmJjNmRhMDI%3D&key_id=faa37f3ac9195addb4c923d6a1869ac3&key=61de1d2551183fb410780f606bc6da02
-
 Pagina Evento: https://thisnot.business/player.php?id=DaznATA
   Dettagli: Categoria='CALCIO', Evento='15:30 Koln - Atalanta', Canale='Dazn'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/p4inrj969jyj1xttuxjdjd8ek/web/stream.mpd%3Fchannel%3D9943%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZjJkMzE1NDI2YTQ2NWIzMGI1ODExYzU2NTI0MjExZDQ6ZDEzN2I5NGY0MGY5MWRiMDg4ODY4N2IyMWQ1MjI5ZjU%3D&key_id=f2d315426a465b30b5811c56524211d4&key=d137b94f40f91db0888687b21d5229f5
@@ -159,11 +155,15 @@ Pagina Evento: https://thisnot.business/player.php?id=DaznUDI
 
 Pagina Evento: https://thisnot.business/player.php?id=DaznROM
   Dettagli: Categoria='CALCIO', Evento='16:00 Everton - Roma', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/vn0i8tg52w1c1cqt4sxjt51e9/web/stream.mpd%3Fchannel%3D3959%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DMjNkMDIxMWUwNTA0NTNmZWFmMjNhMmZlNzQ0YzUwNTA6N2YwZTQwYTQ0ODljMTE2NGFlOTdhOGI5ZDNhMTkzMDc%3D&key_id=23d0211e050453feaf23a2fe744c5050&key=7f0e40a4489c1164ae97a8b9d3a19307
 
 Pagina Evento: https://thisnot.business/player.php?id=DaznLAZ
   Dettagli: Categoria='CALCIO', Evento='16:00 Burnley - Lazio', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/622zr6fku3jo158pb5jwaez7s/tv/stream.mpd%3Fchannel%3D3926%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZmUwY2JlMDFiZDk4NWZmMmJiYzdmNjU0YzZkODI4NGE6OGUwNmRlZmJkYmRjM2QxZGIzMWVhZjkwYmEzMTgzMGU%3D&key_id=fe0cbe01bd985ff2bbc7f654c6d8284a&key=8e06defbdbdc3d1db31eaf90ba31830e
+
+Pagina Evento: https://thisnot.business/player.php?id=DaznMIL
+  Dettagli: Categoria='CALCIO', Evento='16:00 Leeds - Milan', Canale='Dazn'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-rw-livedazn.cdn.netrw.it/12c2tuvao849fzpv21dt6mm0u/tv/stream.mpd%3Fchannel%3D7082%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DOTZjM2RlNDc1MTVlNTJhNDk3MTkwZGFiZGRlMmM4NDA6MGFlMzdkZjI4NzBlM2I3MTUxNWE0NzVlNzYxZDI4MzM%3D&key_id=96c3de47515e52a497190dabdde2c840&key=0ae37df2870e3b71515a475e761d2833
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn1amazon
   Dettagli: Categoria='CALCIO', Evento='16:00 Leeds - Milan', Canale='Dazn1'
@@ -281,10 +281,6 @@ Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
   Dettagli: Categoria='CALCIO', Evento='16:00 Crystal Palace - Liverpool', Canale='Arena Sport'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
 
-Pagina Evento: https://thisnot.business/player.php?id=DaznFIO
-  Dettagli: Categoria='CALCIO', Evento='13:45 Manchester United - Fiorentina', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/bmib2ujfzjcq1d433582lfur8/web/stream.mpd%3Fchannel%3D3920%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZmFhMzdmM2FjOTE5NWFkZGI0YzkyM2Q2YTE4NjlhYzM6NjFkZTFkMjU1MTE4M2ZiNDEwNzgwZjYwNmJjNmRhMDI%3D&key_id=faa37f3ac9195addb4c923d6a1869ac3&key=61de1d2551183fb410780f606bc6da02
-
 Pagina Evento: https://thisnot.business/player.php?id=DaznATA
   Dettagli: Categoria='CALCIO', Evento='15:30 Koln - Atalanta', Canale='Dazn'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/p4inrj969jyj1xttuxjdjd8ek/web/stream.mpd%3Fchannel%3D9943%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZjJkMzE1NDI2YTQ2NWIzMGI1ODExYzU2NTI0MjExZDQ6ZDEzN2I5NGY0MGY5MWRiMDg4ODY4N2IyMWQ1MjI5ZjU%3D&key_id=f2d315426a465b30b5811c56524211d4&key=d137b94f40f91db0888687b21d5229f5
@@ -299,11 +295,15 @@ Pagina Evento: https://thisnot.business/player.php?id=DaznUDI
 
 Pagina Evento: https://thisnot.business/player.php?id=DaznROM
   Dettagli: Categoria='CALCIO', Evento='16:00 Everton - Roma', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/vn0i8tg52w1c1cqt4sxjt51e9/web/stream.mpd%3Fchannel%3D3959%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DMjNkMDIxMWUwNTA0NTNmZWFmMjNhMmZlNzQ0YzUwNTA6N2YwZTQwYTQ0ODljMTE2NGFlOTdhOGI5ZDNhMTkzMDc%3D&key_id=23d0211e050453feaf23a2fe744c5050&key=7f0e40a4489c1164ae97a8b9d3a19307
 
 Pagina Evento: https://thisnot.business/player.php?id=DaznLAZ
   Dettagli: Categoria='CALCIO', Evento='16:00 Burnley - Lazio', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/622zr6fku3jo158pb5jwaez7s/tv/stream.mpd%3Fchannel%3D3926%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZmUwY2JlMDFiZDk4NWZmMmJiYzdmNjU0YzZkODI4NGE6OGUwNmRlZmJkYmRjM2QxZGIzMWVhZjkwYmEzMTgzMGU%3D&key_id=fe0cbe01bd985ff2bbc7f654c6d8284a&key=8e06defbdbdc3d1db31eaf90ba31830e
+
+Pagina Evento: https://thisnot.business/player.php?id=DaznMIL
+  Dettagli: Categoria='CALCIO', Evento='16:00 Leeds - Milan', Canale='Dazn'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-rw-livedazn.cdn.netrw.it/12c2tuvao849fzpv21dt6mm0u/tv/stream.mpd%3Fchannel%3D7082%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DOTZjM2RlNDc1MTVlNTJhNDk3MTkwZGFiZGRlMmM4NDA6MGFlMzdkZjI4NzBlM2I3MTUxNWE0NzVlNzYxZDI4MzM%3D&key_id=96c3de47515e52a497190dabdde2c840&key=0ae37df2870e3b71515a475e761d2833
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn1amazon
   Dettagli: Categoria='CALCIO', Evento='16:00 Leeds - Milan', Canale='Dazn1'
@@ -421,10 +421,6 @@ Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
   Dettagli: Categoria='CALCIO', Evento='16:00 Crystal Palace - Liverpool', Canale='Arena Sport'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
 
-Pagina Evento: https://thisnot.business/player.php?id=DaznFIO
-  Dettagli: Categoria='CALCIO', Evento='13:45 Manchester United - Fiorentina', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/bmib2ujfzjcq1d433582lfur8/web/stream.mpd%3Fchannel%3D3920%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZmFhMzdmM2FjOTE5NWFkZGI0YzkyM2Q2YTE4NjlhYzM6NjFkZTFkMjU1MTE4M2ZiNDEwNzgwZjYwNmJjNmRhMDI%3D&key_id=faa37f3ac9195addb4c923d6a1869ac3&key=61de1d2551183fb410780f606bc6da02
-
 Pagina Evento: https://thisnot.business/player.php?id=DaznATA
   Dettagli: Categoria='CALCIO', Evento='15:30 Koln - Atalanta', Canale='Dazn'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/p4inrj969jyj1xttuxjdjd8ek/web/stream.mpd%3Fchannel%3D9943%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZjJkMzE1NDI2YTQ2NWIzMGI1ODExYzU2NTI0MjExZDQ6ZDEzN2I5NGY0MGY5MWRiMDg4ODY4N2IyMWQ1MjI5ZjU%3D&key_id=f2d315426a465b30b5811c56524211d4&key=d137b94f40f91db0888687b21d5229f5
@@ -439,11 +435,15 @@ Pagina Evento: https://thisnot.business/player.php?id=DaznUDI
 
 Pagina Evento: https://thisnot.business/player.php?id=DaznROM
   Dettagli: Categoria='CALCIO', Evento='16:00 Everton - Roma', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/vn0i8tg52w1c1cqt4sxjt51e9/web/stream.mpd%3Fchannel%3D3959%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DMjNkMDIxMWUwNTA0NTNmZWFmMjNhMmZlNzQ0YzUwNTA6N2YwZTQwYTQ0ODljMTE2NGFlOTdhOGI5ZDNhMTkzMDc%3D&key_id=23d0211e050453feaf23a2fe744c5050&key=7f0e40a4489c1164ae97a8b9d3a19307
 
 Pagina Evento: https://thisnot.business/player.php?id=DaznLAZ
   Dettagli: Categoria='CALCIO', Evento='16:00 Burnley - Lazio', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/622zr6fku3jo158pb5jwaez7s/tv/stream.mpd%3Fchannel%3D3926%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZmUwY2JlMDFiZDk4NWZmMmJiYzdmNjU0YzZkODI4NGE6OGUwNmRlZmJkYmRjM2QxZGIzMWVhZjkwYmEzMTgzMGU%3D&key_id=fe0cbe01bd985ff2bbc7f654c6d8284a&key=8e06defbdbdc3d1db31eaf90ba31830e
+
+Pagina Evento: https://thisnot.business/player.php?id=DaznMIL
+  Dettagli: Categoria='CALCIO', Evento='16:00 Leeds - Milan', Canale='Dazn'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-rw-livedazn.cdn.netrw.it/12c2tuvao849fzpv21dt6mm0u/tv/stream.mpd%3Fchannel%3D7082%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DOTZjM2RlNDc1MTVlNTJhNDk3MTkwZGFiZGRlMmM4NDA6MGFlMzdkZjI4NzBlM2I3MTUxNWE0NzVlNzYxZDI4MzM%3D&key_id=96c3de47515e52a497190dabdde2c840&key=0ae37df2870e3b71515a475e761d2833
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn1amazon
   Dettagli: Categoria='CALCIO', Evento='16:00 Leeds - Milan', Canale='Dazn1'
@@ -561,10 +561,6 @@ Pagina Evento: https://thisnot.business/player.php?id=ArenaSP1_ME
   Dettagli: Categoria='CALCIO', Evento='16:00 Crystal Palace - Liverpool', Canale='Arena Sport'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79
 
-Pagina Evento: https://thisnot.business/player.php?id=DaznFIO
-  Dettagli: Categoria='CALCIO', Evento='13:45 Manchester United - Fiorentina', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/bmib2ujfzjcq1d433582lfur8/web/stream.mpd%3Fchannel%3D3920%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZmFhMzdmM2FjOTE5NWFkZGI0YzkyM2Q2YTE4NjlhYzM6NjFkZTFkMjU1MTE4M2ZiNDEwNzgwZjYwNmJjNmRhMDI%3D&key_id=faa37f3ac9195addb4c923d6a1869ac3&key=61de1d2551183fb410780f606bc6da02
-
 Pagina Evento: https://thisnot.business/player.php?id=DaznATA
   Dettagli: Categoria='CALCIO', Evento='15:30 Koln - Atalanta', Canale='Dazn'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/p4inrj969jyj1xttuxjdjd8ek/web/stream.mpd%3Fchannel%3D9943%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZjJkMzE1NDI2YTQ2NWIzMGI1ODExYzU2NTI0MjExZDQ6ZDEzN2I5NGY0MGY5MWRiMDg4ODY4N2IyMWQ1MjI5ZjU%3D&key_id=f2d315426a465b30b5811c56524211d4&key=d137b94f40f91db0888687b21d5229f5
@@ -579,11 +575,15 @@ Pagina Evento: https://thisnot.business/player.php?id=DaznUDI
 
 Pagina Evento: https://thisnot.business/player.php?id=DaznROM
   Dettagli: Categoria='CALCIO', Evento='16:00 Everton - Roma', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/vn0i8tg52w1c1cqt4sxjt51e9/web/stream.mpd%3Fchannel%3D3959%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DMjNkMDIxMWUwNTA0NTNmZWFmMjNhMmZlNzQ0YzUwNTA6N2YwZTQwYTQ0ODljMTE2NGFlOTdhOGI5ZDNhMTkzMDc%3D&key_id=23d0211e050453feaf23a2fe744c5050&key=7f0e40a4489c1164ae97a8b9d3a19307
 
 Pagina Evento: https://thisnot.business/player.php?id=DaznLAZ
   Dettagli: Categoria='CALCIO', Evento='16:00 Burnley - Lazio', Canale='Dazn'
-  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dcb-rw-livedazn.cdn.netrw.it/622zr6fku3jo158pb5jwaez7s/tv/stream.mpd%3Fchannel%3D3926%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DZmUwY2JlMDFiZDk4NWZmMmJiYzdmNjU0YzZkODI4NGE6OGUwNmRlZmJkYmRjM2QxZGIzMWVhZjkwYmEzMTgzMGU%3D&key_id=fe0cbe01bd985ff2bbc7f654c6d8284a&key=8e06defbdbdc3d1db31eaf90ba31830e
+
+Pagina Evento: https://thisnot.business/player.php?id=DaznMIL
+  Dettagli: Categoria='CALCIO', Evento='16:00 Leeds - Milan', Canale='Dazn'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-rw-livedazn.cdn.netrw.it/12c2tuvao849fzpv21dt6mm0u/tv/stream.mpd%3Fchannel%3D7082%26outlet%3Ddazn-italy%26plang%3Dit%26ck%3DOTZjM2RlNDc1MTVlNTJhNDk3MTkwZGFiZGRlMmM4NDA6MGFlMzdkZjI4NzBlM2I3MTUxNWE0NzVlNzYxZDI4MzM%3D&key_id=96c3de47515e52a497190dabdde2c840&key=0ae37df2870e3b71515a475e761d2833
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn1amazon
   Dettagli: Categoria='CALCIO', Evento='16:00 Leeds - Milan', Canale='Dazn1'
