@@ -9,6 +9,10 @@ Pagina Evento: https://thisnot.business/player.php?id=Channel5
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Channel5'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
+Pagina Evento: https://thisnot.business/player.php?id=UNIVERSO
+  Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='UNIVERSO'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel%28universo-east%29/master.mpd&key_id=a42669eafed7349499aab7df588b3ccf&key=0fbff143ebd097060a377e4ade033288
+
 Pagina Evento: https://thisnot.business/player.php?id=Dazn1amazon
   Dettagli: Categoria='CALCIO', Evento='17:30 Borussia Dortmund - Juventus', Canale='Dazn1'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
@@ -31,6 +35,10 @@ Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
 
 Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
   Dettagli: Categoria='CALCIO', Evento='21:30 Sporting Braga - Tondela', Canale='Sport•TV'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
+
+Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
+  Dettagli: Categoria='CALCIO', Evento='21:45 Porto - Vitoria Guimaraes', Canale='Sport•TV'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
 
 Pagina Evento: https://thisnot.business/player.php?id=Bundesliga1
@@ -73,6 +81,10 @@ Pagina Evento: https://thisnot.business/player.php?id=Channel5
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Channel5'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
+Pagina Evento: https://thisnot.business/player.php?id=UNIVERSO
+  Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='UNIVERSO'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel%28universo-east%29/master.mpd&key_id=a42669eafed7349499aab7df588b3ccf&key=0fbff143ebd097060a377e4ade033288
+
 Pagina Evento: https://thisnot.business/player.php?id=Dazn1amazon
   Dettagli: Categoria='CALCIO', Evento='17:30 Borussia Dortmund - Juventus', Canale='Dazn1'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
@@ -95,6 +107,10 @@ Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
 
 Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
   Dettagli: Categoria='CALCIO', Evento='21:30 Sporting Braga - Tondela', Canale='Sport•TV'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
+
+Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
+  Dettagli: Categoria='CALCIO', Evento='21:45 Porto - Vitoria Guimaraes', Canale='Sport•TV'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
 
 Pagina Evento: https://thisnot.business/player.php?id=Bundesliga1
@@ -137,6 +153,10 @@ Pagina Evento: https://thisnot.business/player.php?id=Channel5
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Channel5'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
+Pagina Evento: https://thisnot.business/player.php?id=UNIVERSO
+  Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='UNIVERSO'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel%28universo-east%29/master.mpd&key_id=a42669eafed7349499aab7df588b3ccf&key=0fbff143ebd097060a377e4ade033288
+
 Pagina Evento: https://thisnot.business/player.php?id=Dazn1amazon
   Dettagli: Categoria='CALCIO', Evento='17:30 Borussia Dortmund - Juventus', Canale='Dazn1'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
@@ -159,6 +179,10 @@ Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
 
 Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
   Dettagli: Categoria='CALCIO', Evento='21:30 Sporting Braga - Tondela', Canale='Sport•TV'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
+
+Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
+  Dettagli: Categoria='CALCIO', Evento='21:45 Porto - Vitoria Guimaraes', Canale='Sport•TV'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
 
 Pagina Evento: https://thisnot.business/player.php?id=Bundesliga1
@@ -201,6 +225,10 @@ Pagina Evento: https://thisnot.business/player.php?id=Channel5
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Channel5'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
+Pagina Evento: https://thisnot.business/player.php?id=UNIVERSO
+  Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='UNIVERSO'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel%28universo-east%29/master.mpd&key_id=a42669eafed7349499aab7df588b3ccf&key=0fbff143ebd097060a377e4ade033288
+
 Pagina Evento: https://thisnot.business/player.php?id=Dazn1amazon
   Dettagli: Categoria='CALCIO', Evento='17:30 Borussia Dortmund - Juventus', Canale='Dazn1'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
@@ -223,6 +251,10 @@ Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
 
 Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
   Dettagli: Categoria='CALCIO', Evento='21:30 Sporting Braga - Tondela', Canale='Sport•TV'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
+
+Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
+  Dettagli: Categoria='CALCIO', Evento='21:45 Porto - Vitoria Guimaraes', Canale='Sport•TV'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
 
 Pagina Evento: https://thisnot.business/player.php?id=Bundesliga1
@@ -265,6 +297,10 @@ Pagina Evento: https://thisnot.business/player.php?id=Channel5
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Channel5'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd
 
+Pagina Evento: https://thisnot.business/player.php?id=UNIVERSO
+  Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='UNIVERSO'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel%28universo-east%29/master.mpd&key_id=a42669eafed7349499aab7df588b3ccf&key=0fbff143ebd097060a377e4ade033288
+
 Pagina Evento: https://thisnot.business/player.php?id=Dazn1amazon
   Dettagli: Categoria='CALCIO', Evento='17:30 Borussia Dortmund - Juventus', Canale='Dazn1'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
@@ -287,6 +323,10 @@ Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
 
 Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
   Dettagli: Categoria='CALCIO', Evento='21:30 Sporting Braga - Tondela', Canale='Sport•TV'
+  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
+
+Pagina Evento: https://thisnot.business/player.php?id=SportTV1_PT
+  Dettagli: Categoria='CALCIO', Evento='21:45 Porto - Vitoria Guimaraes', Canale='Sport•TV'
   Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
 
 Pagina Evento: https://thisnot.business/player.php?id=Bundesliga1

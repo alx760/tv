@@ -23,6 +23,18 @@
       "url": "https://thisnot.business/player.php?id=Channel5"
     }
   },
+  "https://thisnot.business/player.php?id=UNIVERSO": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel%28universo-east%29/master.mpd&key_id=a42669eafed7349499aab7df588b3ccf&key=0fbff143ebd097060a377e4ade033288",
+    "info": {
+      "category": "CALCIO",
+      "title": "EREDIVISIE - OLANDA",
+      "date": "DOMENICA 10 AGOSTO",
+      "event": "16:00 Chelsea - Milan",
+      "channel": "UNIVERSO",
+      "language": "uk",
+      "url": "https://thisnot.business/player.php?id=UNIVERSO"
+    }
+  },
   "https://thisnot.business/player.php?id=Dazn1amazon": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd",
     "info": {
@@ -31,7 +43,7 @@
       "date": "DOMENICA 10 AGOSTO",
       "event": "17:30 Borussia Dortmund - Juventus",
       "channel": "Dazn1",
-      "language": "uk",
+      "language": "es",
       "url": "https://thisnot.business/player.php?id=Dazn1amazon"
     }
   },
@@ -77,7 +89,7 @@
       "category": "CALCIO",
       "title": "EREDIVISIE - OLANDA",
       "date": "DOMENICA 10 AGOSTO",
-      "event": "21:30 Sporting Braga - Tondela",
+      "event": "21:45 Porto - Vitoria Guimaraes",
       "channel": "Sport•TV",
       "language": "pt",
       "url": "https://thisnot.business/player.php?id=SportTV1_PT"
