@@ -3,7 +3,7 @@ Report Estrazione Link da thisnot.business
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-rw-livedazn.cdn.netrw.it/ky2pjl9svav31h3e82mxv21aa/tv/stream.mpd%3F%26outlet%3Ddazn-italy%26ck%3DMjBkMGRlMmI2ZGNmNTI3ZGIwMzhhNzM3NzNlMWIzOGE6MDI4ZjAzZGRlZjY5OTQyNDhhZGU4MGRhZDZhMjZjYTE%3D&key_id=20d0de2b6dcf527db038a73773e1b38a&key=028f03ddef6994248ade80dad6a26ca1
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=Channel5
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Channel5'
@@ -75,7 +75,7 @@ Pagina Evento: https://thisnot.business/player.php?id=ESPN2_NL
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-rw-livedazn.cdn.netrw.it/ky2pjl9svav31h3e82mxv21aa/tv/stream.mpd%3F%26outlet%3Ddazn-italy%26ck%3DMjBkMGRlMmI2ZGNmNTI3ZGIwMzhhNzM3NzNlMWIzOGE6MDI4ZjAzZGRlZjY5OTQyNDhhZGU4MGRhZDZhMjZjYTE%3D&key_id=20d0de2b6dcf527db038a73773e1b38a&key=028f03ddef6994248ade80dad6a26ca1
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=Channel5
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Channel5'
@@ -147,7 +147,7 @@ Pagina Evento: https://thisnot.business/player.php?id=ESPN2_NL
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-rw-livedazn.cdn.netrw.it/ky2pjl9svav31h3e82mxv21aa/tv/stream.mpd%3F%26outlet%3Ddazn-italy%26ck%3DMjBkMGRlMmI2ZGNmNTI3ZGIwMzhhNzM3NzNlMWIzOGE6MDI4ZjAzZGRlZjY5OTQyNDhhZGU4MGRhZDZhMjZjYTE%3D&key_id=20d0de2b6dcf527db038a73773e1b38a&key=028f03ddef6994248ade80dad6a26ca1
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=Channel5
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Channel5'
@@ -219,7 +219,7 @@ Pagina Evento: https://thisnot.business/player.php?id=ESPN2_NL
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-rw-livedazn.cdn.netrw.it/ky2pjl9svav31h3e82mxv21aa/tv/stream.mpd%3F%26outlet%3Ddazn-italy%26ck%3DMjBkMGRlMmI2ZGNmNTI3ZGIwMzhhNzM3NzNlMWIzOGE6MDI4ZjAzZGRlZjY5OTQyNDhhZGU4MGRhZDZhMjZjYTE%3D&key_id=20d0de2b6dcf527db038a73773e1b38a&key=028f03ddef6994248ade80dad6a26ca1
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=Channel5
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Channel5'
@@ -291,7 +291,7 @@ Pagina Evento: https://thisnot.business/player.php?id=ESPN2_NL
 
 Pagina Evento: https://thisnot.business/player.php?id=Dazn
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Dazn'
-  Stato Estrazione: OK - Proxy generato: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-rw-livedazn.cdn.netrw.it/ky2pjl9svav31h3e82mxv21aa/tv/stream.mpd%3F%26outlet%3Ddazn-italy%26ck%3DMjBkMGRlMmI2ZGNmNTI3ZGIwMzhhNzM3NzNlMWIzOGE6MDI4ZjAzZGRlZjY5OTQyNDhhZGU4MGRhZDZhMjZjYTE%3D&key_id=20d0de2b6dcf527db038a73773e1b38a&key=028f03ddef6994248ade80dad6a26ca1
+  Stato Estrazione: FALLITO - Nessun proxy generato (Stream non trovato o non processabile)
 
 Pagina Evento: https://thisnot.business/player.php?id=Channel5
   Dettagli: Categoria='CALCIO', Evento='16:00 Chelsea - Milan', Canale='Channel5'

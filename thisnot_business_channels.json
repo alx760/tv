@@ -1,16 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=Dazn": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://dca-rw-livedazn.cdn.netrw.it/ky2pjl9svav31h3e82mxv21aa/tv/stream.mpd%3F%26outlet%3Ddazn-italy%26ck%3DMjBkMGRlMmI2ZGNmNTI3ZGIwMzhhNzM3NzNlMWIzOGE6MDI4ZjAzZGRlZjY5OTQyNDhhZGU4MGRhZDZhMjZjYTE%3D&key_id=20d0de2b6dcf527db038a73773e1b38a&key=028f03ddef6994248ade80dad6a26ca1",
-    "info": {
-      "category": "CALCIO",
-      "title": "EREDIVISIE - OLANDA",
-      "date": "DOMENICA 10 AGOSTO",
-      "event": "16:00 Chelsea - Milan",
-      "channel": "Dazn",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=Dazn"
-    }
-  },
   "https://thisnot.business/player.php?id=Channel5": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/channel5/browser-dash/channel5.mpd",
     "info": {
