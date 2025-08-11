@@ -1,14 +1,26 @@
 {
-  "https://thisnot.business/player.php?id=3CAT": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd&key_id=325daf9ae36d550da1a42c645dc110dd&key=085a5a1b5595f7492d804dab2c406287,47e3d769ecc65009b31260579a2f3362:0577b31398c457270ba9a8af216c7b0c,0044da7266da5474a7ddc63b817ec3af:012ebc9d5499038583b511459151435e",
+  "https://thisnot.business/player.php?id=SportTV1_PT": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b",
     "info": {
       "category": "CALCIO",
       "title": "SUPERCOPPA EUROPEA",
       "date": "MERCOLEDI 13 AGOSTO",
-      "event": "21:00 Barcellona - Como",
-      "channel": "3CAT",
+      "event": "21:45 Porto - Vitoria Guimaraes",
+      "channel": "Sport•TV",
       "language": "",
-      "url": "https://thisnot.business/player.php?id=3CAT"
+      "url": "https://thisnot.business/player.php?id=SportTV1_PT"
+    }
+  },
+  "https://thisnot.business/player.php?id=BlueZoomDE": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd",
+    "info": {
+      "category": "CALCIO",
+      "title": "SUPERCOPPA EUROPEA",
+      "date": "MERCOLEDI 13 AGOSTO",
+      "event": "18:00 Grasshopper - Bayern Monaco",
+      "channel": "Blue",
+      "language": "pt",
+      "url": "https://thisnot.business/player.php?id=BlueZoomDE"
     }
   },
   "https://thisnot.business/player.php?id=Sportitalia": {
@@ -19,7 +31,7 @@
       "date": "MERCOLEDI 13 AGOSTO",
       "event": "21:00 Monza - Inter",
       "channel": "Sportitalia",
-      "language": "es",
+      "language": "de",
       "url": "https://thisnot.business/player.php?id=Sportitalia"
     }
   },
@@ -35,18 +47,6 @@
       "url": "https://thisnot.business/player.php?id=Dazn1amazon"
     }
   },
-  "https://thisnot.business/player.php?id=SportTV1_PT": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b",
-    "info": {
-      "category": "CALCIO",
-      "title": "SUPERCOPPA EUROPEA",
-      "date": "MERCOLEDI 13 AGOSTO",
-      "event": "21:45 Porto - Vitoria Guimaraes",
-      "channel": "Sport•TV",
-      "language": "pt",
-      "url": "https://thisnot.business/player.php?id=SportTV1_PT"
-    }
-  },
   "https://thisnot.business/player.php?id=TNTSP1": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&key_id=b770d5b4bb6b594daf985845aae9aa5f&key=b0cb46d2d31cf044bc73db71e9865f6f,ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d",
     "info": {
@@ -55,7 +55,7 @@
       "date": "MERCOLEDI 13 AGOSTO",
       "event": "21:00 PSG - Tottenham",
       "channel": "TNT Sports",
-      "language": "pt",
+      "language": "it",
       "url": "https://thisnot.business/player.php?id=TNTSP1"
     }
   },

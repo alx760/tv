@@ -153,9 +153,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42489970292d293
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -526,6 +523,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/277580225585f50
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/344556251909fe0b312736&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Sport",SKY SPORT ARENA (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3007400791d5bc640207c3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysportarena.it" tvg-name="Sky Sport Arena (2)" tvg-logo="" group-title="Sport",SKY SPORT ARENA (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
@@ -565,6 +565,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3268253262aec28
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (2)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/78546677680f40b76841&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
@@ -1743,17 +1746,17 @@ https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhon
 https://hls.kangal.icu/hls/skynba/index.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fsportzone.yoga%2F&h_origin=https%3A%2F%2Fsportzone.yoga
 # Playlist generata da Hattrick
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="3CAT" tvg-name="SUPERCOPPA EUROPEA MERCOLEDI 13 AGOSTO 21:00 Barcellona - Como" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", 3CAT (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://tvup01.edge.milloh-cs.com/tv3esp/tv3esp.mpd&key_id=325daf9ae36d550da1a42c645dc110dd&key=085a5a1b5595f7492d804dab2c406287,47e3d769ecc65009b31260579a2f3362:0577b31398c457270ba9a8af216c7b0c,0044da7266da5474a7ddc63b817ec3af:012ebc9d5499038583b511459151435e
+#EXTINF:-1 tvg-id="SportTV1_PT" tvg-name="SUPERCOPPA EUROPEA MERCOLEDI 13 AGOSTO 21:45 Porto - Vitoria Guimaraes" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sport•TV (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
+
+#EXTINF:-1 tvg-id="BlueZoomDE" tvg-name="SUPERCOPPA EUROPEA MERCOLEDI 13 AGOSTO 18:00 Grasshopper - Bayern Monaco" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Blue (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd
 
 #EXTINF:-1 tvg-id="Sportitalia" tvg-name="SUPERCOPPA EUROPEA MERCOLEDI 13 AGOSTO 21:00 Monza - Inter" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sportitalia (TN)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="Dazn1amazon" tvg-name="SUPERCOPPA EUROPEA MERCOLEDI 13 AGOSTO 18:30 Juventus - Juventus Next Gen" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn1 (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
-
-#EXTINF:-1 tvg-id="SportTV1_PT" tvg-name="SUPERCOPPA EUROPEA MERCOLEDI 13 AGOSTO 21:45 Porto - Vitoria Guimaraes" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Sport•TV (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b
 
 #EXTINF:-1 tvg-id="TNTSP1" tvg-name="SUPERCOPPA EUROPEA MERCOLEDI 13 AGOSTO 21:00 PSG - Tottenham" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", TNT Sports (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&key_id=b770d5b4bb6b594daf985845aae9aa5f&key=b0cb46d2d31cf044bc73db71e9865f6f,ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
