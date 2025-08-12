@@ -82,5 +82,29 @@
       "language": "nl",
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
     }
+  },
+  "https://thisnot.business/player.php?id=TNTSP2": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd&key_id=b770d5b4bb6b594daf985845aae9aa5f&key=b0cb46d2d31cf044bc73db71e9865f6f,6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441",
+    "info": {
+      "category": "MOTOMONDIALE",
+      "title": "GP RED BULL RING - AUSTRIA",
+      "date": "VENERDI 15 AGOSTO",
+      "event": "14:00 MotoGP - Gara",
+      "channel": "TNT Sports",
+      "language": "uk",
+      "url": "https://thisnot.business/player.php?id=TNTSP2"
+    }
+  },
+  "https://thisnot.business/player.php?id=RSILA2": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd",
+    "info": {
+      "category": "MOTOMONDIALE",
+      "title": "GP RED BULL RING - AUSTRIA",
+      "date": "VENERDI 15 AGOSTO",
+      "event": "14:00 MotoGP - Gara",
+      "channel": "RSI",
+      "language": "uk",
+      "url": "https://thisnot.business/player.php?id=RSILA2"
+    }
   }
 }
