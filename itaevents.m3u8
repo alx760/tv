@@ -260,6 +260,9 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-61.php
 #EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="21:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", 5 Sport Israel
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
 
+#EXTINF:-1 tvg-id="UEFA Super Cup - PSG vs Tottenham Hotspur" tvg-name="21:00 UEFA Super Cup : PSG vs Tottenham Hotspur - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Network USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-5000.php
+
 #EXTINF:-1 tvg-id="England - League Cup - Birmingham City vs Sheffield United" tvg-name="21:00 England - League Cup : Birmingham City vs Sheffield United - 13/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Golazo USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-910.php
 
