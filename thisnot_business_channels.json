@@ -11,35 +11,23 @@
       "url": "https://thisnot.business/player.php?id=ZiggoSP1"
     }
   },
-  "https://thisnot.business/player.php?id=BlueZoomDE": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://viamotionhsi.netplus.ch/live/eds/bluezoomde/browser-dash/bluezoomde.mpd",
-    "info": {
-      "category": "CALCIO",
-      "title": "SUPERCOPPA EUROPEA",
-      "date": "MERCOLEDI 13 AGOSTO",
-      "event": "18:00 Grasshopper - Bayern Monaco",
-      "channel": "Blue",
-      "language": "nl",
-      "url": "https://thisnot.business/player.php?id=BlueZoomDE"
-    }
-  },
   "https://thisnot.business/player.php?id=LA1": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://tvup01.edge.milloh-cs.com/la1-neutra/la1-neutra.mpd&key_id=bd0fc341d44b5ccdaa2d03f0bedb5ddb&key=9724f09ead510de82908d9b44c2d8504,25c3263f252d54dead2ace331b9c72c9:27b1e0c3f5d3398d2283219bb1994f48,c0920e7ce7f453d8ad001e68ceb0645d:1580d663bc0628337f597fe135643b51",
     "info": {
       "category": "CALCIO",
-      "title": "SUPERCOPPA EUROPEA",
+      "title": "COPA LIBERTADORES - OTTAVI DI FINALE",
       "date": "MERCOLEDI 13 AGOSTO",
       "event": "19:00 WSG Tirol - Real Madrid",
       "channel": "La1",
-      "language": "de",
+      "language": "pt",
       "url": "https://thisnot.business/player.php?id=LA1"
     }
   },
   "https://thisnot.business/player.php?id=Sportitalia": {
-    "proxy_url": "https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/chunklist.m3u8",
+    "proxy_url": "https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd_480p/chunklist.m3u8",
     "info": {
       "category": "CALCIO",
-      "title": "SUPERCOPPA EUROPEA",
+      "title": "COPA LIBERTADORES - OTTAVI DI FINALE",
       "date": "MERCOLEDI 13 AGOSTO",
       "event": "21:00 Monza - Inter",
       "channel": "Sportitalia",
@@ -51,7 +39,7 @@
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd",
     "info": {
       "category": "CALCIO",
-      "title": "SUPERCOPPA EUROPEA",
+      "title": "COPA LIBERTADORES - OTTAVI DI FINALE",
       "date": "MERCOLEDI 13 AGOSTO",
       "event": "18:30 Juventus - Juventus Next Gen",
       "channel": "Dazn1",
@@ -63,12 +51,36 @@
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&key_id=b770d5b4bb6b594daf985845aae9aa5f&key=b0cb46d2d31cf044bc73db71e9865f6f,ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d",
     "info": {
       "category": "CALCIO",
-      "title": "SUPERCOPPA EUROPEA",
+      "title": "COPA LIBERTADORES - OTTAVI DI FINALE",
       "date": "MERCOLEDI 13 AGOSTO",
       "event": "21:00 PSG - Tottenham",
       "channel": "TNT Sports",
       "language": "it",
       "url": "https://thisnot.business/player.php?id=TNTSP1"
+    }
+  },
+  "https://thisnot.business/player.php?id=SportTV1_PT": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b",
+    "info": {
+      "category": "CALCIO",
+      "title": "COPA LIBERTADORES - OTTAVI DI FINALE",
+      "date": "MERCOLEDI 13 AGOSTO",
+      "event": "02:30 Universitario - Palmeiras",
+      "channel": "Sport•TV",
+      "language": "pt",
+      "url": "https://thisnot.business/player.php?id=SportTV1_PT"
+    }
+  },
+  "https://thisnot.business/player.php?id=ArenaSP1_ME": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpkcdn.telekom.me/bpk-tv/arena_premium_1/default/index.mpd&key_id=ddf7a6d83eb05ab48a757b638244af57&key=720eb820e035ebe9f9a84e9f258282a1,96a46b5f1627549db9632ae1172ea62d:feb9eb6327915c1547ad17c2461b9f66,7815e3024bf55d5296ece7d188442baa:4178f0a0b6eed010845a6342a0831f79",
+    "info": {
+      "category": "CALCIO",
+      "title": "COPA LIBERTADORES - OTTAVI DI FINALE",
+      "date": "MERCOLEDI 13 AGOSTO",
+      "event": "02:30 Penarol - Racing Club",
+      "channel": "Arena Sport",
+      "language": "pt",
+      "url": "https://thisnot.business/player.php?id=ArenaSP1_ME"
     }
   },
   "https://thisnot.business/player.php?id=ZiggoSP4": {
@@ -79,7 +91,7 @@
       "date": "GIOVEDI 7 AGOSTO - DOMENICA 18 AGOSTO",
       "event": "17:00 Live",
       "channel": "Ziggo",
-      "language": "it",
+      "language": "pt",
       "url": "https://thisnot.business/player.php?id=ZiggoSP4"
     }
   },
