@@ -374,8 +374,17 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-81.php
 #EXTINF:-1 tvg-id="CONCACAF Central American Cup - Motagua vs Cartaginés" tvg-name="04:00 CONCACAF Central American Cup : Motagua vs Cartaginés - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Fox Soccer Plus
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-756.php
 
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Cabral F./Miedler L. vs Nys H./Roger-Vasselin E." tvg-name="17:00 ATP - CINCINNATI : Cabral F./Miedler L. vs Nys H./Roger-Vasselin E. - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Cincinnati", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Doumbia S./Nakashima B. vs Salisbury J./Skupski N." tvg-name="17:00 ATP - CINCINNATI : Doumbia S./Nakashima B. vs Salisbury J./Skupski N. - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Cincinnati", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
+
 #EXTINF:-1 tvg-id="ATP - CINCINNATI - Sinner J. vs Auger-Aliassime F." tvg-name="21:00 ATP - CINCINNATI : Sinner J. vs Auger-Aliassime F. - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Cincinnati", Tennis Stream
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
+
+#EXTINF:-1 tvg-id="ATP - CINCINNATI - Arevalo M./Pavic M. vs Melo M./Zverev A." tvg-name="21:00 ATP - CINCINNATI : Arevalo M./Pavic M. vs Melo M./Zverev A. - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Cincinnati", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
 
 #EXTINF:-1 tvg-id="ATP - CINCINNATI - Shelton B. vs Lehecka J." tvg-name="22:30 ATP - CINCINNATI : Shelton B. vs Lehecka J. - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Cincinnati", Tennis Stream
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
@@ -386,11 +395,20 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
 #EXTINF:-1 tvg-id="WTA - CINCINNATI - Bronzetti L. vs Gauff C." tvg-name="17:00 WTA - CINCINNATI : Bronzetti L. vs Gauff C. - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Cincinnati", Tennis Stream
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
 
+#EXTINF:-1 tvg-id="WTA - CINCINNATI - McNally C./Noskova L. vs Dabrowski G./Routliffe E." tvg-name="17:00 WTA - CINCINNATI : McNally C./Noskova L. vs Dabrowski G./Routliffe E. - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Cincinnati", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
 #EXTINF:-1 tvg-id="WTA - CINCINNATI - Paolini J. vs Krejcikova B." tvg-name="19:00 WTA - CINCINNATI : Paolini J. vs Krejcikova B. - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Cincinnati", Tennis Stream
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
 
+#EXTINF:-1 tvg-id="WTA - CINCINNATI - Kichenok L./Perez E. vs Melichar-Martinez/Samsonova" tvg-name="19:00 WTA - CINCINNATI : Kichenok L./Perez E. vs Melichar-Martinez/Samsonova - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Cincinnati", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
 #EXTINF:-1 tvg-id="WTA - CINCINNATI - Seidel E. vs Gracheva V." tvg-name="21:00 WTA - CINCINNATI : Seidel E. vs Gracheva V. - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Cincinnati", Tennis Stream
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - CINCINNATI - Krejcikova B./Ostapenko J. vs Guo H./Panova A." tvg-name="22:30 WTA - CINCINNATI : Krejcikova B./Ostapenko J. vs Guo H./Panova A. - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Cincinnati", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
 
 #EXTINF:-1 tvg-id="WTA - CINCINNATI - Errani S./Paolini J. vs Stearns P./Vondrousova M." tvg-name="00:00 WTA - CINCINNATI : Errani S./Paolini J. vs Stearns P./Vondrousova M. - 14/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Cincinnati", Tennis Stream
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
