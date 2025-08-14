@@ -1,7 +1,7 @@
 #EXTM3U
 # Playlist generata da ThisNotBusiness
-#EXTINF:-1 tvg-id="Dazn1amazon" tvg-name="COPA LIBERTADORES - OTTAVI DI FINALE GIOVEDI 14 AGOSTO 18:30 Juventus - Juventus Next Gen" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", Dazn1 (TN)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
+#EXTINF:-1 tvg-id="RTLHU1" tvg-name="COPA LIBERTADORES - OTTAVI DI FINALE GIOVEDI 14 AGOSTO 21:00 PSG - Tottenham" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", RTL (TN)
+https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/0c5c7fb388c649f78a1be36fc4bd365e/dash_long_cenc10_ucl1_hd_index.mpd&key_id=b98b7e0f2806332ab627c0177e5708f6&key=62240705d69fbf3b6850bfdfab2a787a,770cf796cbf53210a7d7c414ddceeb9a:903dea32932e10161034e0fdb8b2fba8
 
 #EXTINF:-1 tvg-id="TNTSP1" tvg-name="COPA LIBERTADORES - OTTAVI DI FINALE GIOVEDI 14 AGOSTO 21:00 PSG - Tottenham" tvg-logo="https://thisnot.business/loghi/logoaaa.png" group-title="Sport;ThisNot", TNT Sports (TN)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd&key_id=b770d5b4bb6b594daf985845aae9aa5f&key=b0cb46d2d31cf044bc73db71e9865f6f,ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d

@@ -1,14 +1,14 @@
 {
-  "https://thisnot.business/player.php?id=Dazn1amazon": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd",
+  "https://thisnot.business/player.php?id=RTLHU1": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://origin-18cd60dea8190528-rtlhu.live.6cloud.fr/out/v1/0c5c7fb388c649f78a1be36fc4bd365e/dash_long_cenc10_ucl1_hd_index.mpd&key_id=b98b7e0f2806332ab627c0177e5708f6&key=62240705d69fbf3b6850bfdfab2a787a,770cf796cbf53210a7d7c414ddceeb9a:903dea32932e10161034e0fdb8b2fba8",
     "info": {
       "category": "CALCIO",
       "title": "COPA LIBERTADORES - OTTAVI DI FINALE",
       "date": "GIOVEDI 14 AGOSTO",
-      "event": "18:30 Juventus - Juventus Next Gen",
-      "channel": "Dazn1",
+      "event": "21:00 PSG - Tottenham",
+      "channel": "RTL",
       "language": "",
-      "url": "https://thisnot.business/player.php?id=Dazn1amazon"
+      "url": "https://thisnot.business/player.php?id=RTLHU1"
     }
   },
   "https://thisnot.business/player.php?id=TNTSP1": {
@@ -19,7 +19,7 @@
       "date": "GIOVEDI 14 AGOSTO",
       "event": "21:00 PSG - Tottenham",
       "channel": "TNT Sports",
-      "language": "it",
+      "language": "hu",
       "url": "https://thisnot.business/player.php?id=TNTSP1"
     }
   },
