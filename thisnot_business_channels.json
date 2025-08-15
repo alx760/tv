@@ -1,16 +1,4 @@
 {
-  "https://thisnot.business/player.php?id=SportTV1_PT": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b",
-    "info": {
-      "category": "CALCIO",
-      "title": "EREDIVISIE - OLANDA",
-      "date": "VENERDI 15 AGOSTO",
-      "event": "16:30 AVS - Casa Pia",
-      "channel": "Sport•TV",
-      "language": "it",
-      "url": "https://thisnot.business/player.php?id=SportTV1_PT"
-    }
-  },
   "https://thisnot.business/player.php?id=Mediaset20_IT": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest_hr.mpd",
     "info": {
@@ -71,6 +59,18 @@
       "url": "https://thisnot.business/player.php?id=IzziLiga"
     }
   },
+  "https://thisnot.business/player.php?id=SportTV1_PT": {
+    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24151/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DCMAFDASH_HEVC_UHD%26ck%3DZDAxMjMyMmZiMmRiNGM5MjlhNjY0MTdjMWZhNDBiMDA6ZWFjODAzNjAzZjFiMmU0NjU4ZTBmOWRhMzE3ZmQwNWI%3D&key_id=d012322fb2db4c929a66417c1fa40b00&key=eac803603f1b2e4658e0f9da317fd05b",
+    "info": {
+      "category": "CALCIO",
+      "title": "EREDIVISIE - OLANDA",
+      "date": "VENERDI 15 AGOSTO",
+      "event": "16:30 AVS - Casa Pia",
+      "channel": "Sport•TV",
+      "language": "it",
+      "url": "https://thisnot.business/player.php?id=SportTV1_PT"
+    }
+  },
   "https://thisnot.business/player.php?id=ESPN2_NL": {
     "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://bpm.tv.delta.nl/live/3037/3037_live.isml/playlist.mpd%3Fbk-network%3Dftth-mobile%26ck%3DNDc5YzNkOTRiNThkZGRlNjQ5NTBkNjQ3MGU5ODU5ODg6MjUwNTFhMDIxN2UzMjJlNjg1YTA4MGQ3NmQzNDY1YWQ%3D&key_id=479c3d94b58ddde64950d6470e985988&key=25051a0217e322e685a080d76d3465ad",
     "info": {
@@ -93,18 +93,6 @@
       "channel": "Ziggo",
       "language": "nl",
       "url": "https://thisnot.business/player.php?id=ZiggoSP4"
-    }
-  },
-  "https://thisnot.business/player.php?id=ZiggoSP1": {
-    "proxy_url": "https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd%3Fzoneoffset%3D0%26devkbps%3D1-7000%26servicetype%3D1%26icpid%3D86%26accounttype%3D1%26limitflux%3D-1%26limitdur%3D-1%26tenantId%3D3103%26accountinfo%3D~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474:20240601012829:UTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND%26GuardEncType%3D2%26RTS%3D1717205309%26from%3D11%26hms_devid%3D1008%26online%3D1717205309%26mag_hms%3D1008%2C311%2C305%26_%3D1717205322621%26ck%3DZWYzNGFlOTFiNGYyNDE1ZTg0MzliMmFkMTA1ZTc0ODg6MjQzMjQ4ZDhkZTFmZjhjN2M1ODdlZTIwNTczMTc1MjM%3D&key_id=ef34ae91b4f2415e8439b2ad105e7488&key=243248d8de1ff8c7c587ee2057317523",
-    "info": {
-      "category": "TENNIS",
-      "title": "ATP/WTA 1000 CINCINNATI - USA",
-      "date": "GIOVEDI 7 AGOSTO - DOMENICA 18 AGOSTO",
-      "event": "23:00 Live",
-      "channel": "Ziggo",
-      "language": "nl",
-      "url": "https://thisnot.business/player.php?id=ZiggoSP1"
     }
   },
   "https://thisnot.business/player.php?id=TNTSP2": {

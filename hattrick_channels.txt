@@ -1,0 +1,1 @@
+calcio: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//linear303-it-dash1-prd.selector.skycdn.it//016a/31209/FHD/skysportseriea/master_stereo.mpd&key_id=00362f95db61eba0e6f14acee3f71e01&key=fb74cd84b53c7557e18424a3356c4665
