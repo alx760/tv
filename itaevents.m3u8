@@ -1,9 +1,60 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="American Flat Track Episode 10 - American Flat Track Episode 10" tvg-name="15:30 American Flat Track Episode 10 - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Fox Sports 1 USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+#EXTINF:-1 tvg-id="AMA Supercross Championship New Berlin - AMA Supercross Championship New Berlin" tvg-name="16:30 AMA Supercross Championship New Berlin - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Peacock
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-204.php
 
-#EXTINF:-1 tvg-id="Bmerican Flat Track Episode 10 - Bmerican Flat Track Episode 10" tvg-name="15:30 Bmerican Flat Track Episode 10 - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Fox Sports 2 USA
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+#EXTINF:-1 tvg-id="USAC Bettenhausen 100 Illinois - USAC Bettenhausen 100 Illinois" tvg-name="17:00 USAC Bettenhausen 100 Illinois - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-205.php
+
+#EXTINF:-1 tvg-id="2025 American Flat Track at Peoria TT - 2025 American Flat Track at Peoria TT" tvg-name="18:00 2025 American Flat Track at Peoria TT - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-206.php
+
+#EXTINF:-1 tvg-id="Queensberry Promotions - Moses Itauma vs. Dillian Whyte" tvg-name="18:30 Queensberry Promotions : Moses Itauma vs. Dillian Whyte - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-207.php
+
+#EXTINF:-1 tvg-id="wXw - Shortcut to the Top 2025" tvg-name="19:00 wXw: Shortcut to the Top 2025 - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-208.php
+
+#EXTINF:-1 tvg-id="2025 CARS Tour at Anderson Motor Speedway - 2025 CARS Tour at Anderson Motor Speedway" tvg-name="23:00 2025 CARS Tour at Anderson Motor Speedway - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="2025 NASCAR Weekly Racing at Le RPM Speedway - 2025 NASCAR Weekly Racing at Le RPM Speedway" tvg-name="23:00 2025 NASCAR Weekly Racing at Le RPM Speedway - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="2025 Championship Night at Oswego Speedway - 2025 Championship Night at Oswego Speedway" tvg-name="23:15 2025 Championship Night at Oswego Speedway - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="Baldwin Evans Jarzombek 77 Riverhead - Baldwin Evans Jarzombek 77 Riverhead" tvg-name="23:15 Baldwin Evans Jarzombek 77 Riverhead - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="2025 NASCAR Weekly Racing at Berlin Raceway - 2025 NASCAR Weekly Racing at Berlin Raceway" tvg-name="00:00 2025 NASCAR Weekly Racing at Berlin Raceway - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="2025 Championship Night at Fonda Speedway - 2025 Championship Night at Fonda Speedway" tvg-name="00:00 2025 Championship Night at Fonda Speedway - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="Millbridge Sprints - Millbridge Sprints" tvg-name="00:15 Millbridge Sprints - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="Land of Legends Late Models - Land of Legends Late Models" tvg-name="00:15 Land of Legends Late Models - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series El Paso - American Sprint Car Series El Paso" tvg-name="00:45 American Sprint Car Series El Paso - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="IRA Sprints Wilmot - IRA Sprints Wilmot" tvg-name="00:45 IRA Sprints Wilmot - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-172.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Maquoketa - World of Outlaws Late Models Maquoketa" tvg-name="01:15 World of Outlaws Late Models Maquoketa - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars Jackson - World of Outlaws Sprint Cars Jackson" tvg-name="01:15 World of Outlaws Sprint Cars Jackson - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="BKB 44 - Denver Brawl V" tvg-name="01:30 BKB 44: Denver Brawl V - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="Redneck Brawl 10 - Redneck Brawl 10" tvg-name="02:00 Redneck Brawl 10 - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
 
 #EXTINF:-1 tvg-id="England - Championship - Portsmouth vs Norwich City" tvg-name="13:30 England - Championship : Portsmouth vs Norwich City - 16/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-105.php
