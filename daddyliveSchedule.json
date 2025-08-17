@@ -3927,6 +3927,189 @@
                 ]
             }
         ],
+        "ATP - CINCINNATI</span>": [
+            {
+                "time": "22:00",
+                "event": "ATP - CINCINNATI : Musetti L./Sonego L. vs Mektic N./Ram R.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1509"
+                    }
+                ]
+            }
+        ],
+        "ATP - WINSTON SALEM</span>": [
+            {
+                "time": "18:30",
+                "event": "ATP - WINSTON SALEM : Ofner S. vs Kopriva V.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1551"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "ATP - WINSTON SALEM : Van De Zandschulp B. vs Walton A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1552"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - WINSTON SALEM : Goffin D. vs Martinez P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "ATP - WINSTON SALEM : Majchrzak K. vs Jarry N.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1553"
+                    }
+                ]
+            },
+            {
+                "time": "20:00",
+                "event": "ATP - WINSTON SALEM : Bu Y. vs Tseng C. H.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1554"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "ATP - WINSTON SALEM : Medjedovic H. vs Rinderknech A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1555"
+                    }
+                ]
+            },
+            {
+                "time": "22:30",
+                "event": "ATP - WINSTON SALEM : Nishioka Y. vs Carreno-Busta P.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            },
+            {
+                "time": "00:00",
+                "event": "ATP - WINSTON SALEM : McDonald M. vs Holt B.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1507"
+                    }
+                ]
+            }
+        ],
+        "WTA - CINCINNATI</span>": [
+            {
+                "time": "17:00",
+                "event": "WTA - CINCINNATI : Rybakina E. vs Swiatek I.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "19:00",
+                "event": "WTA - CINCINNATI : Kudermetova V. vs Paolini J.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            },
+            {
+                "time": "23:30",
+                "event": "WTA - CINCINNATI : Guo H./Panova A. vs Dabrowski G./Routliffe E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1501"
+                    }
+                ]
+            }
+        ],
+        "WTA - CLEVELAND</span>": [
+            {
+                "time": "15:30",
+                "event": "WTA - CLEVELAND : Birrell K. vs Zakharova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - CLEVELAND : Jovic I. vs Potapova A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "17:00",
+                "event": "WTA - CLEVELAND : Kartal S. vs Sierra S.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "WTA - CLEVELAND : Joint M. vs Lys E.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1502"
+                    }
+                ]
+            },
+            {
+                "time": "18:30",
+                "event": "WTA - CLEVELAND : Starodubtseva Y. vs Li A.",
+                "channels": [
+                    {
+                        "channel_name": "Tennis Stream",
+                        "channel_id": "1503"
+                    }
+                ]
+            },
+            {
+                "time": "20:30",
+                "event": "WTA - CLEVELAND : Scott K. vs Kudermetova P.",
+                "channels": []
+            }
+        ],
         "Tennis</span>": [
             {
                 "time": "15:00",
