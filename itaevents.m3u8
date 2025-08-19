@@ -641,6 +641,120 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-756.php
 #EXTINF:-1 tvg-id="CONCACAF W Champions Cup - Pachuca vs Chorrillo" tvg-name="04:00 CONCACAF W Champions Cup : Pachuca vs Chorrillo - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ESPN Deportes
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
 
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Stadium 17" tvg-name="17:00 US OPEN - QUALIFYING : Stadium 17 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 5" tvg-name="17:00 US OPEN - QUALIFYING : Court 5 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1521.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 4" tvg-name="17:00 US OPEN - QUALIFYING : Court 4 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1522.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 6" tvg-name="17:00 US OPEN - QUALIFYING : Court 6 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1525.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 7" tvg-name="17:00 US OPEN - QUALIFYING : Court 7 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1526.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 8" tvg-name="17:00 US OPEN - QUALIFYING : Court 8 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 9" tvg-name="17:00 US OPEN - QUALIFYING : Court 9 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 10" tvg-name="17:00 US OPEN - QUALIFYING : Court 10 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 11" tvg-name="17:00 US OPEN - QUALIFYING : Court 11 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 12" tvg-name="17:00 US OPEN - QUALIFYING : Court 12 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 13" tvg-name="17:00 US OPEN - QUALIFYING : Court 13 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1513.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 14" tvg-name="17:00 US OPEN - QUALIFYING : Court 14 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1514.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 15" tvg-name="17:00 US OPEN - QUALIFYING : Court 15 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1518.php
+
+#EXTINF:-1 tvg-id="US OPEN - QUALIFYING - Court 16" tvg-name="17:00 US OPEN - QUALIFYING : Court 16 - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Us Open - Qualifying", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1519.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Bautista-Agut R. vs O'Connell C." tvg-name="20:00 ATP - WINSTON SALEM : Bautista-Agut R. vs O'Connell C. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1551.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Blanch Dar. vs Muller A." tvg-name="20:00 ATP - WINSTON SALEM : Blanch Dar. vs Muller A. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1552.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Mpetshi Perricard G. vs Martinez P." tvg-name="20:00 ATP - WINSTON SALEM : Mpetshi Perricard G. vs Martinez P. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1553.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Fucsovics M. vs Griekspoor T." tvg-name="20:00 ATP - WINSTON SALEM : Fucsovics M. vs Griekspoor T. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Diallo G. vs Basavareddy N." tvg-name="21:30 ATP - WINSTON SALEM : Diallo G. vs Basavareddy N. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1554.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Kecmanovic M. vs Kovacevic A." tvg-name="21:30 ATP - WINSTON SALEM : Kecmanovic M. vs Kovacevic A. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1555.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Medjedovic H. vs Fearnley J." tvg-name="22:00 ATP - WINSTON SALEM : Medjedovic H. vs Fearnley J. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1556.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - McDonald M. vs Darderi L." tvg-name="22:00 ATP - WINSTON SALEM : McDonald M. vs Darderi L. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Baez S. vs Carreno-Busta P." tvg-name="23:00 ATP - WINSTON SALEM : Baez S. vs Carreno-Busta P. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1557.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Navone M. vs Giron M." tvg-name="23:00 ATP - WINSTON SALEM : Navone M. vs Giron M. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1558.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Van De Zandschulp B. vs Arnaldi M." tvg-name="23:30 ATP - WINSTON SALEM : Van De Zandschulp B. vs Arnaldi M. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1559.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Bellucci M. vs Munar J." tvg-name="00:30 ATP - WINSTON SALEM : Bellucci M. vs Munar J. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1560.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Tsitsipas S. vs Bu Y." tvg-name="00:30 ATP - WINSTON SALEM : Tsitsipas S. vs Bu Y. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - WINSTON SALEM - Sonego L. vs Dostanic S." tvg-name="02:00 ATP - WINSTON SALEM : Sonego L. vs Dostanic S. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Winston Salem", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="WTA - CLEVELAND - Zakharova A. vs Baptiste H." tvg-name="17:00 WTA - CLEVELAND : Zakharova A. vs Baptiste H. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Cleveland", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - CLEVELAND - Lys E. vs Kudermetova P." tvg-name="18:30 WTA - CLEVELAND : Lys E. vs Kudermetova P. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Cleveland", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - CLEVELAND - Sierra S. vs Jacquemot E." tvg-name="19:30 WTA - CLEVELAND : Sierra S. vs Jacquemot E. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Cleveland", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - CLEVELAND - Li A. vs Jovic I." tvg-name="00:30 WTA - CLEVELAND : Li A. vs Jovic I. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Cleveland", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - MONTERREY - Sramkova R. vs Rodriguez V." tvg-name="23:00 WTA - MONTERREY : Sramkova R. vs Rodriguez V. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - MONTERREY - Bucsa C. vs Parks A." tvg-name="01:00 WTA - MONTERREY : Bucsa C. vs Parks A. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - MONTERREY - Pavlyuchenkova A. vs Ruzic A." tvg-name="01:00 WTA - MONTERREY : Pavlyuchenkova A. vs Ruzic A. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - MONTERREY - Jeanjean L. vs Cocciaretto E." tvg-name="02:30 WTA - MONTERREY : Jeanjean L. vs Cocciaretto E. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="WTA - MONTERREY - Zarazua R. vs Tomljanovic A." tvg-name="03:30 WTA - MONTERREY : Zarazua R. vs Tomljanovic A. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="WTA - MONTERREY - Noskova L. vs Sun L." tvg-name="05:00 WTA - MONTERREY : Noskova L. vs Sun L. - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Monterrey", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
 #EXTINF:-1 tvg-id="Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds" tvg-name="17:00 Winston-Salem-ATP, Cleveland-WTA & Monterrey-WTA Early Rounds - 19/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
 
