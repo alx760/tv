@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Weekly Racing Stafford - Weekly Racing Stafford" tvg-name="23:30 Weekly Racing Stafford - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
+
+#EXTINF:-1 tvg-id="2025 Lucas Oil Rumble By The River at Port Royal Speedway - 2025 Lucas Oil Rumble By The River at Port Royal Speedway" tvg-name="23:45 2025 Lucas Oil Rumble By The River at Port Royal Speedway - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-86.php
+
+#EXTINF:-1 tvg-id="Fury FC 108 - Piccininni vs Orozco" tvg-name="00:00 Fury FC 108: Piccininni vs Orozco - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-105.php
+
+#EXTINF:-1 tvg-id="2025 Empire Super Sprints at Autodrome Granby - 2025 Empire Super Sprints at Autodrome Granby" tvg-name="00:20 2025 Empire Super Sprints at Autodrome Granby - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-106.php
+
+#EXTINF:-1 tvg-id="Attica Sprint Cars - Attica Sprint Cars" tvg-name="00:30 Attica Sprint Cars - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-107.php
+
+#EXTINF:-1 tvg-id="2025 Championship Night at Utica-Rome Speedway - 2025 Championship Night at Utica-Rome Speedway" tvg-name="00:45 2025 Championship Night at Utica-Rome Speedway - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-108.php
+
+#EXTINF:-1 tvg-id="Williams Grove Sprints - Williams Grove Sprints" tvg-name="01:00 Williams Grove Sprints - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-109.php
+
+#EXTINF:-1 tvg-id="2025 Skunk Cup at Magic Valley Speedway - 2025 Skunk Cup at Magic Valley Speedway" tvg-name="01:10 2025 Skunk Cup at Magic Valley Speedway - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-110.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars River Cities - World of Outlaws Sprint Cars River Cities" tvg-name="01:15 World of Outlaws Sprint Cars River Cities - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Arrowhead - World of Outlaws Late Models Arrowhead" tvg-name="02:15 World of Outlaws Late Models Arrowhead - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series Big Sky - American Sprint Car Series Big Sky" tvg-name="02:15 American Sprint Car Series Big Sky - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="LFA 215 - Miranda vs. Barzilay" tvg-name="05:00 LFA 215: Miranda vs. Barzilay - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Bohemians vs Cork City" tvg-name="20:45 Ireland Republic - Premier Division : Bohemians vs Cork City - 22/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
 
