@@ -1,4 +1,67 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AMA Supercross Championship Mechanicsville - AMA Supercross Championship Mechanicsville" tvg-name="16:00 AMA Supercross Championship Mechanicsville - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Peacock
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-200.php
+
+#EXTINF:-1 tvg-id="2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway - 2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway" tvg-name="22:00 2025 Kubota HLR Gold Cup Race of Champions at Silver Dollar Speedway - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
+
+#EXTINF:-1 tvg-id="2025 School Bus Demolition Derby at Riverhead Raceway - 2025 School Bus Demolition Derby at Riverhead Raceway" tvg-name="23:00 2025 School Bus Demolition Derby at Riverhead Raceway - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="2025 NAPA All Star Circuit of Champions at Waynesfield Raceway Park - 2025 NAPA All Star Circuit of Champions at Waynesfield Raceway Park" tvg-name="23:30 2025 NAPA All Star Circuit of Champions at Waynesfield Raceway Park - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="2025 Lucas Oil Rumble By The River at Port Royal Speedway - 2025 Lucas Oil Rumble By The River at Port Royal Speedway" tvg-name="23:30 2025 Lucas Oil Rumble By The River at Port Royal Speedway - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="Millbridge Sprints - Millbridge Sprints" tvg-name="23:30 Millbridge Sprints - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="Land of Legends Late Models - Land of Legends Late Models" tvg-name="00:15 Land of Legends Late Models - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="Sharon Speedway Sprint Cars - Sharon Speedway Sprint Cars" tvg-name="00:30 Sharon Speedway Sprint Cars - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="2025 IMCA Championship Night at 141 Speedway - 2025 IMCA Championship Night at 141 Speedway" tvg-name="00:55 2025 IMCA Championship Night at 141 Speedway - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="2025 Kramer Klash at Lincoln Speedway - 2025 Kramer Klash at Lincoln Speedway" tvg-name="01:00 2025 Kramer Klash at Lincoln Speedway - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars Red River - World of Outlaws Sprint Cars Red River" tvg-name="01:15 World of Outlaws Sprint Cars Red River - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="Knoxville Sprint Cars - Knoxville Sprint Cars" tvg-name="01:30 Knoxville Sprint Cars - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="IRA Sprints LaSalle - IRA Sprints LaSalle" tvg-name="01:30 IRA Sprints LaSalle - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="Championship Night Bowman Gray - Championship Night Bowman Gray" tvg-name="01:45 Championship Night Bowman Gray - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="Mars Late Models Red Hill - Mars Late Models Red Hill" tvg-name="01:45 Mars Late Models Red Hill - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="GCW - Homecoming Weekend 2025, Day 1" tvg-name="02:00 GCW: Homecoming Weekend 2025, Day 1 - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-172.php
+
+#EXTINF:-1 tvg-id="Armored MMA 2025 - Medieval Cage Fighting Championship, Nashville, TN" tvg-name="02:00 Armored MMA 2025: Medieval Cage Fighting Championship, Nashville, TN - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Arrowhead - World of Outlaws Late Models Arrowhead" tvg-name="02:15 World of Outlaws Late Models Arrowhead - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series Big Sky - American Sprint Car Series Big Sky" tvg-name="02:15 American Sprint Car Series Big Sky - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="Miura Boxing - Jose Andres Teran vs. Luis Guzman" tvg-name="03:00 Miura Boxing : Jose Andres Teran vs. Luis Guzman - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", DAZN PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="Tuff-N-Uff 147 - Tuff-N-Uff 147" tvg-name="04:00 Tuff-N-Uff 147 - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-177.php
+
 #EXTINF:-1 tvg-id="England - Championship - Swansea City vs Watford" tvg-name="13:30 England - Championship : Swansea City vs Watford - 23/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
 
