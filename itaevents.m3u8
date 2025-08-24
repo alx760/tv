@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AEW x NJPW Forbidden Door 2025 - AEW x NJPW Forbidden Door 2025" tvg-name="19:00 AEW x NJPW Forbidden Door 2025 - 24/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
+
+#EXTINF:-1 tvg-id="AEW x NJPW Forbidden Door 2025 - AEW x NJPW Forbidden Door 2025" tvg-name="19:00 AEW x NJPW Forbidden Door 2025 - 24/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="AEW x NJPW Forbidden Door 2025 - AEW x NJPW Forbidden Door 2025" tvg-name="19:00 AEW x NJPW Forbidden Door 2025 - 24/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="GCW - Homecoming Weekend 2025, Day 2" tvg-name="23:00 GCW: Homecoming Weekend 2025, Day 2 - 24/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="2025 Alan Kulwicki Memorial at Slinger Speedway - 2025 Alan Kulwicki Memorial at Slinger Speedway" tvg-name="00:45 2025 Alan Kulwicki Memorial at Slinger Speedway - 24/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
+
+#EXTINF:-1 tvg-id="Husets Sprint Cars - Husets Sprint Cars" tvg-name="01:30 Husets Sprint Cars - 24/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
 #EXTINF:-1 tvg-id="Austria - 2. Liga - Rapid Wien II vs Austria Wien II" tvg-name="10:30 Austria - 2. Liga : Rapid Wien II vs Austria Wien II - 24/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", ORF Sport Plus
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
 
