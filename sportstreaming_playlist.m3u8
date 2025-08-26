@@ -14,12 +14,3 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sport
 #EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live5.png" tvg-id="tennis" tvg-name="Tennis",Tennis (SpS)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3178.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live9.png" tvg-id="udinese-verona" tvg-name="Udinese - Verona",Udinese - Verona (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3200.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live20.png" tvg-id="sampdoria-modena" tvg-name="Sampdoria - Modena",Sampdoria - Modena (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3218.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live10.png" tvg-id="inter-torino" tvg-name="Inter - Torino",Inter - Torino (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/3190.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
