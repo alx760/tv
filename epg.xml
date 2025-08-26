@@ -67881,26 +67881,6 @@ ATB - Your Love</desc>
     <desc lang="it">Fight Sports: Boxing : Anthony Joshua vs. Wladimir Klitschko</desc>
     <category lang="it">Boxing</category>
   </programme>
-  <programme start="20250826000000 +0200" stop="20250826080000 +0200" channel="wuhanopenround3">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Wuhan Open | Round 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250826080000 +0200" stop="20250826100000 +0200" channel="wuhanopenround3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Wuhan Open | Round 3</desc>
-    <category lang="it">Snooker</category>
-  </programme>
-  <programme start="20250826000000 +0200" stop="20250826080000 +0200" channel="wuhanopenround3">
-    <title lang="it">Inizia alle 08:00.</title>
-    <desc lang="it">Wuhan Open | Round 3.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250826080000 +0200" stop="20250826100000 +0200" channel="wuhanopenround3">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Wuhan Open | Round 3</desc>
-    <category lang="it">Snooker</category>
-  </programme>
   <programme start="20250826000000 +0200" stop="20250826133000 +0200" channel="wuhanopenround3">
     <title lang="it">Inizia alle 13:30.</title>
     <desc lang="it">Wuhan Open | Round 3.</desc>
