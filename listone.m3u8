@@ -18,6 +18,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/33735102423e6e7
 #EXTINF:-1 tvg-id="boing.it" tvg-name="Boing (2)" tvg-logo="" group-title="Bambini",BOING (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="boingplus.it" tvg-name="Boing Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -68,6 +71,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2745635299ab0cc
 
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="Dazn 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport",DAZN 1 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1376440573d46b3d682e20&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="dazn2.it" tvg-name="Dazn 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/882px-DAZN_2.svg.png" group-title="Sport",DAZN 2 (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3635062218e0132c616db&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="deejaytv.it" tvg-name="Deejay Tv" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/deejay-tv-it.png" group-title="Altro",DEEJAY TV (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/963607327f90ada131395&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -267,9 +273,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1803677691b051b
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -453,12 +456,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/18766170987dd5e
 #EXTINF:-1 tvg-id="skyprimafila15.it" tvg-name="Sky Primafila 15" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 15 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/911168573d54b185731b5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skyprimafila16.it" tvg-name="Sky Primafila 16" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 16 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/191150052585174f4ea582&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyprimafila17.it" tvg-name="Sky Primafila 17" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 17 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1284441949890c3c5c3d9d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skyprimafila18.it" tvg-name="Sky Primafila 18" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 18 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/347075802871b4b6547803&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -505,6 +502,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/213025533947852
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/14407790614bc8041c450d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 9 (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/113411388318bf0ef81722&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skyprimafila9.it" tvg-name="Sky Primafila 9 (2)" tvg-logo="" group-title="Film;Sky",SKY PRIMAFILA 9 (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17532606771304e2497369&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyserie.it" tvg-name="Sky Serie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-serie-it.png" group-title="Film;Sky",SKY SERIE (V)
@@ -531,15 +531,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1665920101d5db6
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (2)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (3)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (3)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (4)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (4)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -564,14 +555,8 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/271195962000118
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis (2)" tvg-logo="" group-title="Sport",SKY SPORT TENNIS (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/78546677680f40b76841&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportuno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Sport",SKY SPORT UNO (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/210669162201ec2365574&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1659,6 +1644,72 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sport
 
 #EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live5.png" tvg-id="tennis" tvg-name="Tennis",Tennis (SpS)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1623.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live21.png" tvg-id="skyserie.it" tvg-name="Zona Serie A",Zona Serie A (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1624.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live22.png" tvg-id="skyserie.it" tvg-name="Zona Serie B",Zona Serie B (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1645.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="cremonese-sassuolo" tvg-name="Cremonese - Sassuolo",Cremonese - Sassuolo (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1653.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live2.png" tvg-id="lecce-milan" tvg-name="Lecce - Milan",Lecce - Milan (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1637.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live3.png" tvg-id="reggiana-empoli" tvg-name="Reggiana - Empoli",Reggiana - Empoli (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1660.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live4.png" tvg-id="bologna-como" tvg-name="Bologna - Como",Bologna - Como (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1626.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live5.png" tvg-id="parma-atalanta" tvg-name="Parma - Atalanta",Parma - Atalanta (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1640.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live8.png" tvg-id="juve-stabia-venezia" tvg-name="Juve Stabia - Venezia",Juve Stabia - Venezia (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1655.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live9.png" tvg-id="mantova-pescara" tvg-name="Mantova - Pescara",Mantova - Pescara (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1656.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live6.png" tvg-id="napoli-cagliari" tvg-name="Napoli - Cagliari",Napoli - Cagliari (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1639.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live7.png" tvg-id="pisa-roma" tvg-name="Pisa - Roma",Pisa - Roma (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1641.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live10.png" tvg-id="cesena-entella" tvg-name="Cesena - Entella",Cesena - Entella (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1650.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live11.png" tvg-id="palermo-frosinone" tvg-name="Palermo - Frosinone",Palermo - Frosinone (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1654.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live12.png" tvg-id="spezia-catanzaro" tvg-name="Spezia - Catanzaro",Spezia - Catanzaro (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1664.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live13.png" tvg-id="genoa-juventus" tvg-name="Genoa - Juventus",Genoa - Juventus (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1634.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live14.png" tvg-id="torino-fiorentina" tvg-name="Torino - Fiorentina",Torino - Fiorentina (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1642.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live17.png" tvg-id="carrarese-padova" tvg-name="Carrarese - Padova",Carrarese - Padova (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1648.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live18.png" tvg-id="sudtirol-sampdoria" tvg-name="Sudtirol - Sampdoria",Sudtirol - Sampdoria (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1661.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live15.png" tvg-id="inter-udinese" tvg-name="Inter - Udinese",Inter - Udinese (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1633.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live16.png" tvg-id="lazio-verona" tvg-name="Lazio - Verona",Lazio - Verona (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1635.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live19.png" tvg-id="bari-monza" tvg-name="Bari - Monza",Bari - Monza (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1646.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live20.png" tvg-id="modena-avellino" tvg-name="Modena - Avellino",Modena - Avellino (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1657.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
 
 
