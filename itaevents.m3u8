@@ -1565,6 +1565,9 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-982.php
 #EXTINF:-1 tvg-id="NCCAFBS - Tarleton State vs Army" tvg-name="00:00 NCCAFBS : Tarleton State vs Army - 29/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CBS Sports Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
 
+#EXTINF:-1 tvg-id="NCCAFBS - Campbell vs Rhode Island" tvg-name="00:00 NCCAFBS : Campbell vs Rhode Island - 29/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
+
 #EXTINF:-1 tvg-id="NCCAFBS - Kennesaw State vs Wake Forest" tvg-name="01:00 NCCAFBS : Kennesaw State vs Wake Forest - 29/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ACC Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-664.php
 
@@ -1573,6 +1576,21 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-316.php
 
 #EXTINF:-1 tvg-id="NCCAFBS - Western Michigan vs Michigan State" tvg-name="01:00 NCCAFBS : Western Michigan vs Michigan State - 29/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Fox Sports 1 USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="NCCAFBS - Bethune-Cookman vs FIU" tvg-name="01:00 NCCAFBS : Bethune-Cookman vs FIU - 29/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-59.php
+
+#EXTINF:-1 tvg-id="NCCAFBS - Duke's Mayo Classic Appalachian State vs Charlotte" tvg-name="01:00 NCCAFBS : Duke's Mayo Classic Appalachian State vs Charlotte - 29/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-68.php
+
+#EXTINF:-1 tvg-id="NCCAFBS - New Haven vs Marist" tvg-name="01:00 NCCAFBS : New Haven vs Marist - 29/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-76.php
+
+#EXTINF:-1 tvg-id="NCCAFBS - Western Illinois vs Illinois" tvg-name="01:30 NCCAFBS : Western Illinois vs Illinois - 29/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
+
+#EXTINF:-1 tvg-id="NCCAFBS - Wagner vs Kansa" tvg-name="01:30 NCCAFBS : Wagner vs Kansa - 29/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-86.php
 
 #EXTINF:-1 tvg-id="NCCAFBS - Auburn vs Baylor" tvg-name="02:00 NCCAFBS : Auburn vs Baylor - 29/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", FOX USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-54.php
