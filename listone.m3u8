@@ -6,9 +6,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/12303381856673f
 #EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twenty Seven" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/260px-Twentyseven_logo.svg.png" group-title="Mediaset",27 TWENTY SEVEN (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/6087746837741766a74b3&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="27twentyseven.it" tvg-name="27 Twentyseven" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/20-it.png" group-title="Mediaset",27 TWENTYSEVEN (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/80896559d4a6e09d36f1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="animalplanet.it" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/2560px-2018_Animal_Planet_logo.svg.png" group-title="Sky",ANIMAL PLANET (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/190887752614ef25f5e1fd&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -17,6 +14,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/33735102423e6e7
 
 #EXTINF:-1 tvg-id="boing.it" tvg-name="Boing (2)" tvg-logo="" group-title="Bambini",BOING (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3022771961a341b55db1c5&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="boingplus.it" tvg-name="Boing Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1200px-Boing_Plus_logo_2020.svg.png" group-title="Bambini",BOING PLUS (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3841982646469504c9c5fc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="canale5.it" tvg-name="Canale 5" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/canale5-it.png" group-title="Mediaset",CANALE 5 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/15341618078b08a3db572d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -150,9 +150,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42489970292d293
 #EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -191,9 +188,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/313448120145a64
 
 #EXTINF:-1 tvg-id="mediasetextra.it" tvg-name="Mediaset Extra" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/mediaset-extra-it.png" group-title="Intrattenimento;Mediaset",MEDIASET EXTRA (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/4774665319f73c392df0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="mediasetinfinity+1.it" tvg-name="Mediaset Infinity+ 1" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 1 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3599959739ed5ed2f1f0cd&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="mediasetinfinity+2.it" tvg-name="Mediaset Infinity+ 2" tvg-logo="https://play-lh.googleusercontent.com/2-Cl0plYUCxk8bnbeavm4ZOJ_S4Xuwmql_N3_E4OJyf7XK_YUvdNOWgzn8KD-Bur8w0" group-title="Intrattenimento;Mediaset",MEDIASET INFINITY+ 2 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2436070507988d651c6548&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -402,9 +396,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1228534500ffff8
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA DUE (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/41579514488d1c92affa7&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -549,26 +540,14 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/198930923100c09
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/729945219d6146597896a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf (2)" tvg-logo="" group-title="Sport",SKY SPORT GOLF (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3897711086f5655aa4d5fb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportmax.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Sport",SKY SPORT MAX (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/206632691678b853b73adb&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Moto Gp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTO GP (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30363168866e9eeb997936&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportmotogp.it" tvg-name="Sky Sport Motogp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Sport",SKY SPORT MOTOGP (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2090703806f47d7eb551ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Sport",SKY SPORT NBA (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/271195962000118dca31ce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportnba.it" tvg-name="Sky Sport Nba (2)" tvg-logo="" group-title="Sport",SKY SPORT NBA (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3268253262aec282eb346&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportseriea.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Sport",SKY SPORT SERIE A (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2077387085cfe0f64122dc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysporttennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SPORT TENNIS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/210077178262e76f204fa6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -585,9 +564,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3192996672d2c92
 #EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sports F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORTS F1 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/22890389722acc4573933d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="supertennis.it" tvg-name="Sky Super Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Sport",SKY SUPER TENNIS (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/55828211836e421b20575&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/33760313550167605877f1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -596,9 +572,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3180571288b9875
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2130523218823893ad0255&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno (2)" tvg-logo="" group-title="Sky",SKY UNO (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/32202484989ac14421915&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="sportitalia.it" tvg-name="Sport Italia" tvg-logo="https://play-lh.googleusercontent.com/0IcWROAOpuEcMf2qbOBNQYhrAPUuSmw-zv0f867kUxKSwSTD_chyCDuBP2PScIyWI9k" group-title="Sport;Mediaset",SPORT ITALIA (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/288173992763b00e6fdc82&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -1819,6 +1792,72 @@ https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//abe6fjxaaa
 
 # Playlist generata da ThisNotBusiness
 # Playlist generata da SkyStreaming
+#EXTINF:-1 tvg-id="2025 American Flat Track at Springfield Mile - 2025 American Flat Track at Springfield Mile" tvg-name="17:00 2025 American Flat Track at Springfield Mile - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-214.php
+
+#EXTINF:-1 tvg-id="2025 USAC Ted Horn 100 at Du Quoin State Fairgrounds - 2025 USAC Ted Horn 100 at Du Quoin State Fairgrounds" tvg-name="19:00 2025 USAC Ted Horn 100 at Du Quoin State Fairgrounds - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-180.php
+
+#EXTINF:-1 tvg-id="2025 Polaris World Championships - 2025 Polaris World Championships" tvg-name="21:30 2025 Polaris World Championships - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
+
+#EXTINF:-1 tvg-id="2025 Porsche Sprint Challenge at Watkins Glen International - 2025 Porsche Sprint Challenge at Watkins Glen International" tvg-name="22:00 2025 Porsche Sprint Challenge at Watkins Glen International - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="2025 SMART Modified Tour Carteret Clash at Carteret County Speedway - 2025 SMART Modified Tour Carteret Clash at Carteret County Speedway" tvg-name="22:00 2025 SMART Modified Tour Carteret Clash at Carteret County Speedway - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="2025 NASCAR Modifieds at Riverhead Raceway - 2025 NASCAR Modifieds at Riverhead Raceway" tvg-name="23:15 2025 NASCAR Modifieds at Riverhead Raceway - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-108.php
+
+#EXTINF:-1 tvg-id="2025 NASCAR Whelen Modified Tour at Oswego Speedway - 2025 NASCAR Whelen Modified Tour at Oswego Speedway" tvg-name="23:30 2025 NASCAR Whelen Modified Tour at Oswego Speedway - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-109.php
+
+#EXTINF:-1 tvg-id="2025 Butch Renninger Memorial at Port Royal Speedway - 2025 Butch Renninger Memorial at Port Royal Speedway" tvg-name="23:30 2025 Butch Renninger Memorial at Port Royal Speedway - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-110.php
+
+#EXTINF:-1 tvg-id="Volusia Speedway Sprint Cars - Volusia Speedway Sprint Cars" tvg-name="00:00 Volusia Speedway Sprint Cars - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="Land of Legends Late Models - Land of Legends Late Models" tvg-name="00:15 Land of Legends Late Models - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
+
+#EXTINF:-1 tvg-id="2025 Ohio Wheelman Series at Jennerstown - 2025 Ohio Wheelman Series at Jennerstown" tvg-name="00:20 2025 Ohio Wheelman Series at Jennerstown - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="NAPA All Star Sprints Attica - NAPA All Star Sprints Attica" tvg-name="00:30 NAPA All Star Sprints Attica - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="Labor Day Duel Lincoln Speedway - Labor Day Duel Lincoln Speedway" tvg-name="00:30 Labor Day Duel Lincoln Speedway - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-157.php
+
+#EXTINF:-1 tvg-id="IRA Sprints Car Beaver Dam - IRA Sprints Car Beaver Dam" tvg-name="00:30 IRA Sprints Car Beaver Dam - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="2025 MARS Illinois Dirt Shootout at Fairbury Speedway - 2025 MARS Illinois Dirt Shootout at Fairbury Speedway" tvg-name="00:30 2025 MARS Illinois Dirt Shootout at Fairbury Speedway - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="Hillbilly Hundred Lernerville Speedway - Hillbilly Hundred Lernerville Speedway" tvg-name="01:00 Hillbilly Hundred Lernerville Speedway - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="Bobby Isaac Memorial Hickory Motor Speedway - Bobby Isaac Memorial Hickory Motor Speedway" tvg-name="01:00 Bobby Isaac Memorial Hickory Motor Speedway - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars Husets - World of Outlaws Sprint Cars Husets" tvg-name="01:15 World of Outlaws Sprint Cars Husets - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="Labor Day Shootout - Labor Day Shootout" tvg-name="02:00 Labor Day Shootout - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="Louie Vermeil Classic Calistoga Speedway - Louie Vermeil Classic Calistoga Speedway" tvg-name="02:00 Louie Vermeil Classic Calistoga Speedway - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="Amercan Sprint Car Series Electric City - Amercan Sprint Car Series Electric City" tvg-name="02:45 Amercan Sprint Car Series Electric City - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-172.php
+
+#EXTINF:-1 tvg-id="FSW - Future Shock 2025" tvg-name="04:00 FSW: Future Shock 2025 - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
+
 #EXTINF:-1 tvg-id="England - Championship - Stoke City vs West Bromwich Albion" tvg-name="13:30 England - Championship : Stoke City vs West Bromwich Albion - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky Sports+
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-177.php
 
@@ -4636,20 +4675,59 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-316.php
 #EXTINF:-1 tvg-id="NCAA FBS - Ball State at Purdue" tvg-name="18:00 NCAA FBS : Ball State at Purdue - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Big Ten Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-397.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - North Dakota State at The Citadel" tvg-name="18:00 NCAA FBS : North Dakota State at The Citadel - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-215.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Richmond at Lehigh" tvg-name="18:00 NCAA FBS : Richmond at Lehigh - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-216.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Merrimack at Kent State" tvg-name="18:00 NCAA FBS : Merrimack at Kent State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-217.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - FAU at Maryland" tvg-name="18:00 NCAA FBS : FAU at Maryland - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Big Ten Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-397.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Toledo at Kentucky" tvg-name="18:45 NCAA FBS : Toledo at Kentucky - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", SEC Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-385.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Georgetown at Davidson" tvg-name="19:00 NCAA FBS : Georgetown at Davidson - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Fordham at Boston College" tvg-name="20:00 NCAA FBS : Fordham at Boston College - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - William & Mary at Furman" tvg-name="20:00 NCAA FBS : William & Mary at Furman - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-181.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Robert Morris at West Virginia" tvg-name="20:00 NCAA FBS : Robert Morris at West Virginia - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Stonehill at Sacred Heart" tvg-name="20:00 NCAA FBS : Stonehill at Sacred Heart - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-183.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Virginia-Lynchburg at Valparaiso" tvg-name="20:00 NCAA FBS : Virginia-Lynchburg at Valparaiso - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-184.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - CCSU at UConn" tvg-name="20:00 NCAA FBS : CCSU at UConn - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-185.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Butler at Northern Iowa" tvg-name="20:00 NCAA FBS : Butler at Northern Iowa - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-186.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Old Dominion at Indiana" tvg-name="20:30 NCAA FBS : Old Dominion at Indiana - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Fox Sports 1
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Cumberland at Tennessee Tech" tvg-name="20:30 NCAA FBS : Cumberland at Tennessee Tech - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-187.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Eastern Kentucky at Louisville" tvg-name="21:00 NCAA FBS : Eastern Kentucky at Louisville - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ACC Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-664.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Bucknell at Air Force" tvg-name="21:30 NCAA FBS : Bucknell at Air Force - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CBS Sports Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Chadron State at Northern Colorado" tvg-name="21:30 NCAA FBS : Chadron State at Northern Colorado - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Marshall at Georgia" tvg-name="21:30 NCAA FBS : Marshall at Georgia - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
@@ -4678,14 +4756,53 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-112.php
 #EXTINF:-1 tvg-id="NCAA FBS - Alabama at Florida State" tvg-name="21:30 NCAA FBS : Alabama at Florida State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Sport Klub 3 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Holy Cross at NIU" tvg-name="21:30 NCAA FBS : Holy Cross at NIU - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Temple at UMass" tvg-name="21:30 NCAA FBS : Temple at UMass - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Montana State at Oregon" tvg-name="22:00 NCAA FBS : Montana State at Oregon - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Big Ten Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-397.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Howard at Florida A&M" tvg-name="22:00 NCAA FBS : Howard at Florida A&M - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPNU USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-316.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Maine at Liberty" tvg-name="22:00 NCAA FBS : Maine at Liberty - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-188.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Alabama A&M at Arkansas" tvg-name="22:05 NCAA FBS : Alabama A&M at Arkansas - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", SEC Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-385.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Carolina A&T at Tennessee State" tvg-name="22:30 NCAA FBS : North Carolina A&T at Tennessee State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-189.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Chattanooga at Memphis" tvg-name="22:30 NCAA FBS : Chattanooga at Memphis - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-190.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Southern at MVSU" tvg-name="23:00 NCAA FBS : Southern at MVSU - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-191.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Murray State at ETSU" tvg-name="23:30 NCAA FBS : Murray State at ETSU - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Weber State at James Madison" tvg-name="00:00 NCAA FBS : Weber State at James Madison - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Allen at Morehead State" tvg-name="00:00 NCAA FBS : Allen at Morehead State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Illinois State at 18 Oklahoma" tvg-name="00:00 NCAA FBS : Illinois State at 18 Oklahoma - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Gardner-Webb at Western Carolina" tvg-name="00:00 NCAA FBS : Gardner-Webb at Western Carolina - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - New Hampshire at NC Central" tvg-name="00:00 NCAA FBS : New Hampshire at NC Central - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-179.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Wofford at SC State" tvg-name="00:00 NCAA FBS : Wofford at SC State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-192.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Coastal Carolina at Virginia" tvg-name="00:00 NCAA FBS : Coastal Carolina at Virginia - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ACC Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-664.php
@@ -4693,8 +4810,50 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-664.php
 #EXTINF:-1 tvg-id="NCAA FBS - UAlbany vs Iowa" tvg-name="00:00 NCAA FBS : UAlbany vs Iowa - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Fox Sports 1
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Webber Intl. at Stetson" tvg-name="00:00 NCAA FBS : Webber Intl. at Stetson - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-193.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Presbyterian at Mercer" tvg-name="00:00 NCAA FBS : Presbyterian at Mercer - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-194.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - UTSA at Texas A&M" tvg-name="01:00 NCAA FBS : UTSA at Texas A&M - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Louisiana Christian at McNeese" tvg-name="01:00 NCAA FBS : Louisiana Christian at McNeese - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-181.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Morgan State at South Alabama" tvg-name="01:00 NCAA FBS : Morgan State at South Alabama - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - LIU at 15 Florida" tvg-name="01:00 NCAA FBS : LIU at 15 Florida - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-183.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Thomas More at Southern Illinois" tvg-name="01:00 NCAA FBS : Thomas More at Southern Illinois - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-184.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Nicholls at Troy" tvg-name="01:00 NCAA FBS : Nicholls at Troy - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-185.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Dakota at 17 Kansas State" tvg-name="01:00 NCAA FBS : North Dakota at 17 Kansas State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-186.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Southeast Missouri at Arkansas State" tvg-name="01:00 NCAA FBS : Southeast Missouri at Arkansas State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-187.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Sacramento State at South Dakota State" tvg-name="01:00 NCAA FBS : Sacramento State at South Dakota State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Charleston So. at Vanderbilt" tvg-name="01:00 NCAA FBS : Charleston So. at Vanderbilt - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Austin Peay at Middle Tennessee" tvg-name="01:00 NCAA FBS : Austin Peay at Middle Tennessee - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Alabama vs Western Kentucky" tvg-name="01:00 NCAA FBS : North Alabama vs Western Kentucky - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-177.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Eastern Washington at UIW" tvg-name="01:00 NCAA FBS : Eastern Washington at UIW - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-195.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Missouri State at Southern California" tvg-name="01:30 NCAA FBS : Missouri State at Southern California - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Big Ten Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-397.php
@@ -4723,20 +4882,56 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-53.php
 #EXTINF:-1 tvg-id="NCAA FBS - New Mexico at Michigan" tvg-name="01:30 NCAA FBS : New Mexico at Michigan - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", NBCNY USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-769.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Southeastern La. at Louisiana Tech" tvg-name="01:30 NCAA FBS : Southeastern La. at Louisiana Tech - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-196.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - UAPB at 23 Texas Tech" tvg-name="01:30 NCAA FBS : UAPB at 23 Texas Tech - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-197.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Georgia State at Ole Miss" tvg-name="01:45 NCAA FBS : Georgia State at Ole Miss - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", SEC Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-385.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Abilene Christian at Tulsa" tvg-name="02:00 NCAA FBS : Abilene Christian at Tulsa - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-198.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Sul Ross State at UTRGV" tvg-name="02:00 NCAA FBS : Sul Ross State at UTRGV - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-199.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Lamar at North Texas" tvg-name="02:00 NCAA FBS : Lamar at North Texas - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-200.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Rice at Louisiana" tvg-name="02:00 NCAA FBS : Rice at Louisiana - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-188.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Eastern Michigan at Texas State" tvg-name="02:00 NCAA FBS : Eastern Michigan at Texas State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-189.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Portland State at 10 BYU" tvg-name="02:00 NCAA FBS : Portland State at 10 BYU - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-190.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Idaho State at Southern Utah" tvg-name="02:30 NCAA FBS : Idaho State at Southern Utah - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-191.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - East Texas A&M at SMU" tvg-name="03:00 NCAA FBS : East Texas A&M at SMU - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ACC Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-664.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Bryant at New Mexico State" tvg-name="03:00 NCAA FBS : Bryant at New Mexico State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-192.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Georgia Southern at Fresno State" tvg-name="03:30 NCAA FBS : Georgia Southern at Fresno State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Fox Sports 1
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
 
-#EXTINF:-1 tvg-id="NCAA FBS - Idaho at Washington State The" tvg-name="04:00 NCAA FBS : Idaho at Washington State The - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CW
+#EXTINF:-1 tvg-id="NCAA FBS - Idaho at Washington State" tvg-name="04:00 NCAA FBS : Idaho at Washington State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", The CW
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-300.php
 
-#EXTINF:-1 tvg-id="NCAA FBS - Idaho at Washington State The" tvg-name="04:00 NCAA FBS : Idaho at Washington State The - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CW PIX 11 USA
+#EXTINF:-1 tvg-id="NCAA FBS - Idaho at Washington State" tvg-name="04:00 NCAA FBS : Idaho at Washington State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CW PIX 11 USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-280.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Northern Arizona at 11 Arizona State" tvg-name="04:00 NCAA FBS : Northern Arizona at 11 Arizona State - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-193.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - UC Davis at Utah Tech" tvg-name="04:00 NCAA FBS : UC Davis at Utah Tech - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-194.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Hawaii at Arizona" tvg-name="04:30 NCAA FBS : Hawaii at Arizona - 30/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", TNT USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-338.php
