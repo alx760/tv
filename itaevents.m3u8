@@ -2675,6 +2675,18 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-142.php
 #EXTINF:-1 tvg-id="ARCA Menards Series Southern Illinois 100 - ARCA Menards Series Southern Illinois 100" tvg-name="01:30 ARCA Menards Series Southern Illinois 100 - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Fox Sports 1 USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
 
+#EXTINF:-1 tvg-id="WWE Clash in Paris 2025 - WWE Clash in Paris 2025" tvg-name="20:00 WWE Clash in Paris 2025 - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", WWE PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="WWE Clash in Paris 2025 - WWE Clash in Paris 2025" tvg-name="20:00 WWE Clash in Paris 2025 - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", WWE PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="WWE Clash in Paris 2025 - WWE Clash in Paris 2025" tvg-name="20:00 WWE Clash in Paris 2025 - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", WWE PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="WWE Clash in Paris 2025 - WWE Clash in Paris 2025" tvg-name="20:00 WWE Clash in Paris 2025 - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe", WWE PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
 #EXTINF:-1 tvg-id="European League of Football - Munich Ravens vs Stuttgart Surge" tvg-name="15:00 European League of Football : Munich Ravens vs Stuttgart Surge - 31/08/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Polsat Sport Fight Poland
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-110.php
 
