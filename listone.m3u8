@@ -28,6 +28,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/15341618078b08a
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/110155966670807e698f7d&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoon-network-it.png" group-title="Bambini",CARTOON NETWORK (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1744435623b422a758373c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="cartoonnetwork.it" tvg-name="Cartoon Network (2)" tvg-logo="" group-title="Bambini",CARTOON NETWORK (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1289777017c50e3cf3fd74&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/cartoonito-it.png" group-title="Bambini",CARTOONITO (V)
@@ -146,6 +149,12 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/28977827817ceee
 
 #EXTINF:-1 tvg-id="hgtv.it" tvg-name="Hgtv (2)" tvg-logo="" group-title="Discovery",HGTV (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42489970292d2930202d0e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="history.it" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/history-channel-it.png" group-title="Documentari;Sky",HISTORY (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3178376547e2dcc234152&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="history.it" tvg-name="History (2)" tvg-logo="" group-title="Documentari;Sky",HISTORY (V) (2)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2134724757fd92e3286ea6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="iris.it" tvg-name="Iris" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/iris-it.png" group-title="Mediaset",IRIS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/576490047036ac0227958&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -312,6 +321,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/178550192490bfb
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI YOYO (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="rakutenactionmovies.it" tvg-name="Rakuten Action Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN ACTION MOVIES (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30648111922089ed4a29cc&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="rakutencomedymovies.it" tvg-name="Rakuten Comedy Movies" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Film;Rakuten",RAKUTEN COMEDY MOVIES (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/11093727783b90d83934c6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -412,6 +424,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/18209975559b8c5
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3060043751014db62f5b06&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/28721519114f66aff68e22&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno (2)" tvg-logo="" group-title="Film;Sky",SKY CINEMA UNO (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
@@ -529,15 +544,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/449990998077a76
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio (3)" tvg-logo="" group-title="Sport",SKY SPORT CALCIO (V) (3)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1 (2)" tvg-logo="" group-title="Sport",SKY SPORT F1 (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football (2)" tvg-logo="" group-title="Sport",SKY SPORT FOOTBALL (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
@@ -1660,21 +1666,6 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sport
 #EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live5.png" tvg-id="tennis" tvg-name="Tennis",Tennis (SpS)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1623.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live21.png" tvg-id="skyserie.it" tvg-name="Zona Serie A",Zona Serie A (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1624.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live15.png" tvg-id="inter-udinese" tvg-name="Inter - Udinese",Inter - Udinese (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1633.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live16.png" tvg-id="lazio-verona" tvg-name="Lazio - Verona",Lazio - Verona (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1635.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live19.png" tvg-id="bari-monza" tvg-name="Bari - Monza",Bari - Monza (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1646.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live20.png" tvg-id="modena-avellino" tvg-name="Modena - Avellino",Modena - Avellino (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1657.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
 
 
 
@@ -1914,6 +1905,81 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-392.php
 
 #EXTINF:-1 tvg-id="NWSL - Angel City vs Bay FC" tvg-name="03:00 NWSL : Angel City vs Bay FC - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Network USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="Riedi L. vs De Minaur A. - Riedi L. vs De Minaur A." tvg-name="17:00 Riedi L. vs De Minaur A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="Auger-Aliassime F. vs Rublev A. - Auger-Aliassime F. vs Rublev A." tvg-name="17:30 Auger-Aliassime F. vs Rublev A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Musetti L. vs Munar J. - Musetti L. vs Munar J." tvg-name="20:30 Musetti L. vs Munar J. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="Sinner J. vs Bublik A. - Sinner J. vs Bublik A." tvg-name="01:00 Sinner J. vs Bublik A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Kostyuk M. vs Muchova K. - Kostyuk M. vs Muchova K." tvg-name="19:00 Kostyuk M. vs Muchova K. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="Alexandrova E. v Swiatek I. - Alexandrova E. v Swiatek I." tvg-name="19:00 Alexandrova E. v Swiatek I. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="Alexandrova E. v Swiatek I. - Alexandrova E. v Swiatek I." tvg-name="19:00 Alexandrova E. v Swiatek I. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1519.php
+
+#EXTINF:-1 tvg-id="Osaka N. vs Gauff C. - Osaka N. vs Gauff C." tvg-name="19:30 Osaka N. vs Gauff C. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Anisimova A. vs Haddad Maia B. - Anisimova A. vs Haddad Maia B." tvg-name="03:00 Anisimova A. vs Haddad Maia B. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Williams C./Winegar T. vs Krawietz K./Puetz T. - Williams C./Winegar T. vs Krawietz K./Puetz T." tvg-name="17:00 Williams C./Winegar T. vs Krawietz K./Puetz T. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="Bhambri Y./Venus M. vs Escobar G./Reyes-Varela M. A. - Bhambri Y./Venus M. vs Escobar G./Reyes-Varela M. A." tvg-name="18:30 Bhambri Y./Venus M. vs Escobar G./Reyes-Varela M. A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="Cabral F./Miedler L. vs Pavlasek A./Zielinski J. - Cabral F./Miedler L. vs Pavlasek A./Zielinski J." tvg-name="18:30 Cabral F./Miedler L. vs Pavlasek A./Zielinski J. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="Machac T./Vocel M. vs Arevalo M./Pavic M. - Machac T./Vocel M. vs Arevalo M./Pavic M." tvg-name="20:00 Machac T./Vocel M. vs Arevalo M./Pavic M. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="McDonald M./Quinn E. vs Granollers M./Zeballos H. - McDonald M./Quinn E. vs Granollers M./Zeballos H." tvg-name="20:00 McDonald M./Quinn E. vs Granollers M./Zeballos H. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="Cash R./Tracy J. vs Bolelli S./Vavassori A. - Cash R./Tracy J. vs Bolelli S./Vavassori A." tvg-name="20:30 Cash R./Tracy J. vs Bolelli S./Vavassori A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="Gonzalez M./Molteni A. vs Harper C./Rojer J. - Gonzalez M./Molteni A. vs Harper C./Rojer J." tvg-name="20:30 Gonzalez M./Molteni A. vs Harper C./Rojer J. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="Matos R./Melo M. vs Doumbia S./Reboul F. - Matos R./Melo M. vs Doumbia S./Reboul F." tvg-name="22:00 Matos R./Melo M. vs Doumbia S./Reboul F. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="Xu Y./Yang Z. vs Babos T./Stefani L. - Xu Y./Yang Z. vs Babos T./Stefani L." tvg-name="17:00 Xu Y./Yang Z. vs Babos T./Stefani L. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="Aoyama S./Wang Y. vs Andreeva M./Shnaider D. - Aoyama S./Wang Y. vs Andreeva M./Shnaider D." tvg-name="18:30 Aoyama S./Wang Y. vs Andreeva M./Shnaider D. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="Bucsa C./Melichar-Martinez N. vs Dabrowski/Routliffe - Bucsa C./Melichar-Martinez N. vs Dabrowski/Routliffe" tvg-name="20:00 Bucsa C./Melichar-Martinez N. vs Dabrowski/Routliffe - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="Muhammad A./Schuurs D. vs Danilina A./Krunic A. - Muhammad A./Schuurs D. vs Danilina A./Krunic A." tvg-name="20:00 Muhammad A./Schuurs D. vs Danilina A./Krunic A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="Kudermetova V./Mertens E. vs Kostyuk M./Ruse G. - Kudermetova V./Mertens E. vs Kostyuk M./Ruse G." tvg-name="21:30 Kudermetova V./Mertens E. vs Kostyuk M./Ruse G. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="Stollar F./Wu F. vs Errani S./Paolini J. - Stollar F./Wu F. vs Errani S./Paolini J." tvg-name="21:30 Stollar F./Wu F. vs Errani S./Paolini J. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="Siniakova K./Townsend T. vs Osorio C./Yuan Y. - Siniakova K./Townsend T. vs Osorio C./Yuan Y." tvg-name="22:00 Siniakova K./Townsend T. vs Osorio C./Yuan Y. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="Alexandrova E./Zhang S. vs Fernandez L./Williams V. - Alexandrova E./Zhang S. vs Fernandez L./Williams V." tvg-name="23:00 Alexandrova E./Zhang S. vs Fernandez L./Williams V. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
 
 #EXTINF:-1 tvg-id="US Open Round 1 | Day 9 - US Open Round 1 | Day 9" tvg-name="16:00 US Open Round 1 | Day 9 - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php

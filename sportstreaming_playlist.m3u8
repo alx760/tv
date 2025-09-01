@@ -14,18 +14,3 @@ https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sport
 #EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live5.png" tvg-id="tennis" tvg-name="Tennis",Tennis (SpS)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1623.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live21.png" tvg-id="skyserie.it" tvg-name="Zona Serie A",Zona Serie A (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1624.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live15.png" tvg-id="inter-udinese" tvg-name="Inter - Udinese",Inter - Udinese (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1633.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live16.png" tvg-id="lazio-verona" tvg-name="Lazio - Verona",Lazio - Verona (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1635.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live19.png" tvg-id="bari-monza" tvg-name="Bari - Monza",Bari - Monza (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1646.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live20.png" tvg-id="modena-avellino" tvg-name="Modena - Avellino",Modena - Avellino (SpS)
-https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1657.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
-

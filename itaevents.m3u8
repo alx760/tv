@@ -137,6 +137,81 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-392.php
 #EXTINF:-1 tvg-id="NWSL - Angel City vs Bay FC" tvg-name="03:00 NWSL : Angel City vs Bay FC - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Network USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
 
+#EXTINF:-1 tvg-id="Riedi L. vs De Minaur A. - Riedi L. vs De Minaur A." tvg-name="17:00 Riedi L. vs De Minaur A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="Auger-Aliassime F. vs Rublev A. - Auger-Aliassime F. vs Rublev A." tvg-name="17:30 Auger-Aliassime F. vs Rublev A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Musetti L. vs Munar J. - Musetti L. vs Munar J." tvg-name="20:30 Musetti L. vs Munar J. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="Sinner J. vs Bublik A. - Sinner J. vs Bublik A." tvg-name="01:00 Sinner J. vs Bublik A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Kostyuk M. vs Muchova K. - Kostyuk M. vs Muchova K." tvg-name="19:00 Kostyuk M. vs Muchova K. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="Alexandrova E. v Swiatek I. - Alexandrova E. v Swiatek I." tvg-name="19:00 Alexandrova E. v Swiatek I. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="Alexandrova E. v Swiatek I. - Alexandrova E. v Swiatek I." tvg-name="19:00 Alexandrova E. v Swiatek I. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1519.php
+
+#EXTINF:-1 tvg-id="Osaka N. vs Gauff C. - Osaka N. vs Gauff C." tvg-name="19:30 Osaka N. vs Gauff C. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Anisimova A. vs Haddad Maia B. - Anisimova A. vs Haddad Maia B." tvg-name="03:00 Anisimova A. vs Haddad Maia B. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Williams C./Winegar T. vs Krawietz K./Puetz T. - Williams C./Winegar T. vs Krawietz K./Puetz T." tvg-name="17:00 Williams C./Winegar T. vs Krawietz K./Puetz T. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="Bhambri Y./Venus M. vs Escobar G./Reyes-Varela M. A. - Bhambri Y./Venus M. vs Escobar G./Reyes-Varela M. A." tvg-name="18:30 Bhambri Y./Venus M. vs Escobar G./Reyes-Varela M. A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="Cabral F./Miedler L. vs Pavlasek A./Zielinski J. - Cabral F./Miedler L. vs Pavlasek A./Zielinski J." tvg-name="18:30 Cabral F./Miedler L. vs Pavlasek A./Zielinski J. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="Machac T./Vocel M. vs Arevalo M./Pavic M. - Machac T./Vocel M. vs Arevalo M./Pavic M." tvg-name="20:00 Machac T./Vocel M. vs Arevalo M./Pavic M. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="McDonald M./Quinn E. vs Granollers M./Zeballos H. - McDonald M./Quinn E. vs Granollers M./Zeballos H." tvg-name="20:00 McDonald M./Quinn E. vs Granollers M./Zeballos H. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="Cash R./Tracy J. vs Bolelli S./Vavassori A. - Cash R./Tracy J. vs Bolelli S./Vavassori A." tvg-name="20:30 Cash R./Tracy J. vs Bolelli S./Vavassori A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="Gonzalez M./Molteni A. vs Harper C./Rojer J. - Gonzalez M./Molteni A. vs Harper C./Rojer J." tvg-name="20:30 Gonzalez M./Molteni A. vs Harper C./Rojer J. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="Matos R./Melo M. vs Doumbia S./Reboul F. - Matos R./Melo M. vs Doumbia S./Reboul F." tvg-name="22:00 Matos R./Melo M. vs Doumbia S./Reboul F. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="Xu Y./Yang Z. vs Babos T./Stefani L. - Xu Y./Yang Z. vs Babos T./Stefani L." tvg-name="17:00 Xu Y./Yang Z. vs Babos T./Stefani L. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="Aoyama S./Wang Y. vs Andreeva M./Shnaider D. - Aoyama S./Wang Y. vs Andreeva M./Shnaider D." tvg-name="18:30 Aoyama S./Wang Y. vs Andreeva M./Shnaider D. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="Bucsa C./Melichar-Martinez N. vs Dabrowski/Routliffe - Bucsa C./Melichar-Martinez N. vs Dabrowski/Routliffe" tvg-name="20:00 Bucsa C./Melichar-Martinez N. vs Dabrowski/Routliffe - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
+
+#EXTINF:-1 tvg-id="Muhammad A./Schuurs D. vs Danilina A./Krunic A. - Muhammad A./Schuurs D. vs Danilina A./Krunic A." tvg-name="20:00 Muhammad A./Schuurs D. vs Danilina A./Krunic A. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1511.php
+
+#EXTINF:-1 tvg-id="Kudermetova V./Mertens E. vs Kostyuk M./Ruse G. - Kudermetova V./Mertens E. vs Kostyuk M./Ruse G." tvg-name="21:30 Kudermetova V./Mertens E. vs Kostyuk M./Ruse G. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1512.php
+
+#EXTINF:-1 tvg-id="Stollar F./Wu F. vs Errani S./Paolini J. - Stollar F./Wu F. vs Errani S./Paolini J." tvg-name="21:30 Stollar F./Wu F. vs Errani S./Paolini J. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1517.php
+
+#EXTINF:-1 tvg-id="Siniakova K./Townsend T. vs Osorio C./Yuan Y. - Siniakova K./Townsend T. vs Osorio C./Yuan Y." tvg-name="22:00 Siniakova K./Townsend T. vs Osorio C./Yuan Y. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1503.php
+
+#EXTINF:-1 tvg-id="Alexandrova E./Zhang S. vs Fernandez L./Williams V. - Alexandrova E./Zhang S. vs Fernandez L./Williams V." tvg-name="23:00 Alexandrova E./Zhang S. vs Fernandez L./Williams V. - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta Doubles - Us Open", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
 #EXTINF:-1 tvg-id="US Open Round 1 | Day 9 - US Open Round 1 | Day 9" tvg-name="16:00 US Open Round 1 | Day 9 - 01/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
 
