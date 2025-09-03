@@ -65288,9 +65288,6 @@ Calvin Harris Ft. John Newman-Blame</desc>
   <channel id="clubfriendlylinkopingsvsdjurgardens">
     <display-name>Club Friendly : Linkopings vs Djurgardens</display-name>
   </channel>
-  <channel id="padeltournamentmadrid39">
-    <display-name>Padel Tournament, Madrid 3.9</display-name>
-  </channel>
   <channel id="worldchampionshipwomennetherlandswvsjapanw">
     <display-name>World Championship Women : Netherlands W vs Japan W</display-name>
   </channel>
@@ -67662,36 +67659,6 @@ Calvin Harris Ft. John Newman-Blame</desc>
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Club Friendly : Linkopings vs Djurgardens</desc>
     <category lang="it">Ice Hockey</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903090000 +0200" channel="padeltournamentmadrid39">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Padel Tournament, Madrid 3.9.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903090000 +0200" stop="20250903110000 +0200" channel="padeltournamentmadrid39">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Padel Tournament, Madrid 3.9</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903090000 +0200" channel="padeltournamentmadrid39">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Padel Tournament, Madrid 3.9.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903090000 +0200" stop="20250903110000 +0200" channel="padeltournamentmadrid39">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Padel Tournament, Madrid 3.9</desc>
-    <category lang="it">Squash</category>
-  </programme>
-  <programme start="20250903000000 +0200" stop="20250903090000 +0200" channel="padeltournamentmadrid39">
-    <title lang="it">Inizia alle 09:00.</title>
-    <desc lang="it">Padel Tournament, Madrid 3.9.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250903090000 +0200" stop="20250903110000 +0200" channel="padeltournamentmadrid39">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Padel Tournament, Madrid 3.9</desc>
-    <category lang="it">Squash</category>
   </programme>
   <programme start="20250903000000 +0200" stop="20250903120000 +0200" channel="worldchampionshipwomennetherlandswvsjapanw">
     <title lang="it">Inizia alle 12:00.</title>
