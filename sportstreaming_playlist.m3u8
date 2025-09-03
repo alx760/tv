@@ -1,16 +1,205 @@
 #EXTM3U
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live1.png" tvg-id="sport-24" tvg-name="Sport 24",Sport 24 (SpS)
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live1.png" tvg-id="rai-1" tvg-name="Rai 1",Rai 1 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1599.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live2.png" tvg-id="rai-2" tvg-name="Rai 2",Rai 2 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1600.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live3.png" tvg-id="rai-3" tvg-name="Rai 3",Rai 3 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1601.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live4.png" tvg-id="rete-4" tvg-name="Rete 4",Rete 4 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1602.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live5.png" tvg-id="canale-5" tvg-name="Canale 5",Canale 5 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1603.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live6.png" tvg-id="italia-1" tvg-name="Italia 1",Italia 1 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1604.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live8.png" tvg-id="sky-sport-24" tvg-name="Sky Sport 24",Sky Sport 24 (SpS)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1619.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live2.png" tvg-id="formula-1" tvg-name="Formula 1",Formula 1 (SpS)
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live9.png" tvg-id="sky-sport-formula-1" tvg-name="Sky Sport Formula 1",Sky Sport Formula 1 (SpS)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1620.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live3.png" tvg-id="moto-gp" tvg-name="Moto GP",Moto GP (SpS)
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live10.png" tvg-id="sky-sport-moto-gp" tvg-name="Sky Sport Moto GP",Sky Sport Moto GP (SpS)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1621.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live4.png" tvg-id="nba" tvg-name="NBA",NBA (SpS)
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live11.png" tvg-id="sky-sport-basket" tvg-name="Sky Sport Basket",Sky Sport Basket (SpS)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1622.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
-#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/perma/live5.png" tvg-id="tennis" tvg-name="Tennis",Tennis (SpS)
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live12.png" tvg-id="sky-sport-tennis" tvg-name="Sky Sport Tennis",Sky Sport Tennis (SpS)
 https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1623.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live13.png" tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf",Sky Sport Golf (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1666.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live14.png" tvg-id="skysportuno.it" tvg-name="Sky Sport Uno",Sky Sport Uno (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1606.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live15.png" tvg-id="skysportmax.it" tvg-name="Sky Sport Max",Sky Sport Max (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1607.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live16.png" tvg-id="skysportarena.it" tvg-name="Sky Sport Arena",Sky Sport Arena (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1608.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live17.png" tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio",Sky Sport Calcio (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1609.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live18.png" tvg-id="sky-sport-251" tvg-name="Sky Sport 251",Sky Sport 251 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1610.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live19.png" tvg-id="sky-sport-252" tvg-name="Sky Sport 252",Sky Sport 252 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1611.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live20.png" tvg-id="sky-sport-253" tvg-name="Sky Sport 253",Sky Sport 253 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1612.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live21.png" tvg-id="sky-sport-254" tvg-name="Sky Sport 254",Sky Sport 254 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1613.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live22.png" tvg-id="sky-sport-255" tvg-name="Sky Sport 255",Sky Sport 255 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1614.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live23.png" tvg-id="sky-sport-256" tvg-name="Sky Sport 256",Sky Sport 256 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1615.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live24.png" tvg-id="sky-sport-257" tvg-name="Sky Sport 257",Sky Sport 257 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1616.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live25.png" tvg-id="sky-sport-258" tvg-name="Sky Sport 258",Sky Sport 258 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1617.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live26.png" tvg-id="sky-sport-259" tvg-name="Sky Sport 259",Sky Sport 259 (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1618.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live7.png" tvg-id="amazon-prime-eventi" tvg-name="Amazon Prime Eventi",Amazon Prime Eventi (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1605.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live27.png" tvg-id="skyserie.it" tvg-name="DAZN Zona Serie A",DAZN Zona Serie A (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1624.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live28.png" tvg-id="dazn-atalanta" tvg-name="DAZN Atalanta",DAZN Atalanta (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1625.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live29.png" tvg-id="dazn-bologna" tvg-name="DAZN Bologna",DAZN Bologna (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1626.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live30.png" tvg-id="dazn-cagliari" tvg-name="DAZN Cagliari",DAZN Cagliari (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1627.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live31.png" tvg-id="dazn-como" tvg-name="DAZN Como",DAZN Como (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1628.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live32.png" tvg-id="dazn-fiorentina" tvg-name="DAZN Fiorentina",DAZN Fiorentina (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1630.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live33.png" tvg-id="dazn-genoa" tvg-name="DAZN Genoa",DAZN Genoa (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1631.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live34.png" tvg-id="dazn-hellas-verona" tvg-name="DAZN Hellas Verona",DAZN Hellas Verona (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1632.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live35.png" tvg-id="dazn-inter" tvg-name="DAZN Inter",DAZN Inter (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1633.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live36.png" tvg-id="dazn-juvenus" tvg-name="DAZN Juvenus",DAZN Juvenus (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1634.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live37.png" tvg-id="dazn-lazio" tvg-name="DAZN Lazio",DAZN Lazio (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1635.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live38.png" tvg-id="dazn-lecce" tvg-name="DAZN Lecce",DAZN Lecce (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1636.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live39.png" tvg-id="dazn-milan" tvg-name="DAZN Milan",DAZN Milan (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1637.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live40.png" tvg-id="dazn-napoli" tvg-name="DAZN Napoli",DAZN Napoli (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1639.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live41.png" tvg-id="dazn-parma" tvg-name="DAZN Parma",DAZN Parma (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1640.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live42.png" tvg-id="dazn-roma" tvg-name="DAZN Roma",DAZN Roma (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1641.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live43.png" tvg-id="dazn-torino" tvg-name="DAZN Torino",DAZN Torino (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1642.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live44.png" tvg-id="dazn-udinese" tvg-name="DAZN Udinese",DAZN Udinese (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1643.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live45.png" tvg-id="dazn-cremonese" tvg-name="DAZN Cremonese",DAZN Cremonese (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1653.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live46.png" tvg-id="dazn-pisa" tvg-name="DAZN Pisa",DAZN Pisa (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1659.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live47.png" tvg-id="dazn-sassuolo" tvg-name="DAZN Sassuolo",DAZN Sassuolo (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1663.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live48.png" tvg-id="skyserie.it" tvg-name="DAZN Zona Serie B",DAZN Zona Serie B (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1645.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live49.png" tvg-id="dazn-empoli" tvg-name="DAZN Empoli",DAZN Empoli (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1629.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live50.png" tvg-id="dazn-monza" tvg-name="DAZN Monza",DAZN Monza (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1638.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live51.png" tvg-id="dazn-venezia" tvg-name="DAZN Venezia",DAZN Venezia (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1644.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live52.png" tvg-id="dazn-bari" tvg-name="DAZN Bari",DAZN Bari (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1646.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live53.png" tvg-id="dazn-pescara" tvg-name="DAZN Pescara",DAZN Pescara (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1647.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live54.png" tvg-id="dazn-carrarese" tvg-name="DAZN Carrarese",DAZN Carrarese (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1648.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live55.png" tvg-id="dazn-catanzaro" tvg-name="DAZN Catanzaro",DAZN Catanzaro (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1649.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live56.png" tvg-id="dazn-cesena" tvg-name="DAZN Cesena",DAZN Cesena (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1650.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live57.png" tvg-id="dazn-virtus-entella" tvg-name="DAZN Virtus Entella",DAZN Virtus Entella (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1651.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live58.png" tvg-id="dazn-avellino" tvg-name="DAZN Avellino",DAZN Avellino (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1652.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live59.png" tvg-id="dazn-frosinone" tvg-name="DAZN Frosinone",DAZN Frosinone (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1654.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live60.png" tvg-id="dazn-juve-stabia" tvg-name="DAZN Juve Stabia",DAZN Juve Stabia (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1655.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live61.png" tvg-id="dazn-mantova" tvg-name="DAZN Mantova",DAZN Mantova (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1656.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live62.png" tvg-id="dazn-modena" tvg-name="DAZN Modena",DAZN Modena (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1657.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live63.png" tvg-id="dazn-palermo" tvg-name="DAZN Palermo",DAZN Palermo (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1658.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live64.png" tvg-id="dazn-reggiana" tvg-name="DAZN Reggiana",DAZN Reggiana (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1660.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live65.png" tvg-id="dazn-sampdoria" tvg-name="DAZN Sampdoria",DAZN Sampdoria (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1661.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live66.png" tvg-id="dazn-padova" tvg-name="DAZN Padova",DAZN Padova (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1662.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live67.png" tvg-id="dazn-spezia" tvg-name="DAZN Spezia",DAZN Spezia (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1664.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
+
+#EXTINF:-1 group-title="SportStreaming" tvg-logo="https://sportstreaming.net/assets/img/live/standard/live68.png" tvg-id="dazn-sudtirol" tvg-name="DAZN Sudtirol",DAZN Sudtirol (SpS)
+https://link.mfp/proxy/hls/manifest.m3u8?api_password=mfp&d=https://xuione.sportstreaming.net/SportStreaming/SportStreaming/1665.m3u8&h_user-agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&h_referer=https%3A%2F%2Fwww.sportstreaming.net%2F&h_origin=https%3A%2F%2Fwww.sportstreaming.net
 
