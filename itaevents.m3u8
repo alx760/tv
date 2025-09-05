@@ -1,4 +1,58 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Late Model 50 Stafford Motor Speedway - Late Model 50 Stafford Motor Speedway" tvg-name="23:30 Late Model 50 Stafford Motor Speedway - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="Super DIRTcar Series Can Am - Super DIRTcar Series Can Am" tvg-name="23:45 Super DIRTcar Series Can Am - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="2025 Kubota HLR Tuscarora 50 at Port Royal Speedway - 2025 Kubota HLR Tuscarora 50 at Port Royal Speedway" tvg-name="00:00 2025 Kubota HLR Tuscarora 50 at Port Royal Speedway - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="2025 Rebel Evening at Autodrome Granby - 2025 Rebel Evening at Autodrome Granby" tvg-name="00:00 2025 Rebel Evening at Autodrome Granby - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="2025 Pro Late Model 100 at Berlin Raceway - 2025 Pro Late Model 100 at Berlin Raceway" tvg-name="00:00 2025 Pro Late Model 100 at Berlin Raceway - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="2025 World 100 at Eldora Speedway - 2025 World 100 at Eldora Speedway" tvg-name="00:00 2025 World 100 at Eldora Speedway - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="Attica Sprints - Attica Raceway Park - Attica Sprints - Attica Raceway Park" tvg-name="00:30 Attica Sprints - Attica Raceway Park - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-172.php
+
+#EXTINF:-1 tvg-id="2025 NAPA All Star Circuit of Champions at Freedom Motorsports Park - 2025 NAPA All Star Circuit of Champions at Freedom Motorsports Park" tvg-name="00:30 2025 NAPA All Star Circuit of Champions at Freedom Motorsports Park - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="2025 IRA Sprints/Jerry Richert Memorial at Cedar Lake Speedway - 2025 IRA Sprints/Jerry Richert Memorial at Cedar Lake Speedway" tvg-name="01:00 2025 IRA Sprints/Jerry Richert Memorial at Cedar Lake Speedway - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="Ring Wars XIX - Euri Cedeno vs. Willie Jones" tvg-name="01:00 Ring Wars XIX : Euri Cedeno vs. Willie Jones - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="2025 USAC AMSOIL National Sprint Cars at Tri-City Speedway - 2025 USAC AMSOIL National Sprint Cars at Tri-City Speedway" tvg-name="01:15 2025 USAC AMSOIL National Sprint Cars at Tri-City Speedway - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="Xtreme Outlaw Midgets Doe Run - Xtreme Outlaw Midgets Doe Run" tvg-name="01:15 Xtreme Outlaw Midgets Doe Run - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-177.php
+
+#EXTINF:-1 tvg-id="Jacksonville Speedway Sprint Cars - Jacksonville Speedway Sprint Cars" tvg-name="01:15 Jacksonville Speedway Sprint Cars - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series Lakeside - American Sprint Car Series Lakeside" tvg-name="01:45 American Sprint Car Series Lakeside - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-179.php
+
+#EXTINF:-1 tvg-id="Northern Nationals Gondik Law Speedway - Northern Nationals Gondik Law Speedway" tvg-name="02:00 Northern Nationals Gondik Law Speedway - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-180.php
+
+#EXTINF:-1 tvg-id="FSW - The Moment of Truth 2025" tvg-name="02:00 FSW: The Moment of Truth 2025 - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-181.php
+
+#EXTINF:-1 tvg-id="Country Box - Where Music Meets Boxing" tvg-name="02:00 Country Box: Where Music Meets Boxing - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars Vado Speedway Park - World of Outlaws Sprint Cars Vado Speedway Park" tvg-name="02:15 World of Outlaws Sprint Cars Vado Speedway Park - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-183.php
+
 #EXTINF:-1 tvg-id="Ireland Republic - First Division - Bray Wanderers vs Athlone Town" tvg-name="20:45 Ireland Republic - First Division : Bray Wanderers vs Athlone Town - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-110.php
 
@@ -1411,6 +1465,9 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-25.php
 
 #EXTINF:-1 tvg-id="World Boxing Championship | Liverpool Day 2 | Session 2 | Ring 1 | F57kg, M50kg, M90+kg - World Boxing Championship | Liverpool Day 2 | Session 2 | Ring 1 | F57kg, M50kg, M90+kg" tvg-name="19:00 World Boxing Championship | Liverpool Day 2 | Session 2 | Ring 1 | F57kg, M50kg, M90+kg - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", Ring Bulgaria
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-471.php
+
+#EXTINF:-1 tvg-id="IBF Title Fights - Michael Conlan vs Jack Bateson" tvg-name="20:00 IBF Title Fights : Michael Conlan vs Jack Bateson - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", PPV Feed
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-165.php
 
 #EXTINF:-1 tvg-id="IBF Title Fights - Michael Conlan vs Jack Bateson" tvg-name="20:00 IBF Title Fights : Michael Conlan vs Jack Bateson - 05/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Boxe", Channel 5 UK
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-355.php
