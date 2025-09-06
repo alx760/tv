@@ -2,6 +2,9 @@
 #EXTINF:-1 tvg-id="AMA Supercross Championship Concord - AMA Supercross Championship Concord" tvg-name="15:30 AMA Supercross Championship Concord - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Peacock
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
 
+#EXTINF:-1 tvg-id="Ice Cage Fighting - ICF 5" tvg-name="16:00 Ice Cage Fighting : ICF 5 - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", PPV Event
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-5000.php
+
 #EXTINF:-1 tvg-id="TNT - Supreme Extreme 2022" tvg-name="17:00 TNT: Supreme Extreme 2022 - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-172.php
 
