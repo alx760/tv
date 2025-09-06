@@ -1766,6 +1766,9 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-766.php
 #EXTINF:-1 tvg-id="NCAA FBS - Iowa at Iowa State" tvg-name="18:00 NCAA FBS : Iowa at Iowa State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Fox USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-54.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Iowa at Iowa State" tvg-name="18:00 NCAA FBS : Iowa at Iowa State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", FOXNY USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Iowa at Iowa State" tvg-name="18:00 NCAA FBS : Iowa at Iowa State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Fox Deportes
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-643.php
 
@@ -1805,8 +1808,62 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-397.php
 #EXTINF:-1 tvg-id="NCAA FBS - Central Michigan at Pittsburgh" tvg-name="18:00 NCAA FBS : Central Michigan at Pittsburgh - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPNU USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-316.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - UConn at Syracuse" tvg-name="18:00 NCAA FBS : UConn at Syracuse - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Sacred Heart at Lehigh" tvg-name="18:00 NCAA FBS : Sacred Heart at Lehigh - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Thomas More at Dayton" tvg-name="18:00 NCAA FBS : Thomas More at Dayton - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Lincoln (PA) at Duquesne" tvg-name="18:00 NCAA FBS : Lincoln (PA) at Duquesne - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-177.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Utah State at Texas A&M" tvg-name="18:45 NCAA FBS : Utah State at Texas A&M - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", SEC Network USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-385.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Wagner at Georgetown" tvg-name="19:00 NCAA FBS : Wagner at Georgetown - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Lafayette at Stonehill" tvg-name="19:00 NCAA FBS : Lafayette at Stonehill - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-179.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Truman State at Butler" tvg-name="19:00 NCAA FBS : Truman State at Butler - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-180.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Eastern Illinois at Indiana State" tvg-name="19:00 NCAA FBS : Eastern Illinois at Indiana State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-181.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Bucknell at Marist" tvg-name="19:00 NCAA FBS : Bucknell at Marist - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - UAlbany at Delaware State" tvg-name="19:00 NCAA FBS : UAlbany at Delaware State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-183.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Ferrum College at VMI" tvg-name="19:30 NCAA FBS : Ferrum College at VMI - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-184.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Western Carolina at Wake Forest" tvg-name="20:00 NCAA FBS : Western Carolina at Wake Forest - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-185.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Howard at Temple" tvg-name="20:00 NCAA FBS : Howard at Temple - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-186.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Presbyterian at Furman" tvg-name="20:00 NCAA FBS : Presbyterian at Furman - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-187.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Robert Morris at Youngstown State" tvg-name="20:00 NCAA FBS : Robert Morris at Youngstown State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-188.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Chattanooga at Tennessee Tech" tvg-name="20:30 NCAA FBS : Chattanooga at Tennessee Tech - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-86.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - UAlbany at Delaware State" tvg-name="20:30 NCAA FBS : UAlbany at Delaware State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-105.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Dakota State at Tennessee State" tvg-name="20:30 NCAA FBS : North Dakota State at Tennessee State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-106.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Troy at Clemson" tvg-name="21:30 NCAA FBS : Troy at Clemson - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ACC Network USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-664.php
@@ -1823,6 +1880,9 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-112.php
 #EXTINF:-1 tvg-id="NCAA FBS - Ole Miss at Kentucky" tvg-name="21:30 NCAA FBS : Ole Miss at Kentucky - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Sport Klub 3 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-103.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Saint Francis (PA) at Buffalo" tvg-name="21:30 NCAA FBS : Saint Francis (PA) at Buffalo - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-107.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Oklahoma State at Oregon" tvg-name="21:30 NCAA FBS : Oklahoma State at Oregon - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CBS USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-52.php
 
@@ -1838,8 +1898,23 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-300.php
 #EXTINF:-1 tvg-id="NCAA FBS - Fresno State at Oregon State" tvg-name="21:30 NCAA FBS : Fresno State at Oregon State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CW PIX 11 USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-280.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Austin Peay at Georgia" tvg-name="21:30 NCAA FBS : Austin Peay at Georgia - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-108.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - UAB at Navy" tvg-name="21:30 NCAA FBS : UAB at Navy - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CBS Sports Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Bryant at UMass" tvg-name="21:30 NCAA FBS : Bryant at UMass - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-109.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Lindenwood at Appalachian State" tvg-name="21:30 NCAA FBS : Lindenwood at Appalachian State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-110.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Bowling Green at Cincinnati" tvg-name="21:30 NCAA FBS : Bowling Green at Cincinnati - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Miami (OH) at Rutgers" tvg-name="21:30 NCAA FBS : Miami (OH) at Rutgers - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Grambling State at Ohio State" tvg-name="21:30 NCAA FBS : Grambling State at Ohio State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Big Ten Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-397.php
@@ -1849,6 +1924,21 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-54.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Delaware at Colorado" tvg-name="21:30 NCAA FBS : Delaware at Colorado - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", FOXNY USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Texas at Western Michigan" tvg-name="21:30 NCAA FBS : North Texas at Western Michigan - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - East Tennessee State at Tennessee" tvg-name="21:30 NCAA FBS : East Tennessee State at Tennessee - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-155.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Gardner-Webb at Georgia Tech" tvg-name="21:30 NCAA FBS : Gardner-Webb at Georgia Tech - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Texas State at UTSA" tvg-name="21:30 NCAA FBS : Texas State at UTSA - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-157.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - The Citadel at Samford" tvg-name="21:30 NCAA FBS : The Citadel at Samford - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - West Virginia at Ohio" tvg-name="22:00 NCAA FBS : West Virginia at Ohio - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPNU USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-316.php
@@ -1862,11 +1952,143 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-923.php
 #EXTINF:-1 tvg-id="NCAA FBS - South Florida at Florida" tvg-name="22:15 NCAA FBS : South Florida at Florida - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", SEC Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-385.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Sacramento State at Nevada" tvg-name="23:00 NCAA FBS : Sacramento State at Nevada - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Jackson State at Southern Miss" tvg-name="23:00 NCAA FBS : Jackson State at Southern Miss - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-177.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Utah Tech at Northern Arizona" tvg-name="23:00 NCAA FBS : Utah Tech at Northern Arizona - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Arkansas State at Arkansas" tvg-name="23:00 NCAA FBS : Arkansas State at Arkansas - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-179.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Carolina Central at Old Dominion" tvg-name="00:00 NCAA FBS : North Carolina Central at Old Dominion - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-180.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Campbell at East Carolina" tvg-name="00:00 NCAA FBS : Campbell at East Carolina - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-181.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Cal Poly at Utah" tvg-name="00:00 NCAA FBS : Cal Poly at Utah - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Missouri State at Marshall" tvg-name="00:00 NCAA FBS : Missouri State at Marshall - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-183.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Texas Southern at California" tvg-name="00:00 NCAA FBS : Texas Southern at California - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-184.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Florida A&M at FAU" tvg-name="00:00 NCAA FBS : Florida A&M at FAU - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-185.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - AIC at Central Connecticut State" tvg-name="00:00 NCAA FBS : AIC at Central Connecticut State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-186.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Warner at Stetson" tvg-name="00:00 NCAA FBS : Warner at Stetson - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-187.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Davidson at Elon" tvg-name="00:00 NCAA FBS : Davidson at Elon - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-188.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Rhode Island at Stony Brook" tvg-name="00:00 NCAA FBS : Rhode Island at Stony Brook - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-189.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Elizabeth City State at Hampton" tvg-name="00:00 NCAA FBS : Elizabeth City State at Hampton - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Monumental Sports Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-778.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Holy Cross at New Hampshire" tvg-name="00:00 NCAA FBS : Holy Cross at New Hampshire - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-190.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Monmouth at Fordham" tvg-name="00:00 NCAA FBS : Monmouth at Fordham - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-191.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Richmond at Wofford" tvg-name="00:00 NCAA FBS : Richmond at Wofford - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-192.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Houston Christian at Eastern Kentucky" tvg-name="00:00 NCAA FBS : Houston Christian at Eastern Kentucky - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-193.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Colgate at Villanova" tvg-name="00:00 NCAA FBS : Colgate at Villanova - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-194.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Maine at William & Mary" tvg-name="00:00 NCAA FBS : Maine at William & Mary - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-195.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Saint Anselm at Merrimack" tvg-name="00:00 NCAA FBS : Saint Anselm at Merrimack - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-196.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Virginia State at Norfolk State" tvg-name="00:00 NCAA FBS : Virginia State at Norfolk State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-197.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Tulane at South Alabama" tvg-name="01:00 NCAA FBS : Tulane at South Alabama - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-198.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Bethune-Cookman at Miami (FL)" tvg-name="01:00 NCAA FBS : Bethune-Cookman at Miami (FL) - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-199.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Western Kentucky at Toledo" tvg-name="01:00 NCAA FBS : Western Kentucky at Toledo - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-200.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Carolina at Charlotte" tvg-name="01:00 NCAA FBS : North Carolina at Charlotte - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-201.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Memphis at Georgia State" tvg-name="01:00 NCAA FBS : Memphis at Georgia State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-202.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Army at Kansas State" tvg-name="01:00 NCAA FBS : Army at Kansas State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Houston at Rice" tvg-name="01:00 NCAA FBS : Houston at Rice - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-203.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - South Carolina State at South Carolina" tvg-name="01:00 NCAA FBS : South Carolina State at South Carolina - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-204.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Carolina A&T at UCF" tvg-name="01:00 NCAA FBS : North Carolina A&T at UCF - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-205.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - LIU at Eastern Michigan" tvg-name="01:00 NCAA FBS : LIU at Eastern Michigan - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-206.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - West Georgia at Nicholls" tvg-name="01:00 NCAA FBS : West Georgia at Nicholls - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-207.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Adrian College at Valparaiso" tvg-name="01:00 NCAA FBS : Adrian College at Valparaiso - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-208.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Portland State at North Dakota" tvg-name="01:00 NCAA FBS : Portland State at North Dakota - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-209.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Alcorn State at Alabama A&M" tvg-name="01:00 NCAA FBS : Alcorn State at Alabama A&M - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-210.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Mississippi Valley State at Tarleton State" tvg-name="01:00 NCAA FBS : Mississippi Valley State at Tarleton State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Morehead State at Illinois State" tvg-name="01:00 NCAA FBS : Morehead State at Illinois State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-211.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - North Alabama at Southeast Missouri State" tvg-name="01:00 NCAA FBS : North Alabama at Southeast Missouri State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-212.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Arkansas-Pine Bluff at Central Arkansas" tvg-name="01:00 NCAA FBS : Arkansas-Pine Bluff at Central Arkansas - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-213.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - South Dakota at Lamar" tvg-name="01:00 NCAA FBS : South Dakota at Lamar - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-214.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Alabama State at Southern" tvg-name="01:00 NCAA FBS : Alabama State at Southern - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-215.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Southeastern Louisiana at Murray State" tvg-name="01:00 NCAA FBS : Southeastern Louisiana at Murray State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-216.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Towson at Morgan State" tvg-name="01:00 NCAA FBS : Towson at Morgan State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-217.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - UTRGV at Prairie View A&M" tvg-name="01:00 NCAA FBS : UTRGV at Prairie View A&M - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-218.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - Northern Colorado at Colorado State" tvg-name="01:00 NCAA FBS : Northern Colorado at Colorado State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Altitude Sports
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-923.php
@@ -1895,6 +2117,9 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
 #EXTINF:-1 tvg-id="NCAA FBS - Michigan at Oklahoma" tvg-name="01:30 NCAA FBS : Michigan at Oklahoma - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN3 Brazil
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-83.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Charleston Southern at Coastal Carolina" tvg-name="01:30 NCAA FBS : Charleston Southern at Coastal Carolina - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-319.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Ball State at Auburn" tvg-name="01:30 NCAA FBS : Ball State at Auburn - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPNU USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-316.php
 
@@ -1913,11 +2138,38 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-397.php
 #EXTINF:-1 tvg-id="NCAA FBS - Georgia Southern at Southern California" tvg-name="01:30 NCAA FBS : Georgia Southern at Southern California - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", Fox Sports 1 USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - Louisiana Tech at LSU" tvg-name="01:30 NCAA FBS : Louisiana Tech at LSU - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-220.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - Louisiana-Monroe at Alabama" tvg-name="01:45 NCAA FBS : Louisiana-Monroe at Alabama - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", SEC Network USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-385.php
 
+#EXTINF:-1 tvg-id="NCAA FBS - McNeese at Lousiana-Lafayette" tvg-name="02:00 NCAA FBS : McNeese at Lousiana-Lafayette - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-221.php
+
 #EXTINF:-1 tvg-id="NCAA FBS - UCLA at UNLV" tvg-name="02:00 NCAA FBS : UCLA at UNLV - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", CBS Sports Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - South Dakota State at Montana State" tvg-name="02:00 NCAA FBS : South Dakota State at Montana State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-222.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Stephen F. Austin at Abilene Christian" tvg-name="02:00 NCAA FBS : Stephen F. Austin at Abilene Christian - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-223.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Central Washington at Montana" tvg-name="02:00 NCAA FBS : Central Washington at Montana - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-224.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - UT Martin at UTEP" tvg-name="03:00 NCAA FBS : UT Martin at UTEP - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-225.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Tulsa at New Mexico State" tvg-name="03:00 NCAA FBS : Tulsa at New Mexico State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-226.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Southern Utah at San Diego" tvg-name="03:00 NCAA FBS : Southern Utah at San Diego - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-227.php
+
+#EXTINF:-1 tvg-id="NCAA FBS - Weber State at Arizona" tvg-name="04:00 NCAA FBS : Weber State at Arizona - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-228.php
 
 #EXTINF:-1 tvg-id="NCAA FBS - San Diego State at Washington State" tvg-name="04:15 NCAA FBS : San Diego State at Washington State - 06/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football", The CW
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-300.php
