@@ -126,7 +126,7 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-419.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - South Africa vs Nigeria" tvg-name="18:00 World Cup Qualifying : South Africa vs Nigeria - 09/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", SuperSport PSL
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-419.php
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-413.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - South Africa vs Nigeria" tvg-name="18:00 World Cup Qualifying : South Africa vs Nigeria - 09/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sport Klub HD Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
