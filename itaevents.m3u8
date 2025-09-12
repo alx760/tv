@@ -779,6 +779,51 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
 #EXTINF:-1 tvg-id="WTA - SAO PAOLO - Rakotomanga Rajaonah T. vs Udvardy P." tvg-name="21:30 WTA - SAO PAOLO : Rakotomanga Rajaonah T. vs Udvardy P. - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Wta - Sao Paolo", Tennis Stream
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
 
+#EXTINF:-1 tvg-id="Japan vs Germany - Japan vs Germany" tvg-name="07:00 Japan vs Germany - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Davis Cup", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Netherlands vs Argentina - Netherlands vs Argentina" tvg-name="14:00 Netherlands vs Argentina - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Davis Cup", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Hungary vs Austria - Hungary vs Austria" tvg-name="15:00 Hungary vs Austria - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Davis Cup", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="Croatia vs France - Croatia vs France" tvg-name="16:00 Croatia vs France - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Davis Cup", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="USA vs Czech Republic - USA vs Czech Republic" tvg-name="00:00 USA vs Czech Republic - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Davis Cup", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1509.php
+
+#EXTINF:-1 tvg-id="Australia vs Belgium - Australia vs Belgium" tvg-name="05:00 Australia vs Belgium - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Davis Cup", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1510.php
+
+#EXTINF:-1 tvg-id="Ostapenko J. vs Stakusic M. - Ostapenko J. vs Stakusic M." tvg-name="20:00 Ostapenko J. vs Stakusic M. - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Guadalajara", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="Jacquemot E. vs Maria T. - Jacquemot E. vs Maria T." tvg-name="22:00 Jacquemot E. vs Maria T. - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Guadalajara", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="Jovic I. vs Jimenez Kasintseva V. - Jovic I. vs Jimenez Kasintseva V." tvg-name="23:30 Jovic I. vs Jimenez Kasintseva V. - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Guadalajara", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="Ostapenko or Stakusic vs Arango E. - Ostapenko or Stakusic vs Arango E." tvg-name="02:00 Ostapenko or Stakusic vs Arango E. - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Guadalajara", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="Frech M. vs Bartunkova N. - Frech M. vs Bartunkova N." tvg-name="03:30 Frech M. vs Bartunkova N. - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Guadalajara", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="Tjen J. vs Eala A. - Tjen J. vs Eala A." tvg-name="18:00 Tjen J. vs Eala A. - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Sao Paolo", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="Jones F. vs Sierra S. - Jones F. vs Sierra S." tvg-name="19:30 Jones F. vs Sierra S. - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Sao Paolo", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="Haddad Maia B. vs Zarazua R. - Haddad Maia B. vs Zarazua R." tvg-name="21:30 Haddad Maia B. vs Zarazua R. - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Sao Paolo", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="Rakotomanga Rajaonah T. vs Udvardy P. - Rakotomanga Rajaonah T. vs Udvardy P." tvg-name="21:30 Rakotomanga Rajaonah T. vs Udvardy P. - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Sao Paolo", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1505.php
+
 #EXTINF:-1 tvg-id="Davis Cup - Japan vs Germany" tvg-name="07:00 Davis Cup : Japan vs Germany - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-102.php
 
