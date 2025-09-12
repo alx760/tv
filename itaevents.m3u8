@@ -1,4 +1,64 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PDRA Drag Wars - PDRA Drag Wars" tvg-name="15:00 PDRA Drag Wars - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-192.php
+
+#EXTINF:-1 tvg-id="Superbikes MotoAmerica at Texas - Superbikes MotoAmerica at Texas" tvg-name="18:00 Superbikes MotoAmerica at Texas - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-193.php
+
+#EXTINF:-1 tvg-id="GROMDA 22 - ULICZNE IGRZYSKA" tvg-name="20:00 GROMDA 22: ULICZNE IGRZYSKA - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-194.php
+
+#EXTINF:-1 tvg-id="The True Grit Games 2025 - The True Grit Games 2025" tvg-name="20:00 The True Grit Games 2025 - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-195.php
+
+#EXTINF:-1 tvg-id="2025 TC 13 Shootout at Stafford Speedway - 2025 TC 13 Shootout at Stafford Speedway" tvg-name="23:30 2025 TC 13 Shootout at Stafford Speedway - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
+
+#EXTINF:-1 tvg-id="2025 Kubota High Limit Racing at Lernerville Speedway - 2025 Kubota High Limit Racing at Lernerville Speedway" tvg-name="00:00 2025 Kubota High Limit Racing at Lernerville Speedway - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="2025 Short Track Super Series Fonda 200 at Fonda Speedway - 2025 Short Track Super Series Fonda 200 at Fonda Speedway" tvg-name="00:00 2025 Short Track Super Series Fonda 200 at Fonda Speedway - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="2025 NAPA ASCoC Jim Ford Classic at Fremont Speedway - 2025 NAPA ASCoC Jim Ford Classic at Fremont Speedway" tvg-name="00:15 2025 NAPA ASCoC Jim Ford Classic at Fremont Speedway - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-155.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Needmore - World of Outlaws Late Models Needmore" tvg-name="00:45 World of Outlaws Late Models Needmore - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="2025 USAC AMSOIL National Sprint Cars at Circle City Raceway - 2025 USAC AMSOIL National Sprint Cars at Circle City Raceway" tvg-name="00:45 2025 USAC AMSOIL National Sprint Cars at Circle City Raceway - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-157.php
+
+#EXTINF:-1 tvg-id="Williams Grove Speedway Sprint Cars - Williams Grove Speedway Sprint Cars" tvg-name="01:00 Williams Grove Speedway Sprint Cars - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
+
+#EXTINF:-1 tvg-id="Samourai MMA 16 - Samourai MMA 16" tvg-name="01:00 Samourai MMA 16 - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="Jacksonville Speedway Sprints - Jacksonville Speedway Sprints" tvg-name="01:15 Jacksonville Speedway Sprints - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="2025 MARS Corn State Nationals at Davenport Speedway - 2025 MARS Corn State Nationals at Davenport Speedway" tvg-name="01:30 2025 MARS Corn State Nationals at Davenport Speedway - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="EBI 25🌪️ The Lightweights - EBI 25🌪️ The Lightweights" tvg-name="02:00 EBI 25🌪️ The Lightweights - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="GCW - Evil Deeds 2025" tvg-name="02:00 GCW: Evil Deeds 2025 - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="2025 USAC Avanti Western States Midgets at Plaza Park Raceway - 2025 USAC Avanti Western States Midgets at Plaza Park Raceway" tvg-name="03:00 2025 USAC Avanti Western States Midgets at Plaza Park Raceway - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars Bakersfield - World of Outlaws Sprint Cars Bakersfield" tvg-name="03:15 World of Outlaws Sprint Cars Bakersfield - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="WWE X Lucha Libre AAA Worlds Collid - WWE X Lucha Libre AAA Worlds Collid" tvg-name="04:00 WWE X Lucha Libre AAA Worlds Collid - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="Fusion Fighting Championship 95 (FFC 95 - Pastran vs. Silva" tvg-name="04:00 Fusion Fighting Championship 95 (FFC 95: Pastran vs. Silva - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", UFC Fight Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
 #EXTINF:-1 tvg-id="England - Women's Super League - Manchester City vs Brighton & Hove Albion" tvg-name="20:30 England - Women's Super League : Manchester City vs Brighton & Hove Albion - 12/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sky MIX UK
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-108.php
 
