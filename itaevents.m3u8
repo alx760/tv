@@ -1,4 +1,55 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="2025 PDRA Drag Wars - 2025 PDRA Drag Wars" tvg-name="14:30 2025 PDRA Drag Wars - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-691.php
+
+#EXTINF:-1 tvg-id="Superbikes MotoAmerica at Texas - Superbikes MotoAmerica at Texas" tvg-name="19:30 Superbikes MotoAmerica at Texas - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="Total Kombat O2 - Total Kombat O2" tvg-name="19:30 Total Kombat O2 - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-177.php
+
+#EXTINF:-1 tvg-id="2025 American Flat Track at Lake Ozark Short Track - 2025 American Flat Track at Lake Ozark Short Track" tvg-name="22:00 2025 American Flat Track at Lake Ozark Short Track - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="2025 CARS Tour at South Boston Speedway - 2025 CARS Tour at South Boston Speedway" tvg-name="22:30 2025 CARS Tour at South Boston Speedway - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-179.php
+
+#EXTINF:-1 tvg-id="GCW - Rumble on the River 2025" tvg-name="23:00 GCW: Rumble on the River 2025 - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="2025 SMART Modified Tour The Flying VA Classic at Dominion Raceway - 2025 SMART Modified Tour The Flying VA Classic at Dominion Raceway" tvg-name="23:15 2025 SMART Modified Tour The Flying VA Classic at Dominion Raceway - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="2025 Cecil Palm Tree 66 at Riverhead Raceway - 2025 Cecil Palm Tree 66 at Riverhead Raceway" tvg-name="23:30 2025 Cecil Palm Tree 66 at Riverhead Raceway - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Senoia - World of Outlaws Late Models Senoia" tvg-name="23:45 World of Outlaws Late Models Senoia - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="2025 Kubota High Limit Racing at Lernerville Speedway - 2025 Kubota High Limit Racing at Lernerville Speedway" tvg-name="00:00 2025 Kubota High Limit Racing at Lernerville Speedway - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="2025 Short Track Super Series Fonda 200 at Fonda Speedway - 2025 Short Track Super Series Fonda 200 at Fonda Speedway" tvg-name="00:00 2025 Short Track Super Series Fonda 200 at Fonda Speedway - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="500 Sprint Car Tour Salem Speedway - 500 Sprint Car Tour Salem Speedway" tvg-name="00:00 500 Sprint Car Tour Salem Speedway - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="Land of Legends Late Model - Land of Legends Late Model" tvg-name="00:15 Land of Legends Late Model - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="Crash Combat Championship VI - Thrall vs Estrada" tvg-name="01:00 Crash Combat Championship VI: Thrall vs Estrada - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="Armored MMA 2025 - Medieval Cage Fighting Championship, San Antonio, TX" tvg-name="02:00 Armored MMA 2025: Medieval Cage Fighting Championship, San Antonio, TX - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="Bare Knuckle Brawlers - Chingazos" tvg-name="03:00 Bare Knuckle Brawlers: Chingazos - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-180.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars Perris - World of Outlaws Sprint Cars Perris" tvg-name="03:15 World of Outlaws Sprint Cars Perris - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-181.php
+
 #EXTINF:-1 tvg-id="England - Championship - Oxford United vs Leicester City" tvg-name="13:30 England - Championship : Oxford United vs Leicester City - 13/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/League One/League Two/Scottish", Sky Sports+
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
 
