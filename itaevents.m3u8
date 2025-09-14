@@ -1769,6 +1769,18 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
 #EXTINF:-1 tvg-id="Colombia - Primera A - Deportes Tolima vs Boyacá Chicó" tvg-name="03:30 Colombia - Primera A : Deportes Tolima vs Boyacá Chicó - 14/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Win+ Futbol Colombia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-392.php
 
+#EXTINF:-1 tvg-id="Australia vs Belgium - Australia vs Belgium" tvg-name="07:30 Australia vs Belgium - 14/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Davis Cup", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Spain vs Denmark - Spain vs Denmark" tvg-name="13:00 Spain vs Denmark - 14/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Davis Cup", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Arango E. vs Jovic I. - Arango E. vs Jovic I." tvg-name="23:00 Arango E. vs Jovic I. - 14/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Guadalajara", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
+#EXTINF:-1 tvg-id="Rakotomanga Rajaonah T. vs Tjen J. - Rakotomanga Rajaonah T. vs Tjen J." tvg-name="20:00 Rakotomanga Rajaonah T. vs Tjen J. - 14/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Sao Paolo", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1504.php
+
 #EXTINF:-1 tvg-id="Davis Cup - Australia vs Belgium" tvg-name="06:30 Davis Cup : Australia vs Belgium - 14/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-102.php
 
