@@ -58,9 +58,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/625586063b81b5c
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17686701870faa9fea0a38&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central" tvg-logo="https://yt3.googleusercontent.com/FPzu1EWCI54fIh2j9JEp0NOzwoeugjL4sZTQCdoxoQY1U4QHyKx2L3wPSw27IueuZGchIxtKfv8=s900-c-k-c0x00ffffff-no-rj" group-title="Sky",COMEDY CENTRAL (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/365827745096a993ffc066&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="comedycentral.it" tvg-name="Comedy Central (2)" tvg-logo="" group-title="Sky",COMEDY CENTRAL (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/433893159bf516cde9a97&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="crime+investigation.it" tvg-name="Crime+ Investigation" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Discovery",CRIME+ INVESTIGATION (V)
@@ -225,6 +222,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3229664409bbe85
 #EXTINF:-1 tvg-id="nickjr.it" tvg-name="Nick Jr" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Bambini",NICK JR (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/38095847274e645e8a065&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nickelodeon-it.png" group-title="Bambini",NICKELODEON (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/30393892159798f5cebb7c&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="premiumcrime.it" tvg-name="Premium Crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/premium-crime-it.png" group-title="Mediaset",PREMIUM CRIME (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/444768053e397c96fc6df&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -269,9 +269,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1803677691b051b
 
 #EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/374675593c812bca5a0f0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia (2)" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V) (2)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2835672487db54f8727bf9&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -532,16 +529,7 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3007400791d5bc6
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/25559607139e6fd9b93dd6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportcalcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Sport",SKY SPORT CALCIO (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/449990998077a7691828f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportf1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Sport",SKY SPORT F1 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/42467740561588897497f2&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/309353533094c3ad269514&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skysportfootball.it" tvg-name="Sky Sport Football [live During Events Only]" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-football-it.png" group-title="Sport",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/198930923100c09085a1ae&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1665920101d5db640ce7e6&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skysportgolf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Sport",SKY SPORT GOLF (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/729945219d6146597896a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -586,6 +574,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/22890389722acc4
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/55828211836e421b20575&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24" tvg-logo="https://play-lh.googleusercontent.com/0RJjBW8_r64dWLAbG7kUVrkESbBr9Ukx30pDI83e5_o1obv2MTC7KSpBAIhhXvJAkXE" group-title="Notizie;Sky",SKY TG 24 (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/33760313550167605877f1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="skytg24.it" tvg-name="Sky Tg 24 (2)" tvg-logo="" group-title="Notizie;Sky",SKY TG 24 (V) (2)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3180571288b987548e3fe&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyuno.it" tvg-name="Sky Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-uno-it.png" group-title="Sky",SKY UNO (V)
