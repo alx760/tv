@@ -1,20 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:37 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", MultiFeed
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="17:30 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", MultiFeed
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-277.php
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:37 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 1
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="17:30 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 1
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-261.php
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:37 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 2
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="17:30 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 2
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-262.php
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:37 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 3
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="17:30 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 3
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-263.php
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="09:37 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 4
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="17:30 Big Brother 27 USA 2025 Live Cam Feeds - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 4
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-264.php
 
-#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="09:37 Big Brother Naija 2025 - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
+#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="17:30 Big Brother Naija 2025 - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-230.php
 
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Drogheda United vs Shelbourne" tvg-name="20:45 Ireland Republic - Premier Division : Drogheda United vs Shelbourne - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", LOITV
@@ -157,6 +157,9 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
 
 #EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Botev Vratsa vs CSKA Sofia" tvg-name="19:30 Bulgaria - Parva Liga : Botev Vratsa vs CSKA Sofia - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", Sportklub HD Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="FIFA Ballon d'Or Ceremony - FIFA Ballon d'Or Ceremony" tvg-name="20:00 FIFA Ballon d'Or Ceremony - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", CBS Sports Golazo
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-910.php
 
 #EXTINF:-1 tvg-id="FIFA Ballon d'Or Ceremony - FIFA Ballon d'Or Ceremony" tvg-name="20:00 FIFA Ballon d'Or Ceremony - 22/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", DAZN2 DE
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-427.php
