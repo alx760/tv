@@ -1,8 +1,5 @@
 #EXTM3U
 # Playlist generata da Hattrick
-#EXTINF:-1 tvg-id="" tvg-name="sport1 " tvg-logo="" group-title="Altro", sport1 (H)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//linear301-it-dash1-prd-akg0.cdn13.skycdp.com/016a/31023/FHD/skysportuno/master_stereo.mpd&key_id=00362452ed102000ccea64c311921dc2&key=02f27bd6caab7633d3083b94d3958b1c
-
 #EXTINF:-1 tvg-id="dazn1.it" tvg-name="DAZN 1 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/774px-DAZN_1_Logo.svg.png" group-title="Sport", DAZN 1 (Hd)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//abe6fjxaaaaaaaamc4pg55ekcyqz4.otte.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/lgk8kppclc/out/v1/f51173b6b0624a4386358ab8dfee257f/cenc.mpd&key_id=8272bf6ba46f23f9da5270057b6e028a&key=74ae70dd10b4bb38ed6ffe843f3e2ccd
 
