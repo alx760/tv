@@ -1,21 +1,60 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="10:14 Big Brother 27 USA 2025 Live Cam Feeds - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", MultiFeed
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="15:39 Big Brother 27 USA 2025 Live Cam Feeds - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", MultiFeed
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-277.php
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="10:14 Big Brother 27 USA 2025 Live Cam Feeds - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 1
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="15:39 Big Brother 27 USA 2025 Live Cam Feeds - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 1
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-261.php
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="10:14 Big Brother 27 USA 2025 Live Cam Feeds - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 2
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="15:39 Big Brother 27 USA 2025 Live Cam Feeds - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 2
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-262.php
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="10:14 Big Brother 27 USA 2025 Live Cam Feeds - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 3
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="15:39 Big Brother 27 USA 2025 Live Cam Feeds - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 3
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-263.php
 
-#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="10:14 Big Brother 27 USA 2025 Live Cam Feeds - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 4
+#EXTINF:-1 tvg-id="Big Brother 27 USA 2025 Live Cam Feeds - Big Brother 27 USA 2025 Live Cam Feeds" tvg-name="15:39 Big Brother 27 USA 2025 Live Cam Feeds - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother 27 Usa 2025 Live", BBFeed 4
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-264.php
 
-#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="10:14 Big Brother Naija 2025 - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
+#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="15:39 Big Brother Naija 2025 - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-230.php
+
+#EXTINF:-1 tvg-id="MotoAmerica Superbikes New Jersey - MotoAmerica Superbikes New Jersey" tvg-name="18:00 MotoAmerica Superbikes New Jersey - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="wXw - Pro Wrestling Grand Prix 2025" tvg-name="20:00 wXw: Pro Wrestling Grand Prix 2025 - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller TV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="2025 Glen Helen Off-Road National - 2025 Glen Helen Off-Road National" tvg-name="23:00 2025 Glen Helen Off-Road National - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="2025 Weekly Racing at Stafford Speedway - 2025 Weekly Racing at Stafford Speedway" tvg-name="00:00 2025 Weekly Racing at Stafford Speedway - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
+
+#EXTINF:-1 tvg-id="wXw - Extreme Wrestling Party 2025" tvg-name="00:00 wXw: Extreme Wrestling Party 2025 - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller TV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="2025 Victoria Weekend at Utica-Rome Speedway - 2025 Victoria Weekend at Utica-Rome Speedway" tvg-name="00:00 2025 Victoria Weekend at Utica-Rome Speedway - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Millstream Speedway - World of Outlaws Millstream Speedway" tvg-name="00:15 World of Outlaws Millstream Speedway - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-155.php
+
+#EXTINF:-1 tvg-id="2025 USAC AMSOIL National Sprint Cars at Paragon Speedway - 2025 USAC AMSOIL National Sprint Cars at Paragon Speedway" tvg-name="00:15 2025 USAC AMSOIL National Sprint Cars at Paragon Speedway - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="2025 Short Track Super Series Montgomery County Open at Fonda Speedway - 2025 Short Track Super Series Montgomery County Open at Fonda Speedway" tvg-name="00:15 2025 Short Track Super Series Montgomery County Open at Fonda Speedway - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-157.php
+
+#EXTINF:-1 tvg-id="2025 Lucas Oil Jackson 100 at Brownstown Speedway - 2025 Lucas Oil Jackson 100 at Brownstown Speedway" tvg-name="00:45 2025 Lucas Oil Jackson 100 at Brownstown Speedway - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
+
+#EXTINF:-1 tvg-id="Williams Grove Speedway Sprint Cars - Williams Grove Speedway Sprint Cars" tvg-name="01:00 Williams Grove Speedway Sprint Cars - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="TNA Wrestling - Victory Road 2025" tvg-name="03:00 TNA Wrestling: Victory Road 2025 - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller TV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="Budo Sento Championship VOl 3 - Budo Sento Championship VOl 3" tvg-name="05:30 Budo Sento Championship VOl 3 - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
 
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Drogheda United vs Derry City" tvg-name="20:45 Ireland Republic - Premier Division : Drogheda United vs Derry City - 26/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Soccer - Ireland Republic", LOITV
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
