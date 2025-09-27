@@ -1,0 +1,1 @@
+italia1: https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28italia1%29/manifest.mpd&key_id=b2ac62177a11407290722302e1e3a32c&key=51a4c173aa6cdf1f169b57602fee1c44
