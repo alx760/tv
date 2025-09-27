@@ -1,8 +1,5 @@
 #EXTM3U
 # Playlist generata da Hattrick
-#EXTINF:-1 tvg-id="" tvg-name="daznesphd " tvg-logo="" group-title="Altro", daznesphd (Hd)
-https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//rr.cdn.vodafone.pt/LIVE/sdash/LIVE%24522/index.mpd/Manifest.mpd%3Fstart%3DLIVE%26end%3DEND%26device%3DDASH_AVC_FULLHD%26ck%3DMzgwNWNkNTMzYzEzNDFhNzkzNGQxMzYyOWViN2EzNGU6MjU0MjU2NDkyOGNiOGUzZmU0NTk1YWI4ZGNmZDZlNzc%3D&key_id=3805cd533c1341a7934d13629eb7a34e&key=2542564928cb8e3fe4595ab8dcfd6e77
-
 #EXTINF:-1 tvg-id="" tvg-name="italia1 " tvg-logo="" group-title="Altro", italia1 (H)
 https://link.mfp/proxy/mpd/manifest.m3u8?api_password=mfp&d=https%3A//timlivetu0.cb.ticdn.it/Content/DASH/Live/channel%28italia1%29/manifest.mpd&key_id=b2ac62177a11407290722302e1e3a32c&key=51a4c173aa6cdf1f169b57602fee1c44
 
