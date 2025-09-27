@@ -1,4 +1,52 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="PFL MENA 3 - 2025 Semifinals" tvg-name="17:00 PFL MENA 3: 2025 Semifinals - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", DAZN PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-218.php
+
+#EXTINF:-1 tvg-id="Boxing - Dorin Krasmaru vs Harvey Dykes" tvg-name="17:30 Boxing : Dorin Krasmaru vs Harvey Dykes - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-219.php
+
+#EXTINF:-1 tvg-id="wXw - Pro Wrestling Grand Prix 2025" tvg-name="17:30 wXw: Pro Wrestling Grand Prix 2025 - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller TV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-220.php
+
+#EXTINF:-1 tvg-id="MotoAmerica Superbikes New Jersey - MotoAmerica Superbikes New Jersey" tvg-name="18:00 MotoAmerica Superbikes New Jersey - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-221.php
+
+#EXTINF:-1 tvg-id="2025 52nd NAPA Fall Final at Stafford Speedway - 2025 52nd NAPA Fall Final at Stafford Speedway" tvg-name="18:15 2025 52nd NAPA Fall Final at Stafford Speedway - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-222.php
+
+#EXTINF:-1 tvg-id="TNT - Effy's Big Gay Brunch UK 3" tvg-name="20:30 TNT: Effy's Big Gay Brunch UK 3 - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller TV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-189.php
+
+#EXTINF:-1 tvg-id="2025 ValleyStar Credit Union 300 at Martinsville Speedway - 2025 ValleyStar Credit Union 300 at Martinsville Speedway" tvg-name="20:45 2025 ValleyStar Credit Union 300 at Martinsville Speedway - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-190.php
+
+#EXTINF:-1 tvg-id="2025 NASCAR Championship Night at Riverhead Raceway - 2025 NASCAR Championship Night at Riverhead Raceway" tvg-name="22:30 2025 NASCAR Championship Night at Riverhead Raceway - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-191.php
+
+#EXTINF:-1 tvg-id="2025 IMCA Creek Classic at 141 Speedway - 2025 IMCA Creek Classic at 141 Speedway" tvg-name="23:00 2025 IMCA Creek Classic at 141 Speedway - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-192.php
+
+#EXTINF:-1 tvg-id="2025 Glen Helen Off-Road National - 2025 Glen Helen Off-Road National" tvg-name="23:00 2025 Glen Helen Off-Road National - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-193.php
+
+#EXTINF:-1 tvg-id="2025 Short Track Super Series Montgomery County Open at Fonda Speedway - 2025 Short Track Super Series Montgomery County Open at Fonda Speedway" tvg-name="23:00 2025 Short Track Super Series Montgomery County Open at Fonda Speedway - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-194.php
+
+#EXTINF:-1 tvg-id="2025 IRA Sprints at Plymouth Dirt Track - 2025 IRA Sprints at Plymouth Dirt Track" tvg-name="23:45 2025 IRA Sprints at Plymouth Dirt Track - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-195.php
+
+#EXTINF:-1 tvg-id="2025 Victoria Weekend at Utica-Rome Speedway - 2025 Victoria Weekend at Utica-Rome Speedway" tvg-name="00:00 2025 Victoria Weekend at Utica-Rome Speedway - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-196.php
+
+#EXTINF:-1 tvg-id="2025 Lucas Oil Jackson 100 at Brownstown Speedway - 2025 Lucas Oil Jackson 100 at Brownstown Speedway" tvg-name="00:00 2025 Lucas Oil Jackson 100 at Brownstown Speedway - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-197.php
+
+#EXTINF:-1 tvg-id="Bxng Next Generation Baltimore - Bxng Next Generation Baltimore" tvg-name="00:00 Bxng Next Generation Baltimore - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", BXNG Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-198.php
+
+#EXTINF:-1 tvg-id="BKB 46 - Empire State Brawl" tvg-name="02:00 BKB 46: Empire State Brawl - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-199.php
+
 #EXTINF:-1 tvg-id="England - Championship - Wrexham vs Derby County" tvg-name="13:30 England - Championship : Wrexham vs Derby County - 27/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England – Championship/League One/League Two/Scottish", Sky Sports+
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
 
