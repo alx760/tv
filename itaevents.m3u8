@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="11:25 Big Brother Naija 2025 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
+#EXTINF:-1 tvg-id="Big Brother Naija 2025 - Big Brother Naija 2025" tvg-name="02:07 Big Brother Naija 2025 - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Big Brother Naija 2025 Live", MainFeed
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-230.php
 
 #EXTINF:-1 tvg-id="Myanmar National League - Yadanarbon vs Rakhine United" tvg-name="13:30 Myanmar National League : Yadanarbon vs Rakhine United - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Calcio", MRTV 4
@@ -725,6 +725,9 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
 #EXTINF:-1 tvg-id="Athletic - Modern Pentathlon World Cup Final Premiere" tvg-name="16:00 Athletic : Modern Pentathlon World Cup Final Premiere - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Athletic", NLSE
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-24.php
 
+#EXTINF:-1 tvg-id="ATP - BEIJING - De Minaur A. vs Mensik J." tvg-name="07:00 ATP - BEIJING : De Minaur A. vs Mensik J. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
+
 #EXTINF:-1 tvg-id="ATP - BEIJING - Sinner J. vs Marozsan F." tvg-name="08:30 ATP - BEIJING : Sinner J. vs Marozsan F. - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis Atp - Beijing", Tennis Stream
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
 
@@ -1015,4 +1018,1339 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-129.php
 
 #EXTINF:-1 tvg-id="World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro women's final match - World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro women's final match" tvg-name="23:00 World Beach Pro Tour Elite 16 Tournament in Rio de Janeiro women's final match - 29/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pallavolo", Sport Klub 4 Croatia
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Lincoln City vs Manchester United U21" tvg-name="20:00 England - EFL Trophy : Lincoln City vs Manchester United U21 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-193.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Notts County vs Barnsley" tvg-name="20:00 England - EFL Trophy : Notts County vs Barnsley - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-194.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Reading vs West Ham U21" tvg-name="20:00 England - EFL Trophy : Reading vs West Ham U21 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-195.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Peterborough United vs Aston Villa U21" tvg-name="20:00 England - EFL Trophy : Peterborough United vs Aston Villa U21 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-196.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Harrogate Town vs Huddersfield Town" tvg-name="20:45 England - EFL Trophy : Harrogate Town vs Huddersfield Town - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-197.php
+
+#EXTINF:-1 tvg-id="England - EFL Trophy - Barnet vs Brighton U21" tvg-name="20:45 England - EFL Trophy : Barnet vs Brighton U21 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-198.php
+
+#EXTINF:-1 tvg-id="England - Championship - Bristol City vs Ipswich Town" tvg-name="20:45 England - Championship : Bristol City vs Ipswich Town - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-199.php
+
+#EXTINF:-1 tvg-id="England - Championship - Hull City vs Preston North End" tvg-name="20:45 England - Championship : Hull City vs Preston North End - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-200.php
+
+#EXTINF:-1 tvg-id="England - Championship - Leicester City vs Wrexham" tvg-name="20:45 England - Championship : Leicester City vs Wrexham - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-201.php
+
+#EXTINF:-1 tvg-id="England - Championship - Middlesbrough vs Stoke City" tvg-name="20:45 England - Championship : Middlesbrough vs Stoke City - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-36.php
+
+#EXTINF:-1 tvg-id="England - Championship - Sheffield United vs Southampton" tvg-name="20:45 England - Championship : Sheffield United vs Southampton - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-202.php
+
+#EXTINF:-1 tvg-id="England - Championship - Blackburn Rovers vs Swansea City" tvg-name="20:45 England - Championship : Blackburn Rovers vs Swansea City - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-203.php
+
+#EXTINF:-1 tvg-id="England - Championship - Birmingham City vs Sheffield Wednesday" tvg-name="20:45 England - Championship : Birmingham City vs Sheffield Wednesday - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-204.php
+
+#EXTINF:-1 tvg-id="England - League One - Blackpool vs Luton Town" tvg-name="20:45 England - League One : Blackpool vs Luton Town - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-205.php
+
+#EXTINF:-1 tvg-id="England - League One - Cardiff City vs Burton Albion" tvg-name="20:45 England - League One : Cardiff City vs Burton Albion - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - Championship/Efl Trophy/League One", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-206.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Sanfrecce Hiroshima vs Shanghai Port" tvg-name="12:00 Asia - AFC Champions League Elite : Sanfrecce Hiroshima vs Shanghai Port - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Astro Arena Bola 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Sanfrecce Hiroshima vs Shanghai Port" tvg-name="12:00 Asia - AFC Champions League Elite : Sanfrecce Hiroshima vs Shanghai Port - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Diema Sport 3 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-467.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Sanfrecce Hiroshima vs Shanghai Port" tvg-name="12:00 Asia - AFC Champions League Elite : Sanfrecce Hiroshima vs Shanghai Port - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 5
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-95.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Sanfrecce Hiroshima vs Shanghai Port" tvg-name="12:00 Asia - AFC Champions League Elite : Sanfrecce Hiroshima vs Shanghai Port - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport Kliub 1 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Seoul vs Buriram United" tvg-name="12:00 Asia - AFC Champions League Elite : Seoul vs Buriram United - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Nova Sport Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-468.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Seoul vs Buriram United" tvg-name="12:00 Asia - AFC Champions League Elite : Seoul vs Buriram United - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport Kliub 4 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Seoul vs Buriram United" tvg-name="12:00 Asia - AFC Champions League Elite : Seoul vs Buriram United - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 6
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
+
+#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Vizela U23 vs Marítimo U23" tvg-name="12:00 Portugal - Liga Revelação : Vizela U23 vs Marítimo U23 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal 11 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-540.php
+
+#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Estoril U23 vs Estrela U23" tvg-name="12:00 Portugal - Liga Revelação : Estoril U23 vs Estrela U23 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal 11 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-540.php
+
+#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Santa Clara U23 vs Portimonense U23" tvg-name="13:00 Portugal - Liga Revelação : Santa Clara U23 vs Portimonense U23 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal 11 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-540.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Johor Darul Ta'zim vs Machida Zelvia" tvg-name="14:15 Asia - AFC Champions League Elite : Johor Darul Ta'zim vs Machida Zelvia - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Astro Arena Bola
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Johor Darul Ta'zim vs Machida Zelvia" tvg-name="14:15 Asia - AFC Champions League Elite : Johor Darul Ta'zim vs Machida Zelvia - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Nova Sport Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-468.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Johor Darul Ta'zim vs Machida Zelvia" tvg-name="14:15 Asia - AFC Champions League Elite : Johor Darul Ta'zim vs Machida Zelvia - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport Klub HD Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Johor Darul Ta'zim vs Machida Zelvia" tvg-name="14:15 Asia - AFC Champions League Elite : Johor Darul Ta'zim vs Machida Zelvia - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 6
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Johor Darul Ta'zim vs Machida Zelvia" tvg-name="14:15 Asia - AFC Champions League Elite : Johor Darul Ta'zim vs Machida Zelvia - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 2 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Chengdu Rongcheng vs Gangwon" tvg-name="14:15 Asia - AFC Champions League Elite : Chengdu Rongcheng vs Gangwon - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Astro Arena Bola 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Chengdu Rongcheng vs Gangwon" tvg-name="14:15 Asia - AFC Champions League Elite : Chengdu Rongcheng vs Gangwon - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Diema Sport 3 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-467.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Chengdu Rongcheng vs Gangwon" tvg-name="14:15 Asia - AFC Champions League Elite : Chengdu Rongcheng vs Gangwon - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 5
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-95.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Chengdu Rongcheng vs Gangwon" tvg-name="14:15 Asia - AFC Champions League Elite : Chengdu Rongcheng vs Gangwon - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport Kliub 1 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-101.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Two - Ahal vs Al Hussein" tvg-name="15:45 Asia - AFC Champions League Two : Ahal vs Al Hussein - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport Kliub 4 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Two - Ahal vs Al Hussein" tvg-name="15:45 Asia - AFC Champions League Two : Ahal vs Al Hussein - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 9
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-99.php
+
+#EXTINF:-1 tvg-id="Slovakia Slovensky Pohar - MSK Namestovo vs. Povazska Bystrica - Slovakia Slovensky Pohar - MSK Namestovo vs. Povazska Bystrica" tvg-name="16:00 Slovakia Slovensky Pohar - MSK Namestovo vs. Povazska Bystrica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", RTVS Sport Slovakia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-20.php
+
+#EXTINF:-1 tvg-id="RomaniaLiga II - Steaua București vs Sepsi OSK" tvg-name="16:00 RomaniaLiga II : Steaua București vs Sepsi OSK - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Digi Sport 1 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-400.php
+
+#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Sporting Braga U23 vs Leixões U23" tvg-name="16:00 Portugal - Liga Revelação : Sporting Braga U23 vs Leixões U23 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal 11 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-540.php
+
+#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Famalicão U23 vs Academico Viseu U23" tvg-name="16:00 Portugal - Liga Revelação : Famalicão U23 vs Academico Viseu U23 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal 11 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-540.php
+
+#EXTINF:-1 tvg-id="Bulgaria - Parva Liga - Botev Plovdiv vs Levski Sofia" tvg-name="16:30 Bulgaria - Parva Liga : Botev Plovdiv vs Levski Sofia - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Diema Sport Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-465.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Sampdoria vs Catanzaro" tvg-name="17:00 Italy - Serie B : Sampdoria vs Catanzaro - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="Russia - Russian Cup - Rubin Kazan' vs Zenit" tvg-name="17:00 Russia - Russian Cup : Rubin Kazan' vs Zenit - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Match Premier Russia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-573.php
+
+#EXTINF:-1 tvg-id="Russia - Russian Cup - Rubin Kazan' vs Zenit" tvg-name="17:00 Russia - Russian Cup : Rubin Kazan' vs Zenit - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Match TV Russia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-127.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Sadd vs Al Sharjah" tvg-name="18:00 Asia - AFC Champions League Elite : Al Sadd vs Al Sharjah - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Astro Grandstand
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-123.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Sadd vs Al Sharjah" tvg-name="18:00 Asia - AFC Champions League Elite : Al Sadd vs Al Sharjah - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Diema Sport 3 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-467.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Sadd vs Al Sharjah" tvg-name="18:00 Asia - AFC Champions League Elite : Al Sadd vs Al Sharjah - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport Klub HD Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Sadd vs Al Sharjah" tvg-name="18:00 Asia - AFC Champions League Elite : Al Sadd vs Al Sharjah - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-92.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Two - Sepahan vs Mohun Bagan" tvg-name="18:00 Asia - AFC Champions League Two : Sepahan vs Mohun Bagan - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Nova Sport Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-468.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Two - Sepahan vs Mohun Bagan" tvg-name="18:00 Asia - AFC Champions League Two : Sepahan vs Mohun Bagan - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 5
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-95.php
+
+#EXTINF:-1 tvg-id="Portugal - Liga Revelação - Farense U23 vs União de Leiria U23" tvg-name="18:00 Portugal - Liga Revelação : Farense U23 vs União de Leiria U23 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal 11 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-540.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="18:45 UEFA Champions League : Simulcast - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-559.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="18:45 UEFA Champions League : Simulcast - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN2 DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-427.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="18:45 UEFA Champions League : Simulcast - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TRT Spor Turkey
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TNT Sports 2 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Qazsport
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Nova Sport 4 CZ
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1024.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN1 DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-426.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TV2 Sport 1 Norway
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Eleven 1 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-455.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-870.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Foot France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-463.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports Malaysia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", CANAL+ EXTRA 1 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TUDN USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", UniMás
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-133.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Ziggo Sport 2 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-398.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Movistar Liga de Campeones
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-435.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Digi Sport 1 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-400.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Prima Sport 1 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-583.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TV3 Sport Denmark
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-809.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Arena Sport 2 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-433.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Cosmote Sport 2 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-623.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TNT Brasil
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-87.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-149.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", MAX Sport 3 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-474.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport Premier League
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-414.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport MaXimo 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-91.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA English 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-61.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Kairat vs Real Madrid" tvg-name="18:45 UEFA Champions League : Kairat vs Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", 5 Live Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TNT Sports 3 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-33.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 4
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", VTM 2 Belgium
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Club RTL Belgium
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 253 IT
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-8.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Nova Sport 6 CZ
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1026.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", CANAL+ EXTRA 2 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Eleven 2 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-456.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Movistar Liga de Campeones 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-177.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", MAX Sport 4 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-475.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Fox Sports Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-787.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Sport France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-122.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Digi Sport 2 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-401.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports 3 Malaysia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-714.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Prima Sport 2 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-584.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Ziggo Sport 3 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-919.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TV3 MAX Denmark
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-223.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Arena Sport 3 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-434.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN SPORTS MENA 8
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-98.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport Variety 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-418.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Space Brazil
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atalanta vs Club Brugge" tvg-name="18:45 UEFA Champions League : Atalanta vs Club Brugge - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", 5Stars Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-147.php
+
+#EXTINF:-1 tvg-id="Germany - 3. Liga - Simulcast" tvg-name="19:00 Germany - 3. Liga : Simulcast - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Magenta Sport 301
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-10.php
+
+#EXTINF:-1 tvg-id="Germany - 3. Liga - Havelse vs Waldhof Mannheim" tvg-name="19:00 Germany - 3. Liga : Havelse vs Waldhof Mannheim - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Magenta Sport 306
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-11.php
+
+#EXTINF:-1 tvg-id="Germany - 3. Liga - Saarbrücken vs MSV Duisburg" tvg-name="19:00 Germany - 3. Liga : Saarbrücken vs MSV Duisburg - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Magenta Sport 302
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-12.php
+
+#EXTINF:-1 tvg-id="Germany - 3. Liga - Alemannia Aachen vs Erzgebirge Aue" tvg-name="19:00 Germany - 3. Liga : Alemannia Aachen vs Erzgebirge Aue - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Magenta Sport 305
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-13.php
+
+#EXTINF:-1 tvg-id="Germany - 3. Liga - Stuttgart II vs Wehen Wiesbaden" tvg-name="19:00 Germany - 3. Liga : Stuttgart II vs Wehen Wiesbaden - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Magenta Sport 304
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-14.php
+
+#EXTINF:-1 tvg-id="Germany - 3. Liga - Hansa Rostock vs Energie Cottbus" tvg-name="19:00 Germany - 3. Liga : Hansa Rostock vs Energie Cottbus - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Magenta Sport 303
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-15.php
+
+#EXTINF:-1 tvg-id="Germany - 3. Liga - Hansa Rostock vs Energie Cottbus" tvg-name="19:00 Germany - 3. Liga : Hansa Rostock vs Energie Cottbus - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport Kliub 4 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-104.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Kalmar vs Örebro" tvg-name="19:00 Sweden - Superettan : Kalmar vs Örebro - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Discovery+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-16.php
+
+#EXTINF:-1 tvg-id="Sweden - Superettan - Örgryte vs Landskrona" tvg-name="19:00 Sweden - Superettan : Örgryte vs Landskrona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Discovery+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-17.php
+
+#EXTINF:-1 tvg-id="Russia - Russian Cup - Akhmat Grozny vs Orenburg" tvg-name="19:30 Russia - Russian Cup : Akhmat Grozny vs Orenburg - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Match Premier Russia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-573.php
+
+#EXTINF:-1 tvg-id="Russia - Russian Cup - Krasnodar vs Dinamo Moskva" tvg-name="19:30 Russia - Russian Cup : Krasnodar vs Dinamo Moskva - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Match TV Russia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-127.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Sport Huancayo vs Alianza Universidad" tvg-name="20:00 Peru - Primera Division : Sport Huancayo vs Alianza Universidad - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Liga 1 Max Peru
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
+
+#EXTINF:-1 tvg-id="Netherlands - Eerste Divisie - VVV vs Den Bosch" tvg-name="20:00 Netherlands - Eerste Divisie : VVV vs Den Bosch - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN 4 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-19.php
+
+#EXTINF:-1 tvg-id="Netherlands - Eerste Divisie - Willem II vs Helmond Sport" tvg-name="20:00 Netherlands - Eerste Divisie : Willem II vs Helmond Sport - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN 1 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-379.php
+
+#EXTINF:-1 tvg-id="Netherlands - Eerste Divisie - Eindhoven vs Dordrecht" tvg-name="20:00 Netherlands - Eerste Divisie : Eindhoven vs Dordrecht - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN 3 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-888.php
+
+#EXTINF:-1 tvg-id="Netherlands - Eerste Divisie - Emmen vs Vitesse" tvg-name="20:00 Netherlands - Eerste Divisie : Emmen vs Vitesse - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN 2 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-386.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Ittihad vs Al Ahli" tvg-name="20:15 Asia - AFC Champions League Elite : Al Ittihad vs Al Ahli - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Astro Arena Bola
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Ittihad vs Al Ahli" tvg-name="20:15 Asia - AFC Champions League Elite : Al Ittihad vs Al Ahli - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Nova Sport Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-468.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Ittihad vs Al Ahli" tvg-name="20:15 Asia - AFC Champions League Elite : Al Ittihad vs Al Ahli - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-92.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Ittihad vs Al Ahli" tvg-name="20:15 Asia - AFC Champions League Elite : Al Ittihad vs Al Ahli - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN4 Brazil
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-85.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Ittihad vs Al Ahli" tvg-name="20:15 Asia - AFC Champions League Elite : Al Ittihad vs Al Ahli - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport Klub HD Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="Asia - AFC Champions League Elite - Al Ittihad vs Al Ahli" tvg-name="20:15 Asia - AFC Champions League Elite : Al Ittihad vs Al Ahli - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 4 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Frosinone vs Cesena" tvg-name="20:30 Italy - Serie B : Frosinone vs Cesena - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-59.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Virtus Entella vs Bari 1908" tvg-name="20:30 Italy - Serie B : Virtus Entella vs Bari 1908 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-68.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Juve Stabia vs Mantova" tvg-name="20:30 Italy - Serie B : Juve Stabia vs Mantova - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-69.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Palermo vs Venezia" tvg-name="20:30 Italy - Serie B : Palermo vs Venezia - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-76.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Reggiana vs Spezia" tvg-name="20:30 Italy - Serie B : Reggiana vs Spezia - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
+
+#EXTINF:-1 tvg-id="Italy - Serie B - Calcio Padova vs Avellino" tvg-name="20:30 Italy - Serie B : Calcio Padova vs Avellino - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Italia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-86.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-559.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN2 DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-427.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Sport 360
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-464.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Ziggo Sport 4 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-396.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Movistar Liga de Campeones 4
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", CANAL+ EXTRA 4 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-179.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Simulcast" tvg-name="21:00 UEFA Champions League : Simulcast - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Cosmote Sport 1 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-622.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TNT Sports 8 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-20.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 8
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-21.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 252 IT
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-22.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Nova Sport 3 CZ
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1023.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TRT Spor Turkey
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ 360 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-567.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Blue Sport 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-23.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Live 5 France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-105.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Ziggo Sport 3 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-919.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Digi Sport 1 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-400.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Prima Sport 2 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-584.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Movistar Liga de Campeones 7
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-180.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Fox Sports 2 Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-788.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Arena Sport 4 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-580.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport Variety
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-416.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Internazionale vs Slavia Praha" tvg-name="21:00 UEFA Champions League : Internazionale vs Slavia Praha - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 4
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-94.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 4
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TRT 1 Turkey
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1012.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Nova Sport 6 CZ
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1026.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Eleven 1 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-455.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Calcio IT
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-870.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Sport France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-122.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Blue Sport 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-24.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Digi Sport 2 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-401.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Prima Sport 1 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-583.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Ziggo Sport 2 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-398.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports Malaysia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-712.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Movistar Liga de Campeones 5
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-181.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", CANAL+ EXTRA 1 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TV3+ HD Denmark
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-819.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Kanal A Slovenia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-25.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Arena Sport 1 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-432.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", V Sport Premium
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-26.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Space Brazil
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN2 Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", MAX Sport 3 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-474.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport Premier League
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-414.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-91.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA English 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-61.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Galatasaray vs Liverpool" tvg-name="21:00 UEFA Champions League : Galatasaray vs Liverpool - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", 5Sport Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TNT Sports 7 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-27.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", CBS Sports Network USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Eleven 3 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-457.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Live 7 France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-106.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Movistar Liga de Campeones 6
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", CANAL+ EXTRA 6 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-183.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Blue Sport 6
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-28.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Digi Sport 3 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-402.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Prima Sport 4 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-586.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", MAX Sport 2 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN3 Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-798.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport Variety 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-417.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Paphos vs Bayern München" tvg-name="21:00 UEFA Champions League : Paphos vs Bayern München - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 5
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-95.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Tottenham Hotspur" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TNT Sports 2 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-32.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Tottenham Hotspur" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 5
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-29.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Tottenham Hotspur" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TRT Spor Turkey
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Tottenham Hotspur" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Eleven 4 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-458.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Tottenham Hotspur" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Live 6 France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-107.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Tottenham Hotspur" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Movistar Liga de Campeones 9
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-184.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Tottenham Hotspur" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Ziggo Sport 6 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-901.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Tottenham Hotspur" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 258 IT
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-108.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Tottenham Hotspur" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports 2 Malaysia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-713.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Tottenham Hotspur" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport Action
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-420.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Bodø / Glimt vs Tottenham Hotspur" tvg-name="21:00 UEFA Champions League : Bodø / Glimt vs Tottenham Hotspur - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 9
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-99.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TNT Sports 1 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-31.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 6
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-30.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport TV5 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-290.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Nova Sport 4 CZ
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1024.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TRT Spor Turkey
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 254 IT
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Live 3 France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-109.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Digi Sport 4 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-403.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Prima Sport 3 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-585.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TUDN USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-66.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", UniMás
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-133.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Blue Sport D 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-110.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Movistar Liga de Campeones 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-177.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Fox Sports Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-787.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Ziggo Sport 5 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-383.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Cosmote Sport 2 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-623.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TV3 Sport Denmark
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-809.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Arena Sport 2 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-433.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", CANAL+ EXTRA 2 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", V Sport Football
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-185.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", MAX Sport 4 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-475.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports 3 Malaysia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-714.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TNT Brasil
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-87.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport Variety 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-418.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport MaXimo 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-572.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Chelsea vs Benfica" tvg-name="21:00 UEFA Champions League : Chelsea vs Benfica - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 6
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-96.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Olympique Marseille vs Ajax" tvg-name="21:00 UEFA Champions League : Olympique Marseille vs Ajax - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TNT Sports 6 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Olympique Marseille vs Ajax" tvg-name="21:00 UEFA Champions League : Olympique Marseille vs Ajax - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 7
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Olympique Marseille vs Ajax" tvg-name="21:00 UEFA Champions League : Olympique Marseille vs Ajax - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Ziggo Sport 1 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-393.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Olympique Marseille vs Ajax" tvg-name="21:00 UEFA Champions League : Olympique Marseille vs Ajax - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Foot France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-463.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Olympique Marseille vs Ajax" tvg-name="21:00 UEFA Champions League : Olympique Marseille vs Ajax - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 257 IT
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Olympique Marseille vs Ajax" tvg-name="21:00 UEFA Champions League : Olympique Marseille vs Ajax - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Blue Sport 4
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Olympique Marseille vs Ajax" tvg-name="21:00 UEFA Champions League : Olympique Marseille vs Ajax - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Movistar Liga de Campeones 8
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-186.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Olympique Marseille vs Ajax" tvg-name="21:00 UEFA Champions League : Olympique Marseille vs Ajax - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Arena Sport 3 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-434.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Olympique Marseille vs Ajax" tvg-name="21:00 UEFA Champions League : Olympique Marseille vs Ajax - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 7
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-97.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Olympique Marseille vs Ajax" tvg-name="21:00 UEFA Champions League : Olympique Marseille vs Ajax - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", 5Stars Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-147.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TNT Sports 5 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-155.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport Austria 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Nova Sport 5 CZ
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1025.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TRT Spor Turkey
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-889.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN1 DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-426.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", CANAL+ EXTRA 3 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-187.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TV3 Max Denmark
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-223.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Movistar Liga de Campeones
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-435.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Canal+ Live 4 France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-157.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sport 256 IT
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-158.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Blue Sport 5
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", DAZN Eleven 2 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-456.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-149.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", SuperSport Football
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-56.php
+
+#EXTINF:-1 tvg-id="UEFA Champions League - Atlético Madrid vs Eintracht Frankfurt" tvg-name="21:00 UEFA Champions League : Atlético Madrid vs Eintracht Frankfurt - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-93.php
+
+#EXTINF:-1 tvg-id="England - Championship - Derby County vs Charlton Athletic" tvg-name="21:00 England - Championship : Derby County vs Charlton Athletic - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sports Football UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-35.php
+
+#EXTINF:-1 tvg-id="England - Championship - Derby County vs Charlton Athletic" tvg-name="21:00 England - Championship : Derby County vs Charlton Athletic - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sky Sports Main Event UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-38.php
+
+#EXTINF:-1 tvg-id="England - Championship - Derby County vs Charlton Athletic" tvg-name="21:00 England - Championship : Derby County vs Charlton Athletic - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport TV1 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-49.php
+
+#EXTINF:-1 tvg-id="England - Championship - Derby County vs Charlton Athletic" tvg-name="21:00 England - Championship : Derby County vs Charlton Athletic - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MAX 4 France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-494.php
+
+#EXTINF:-1 tvg-id="England - Championship - Derby County vs Charlton Athletic" tvg-name="21:00 England - Championship : Derby County vs Charlton Athletic - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Astro Football
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-124.php
+
+#EXTINF:-1 tvg-id="England - Championship - Derby County vs Charlton Athletic" tvg-name="21:00 England - Championship : Derby County vs Charlton Athletic - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN2 Mexico
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-926.php
+
+#EXTINF:-1 tvg-id="England - Championship - Derby County vs Charlton Athletic" tvg-name="21:00 England - Championship : Derby County vs Charlton Athletic - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 2 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-141.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Egypt U20 vs New Zealand U20" tvg-name="22:00 FIFA U-20 World Cup : Egypt U20 vs New Zealand U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Fox Soccer Plus
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-756.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Egypt U20 vs New Zealand U20" tvg-name="22:00 FIFA U-20 World Cup : Egypt U20 vs New Zealand U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TSN3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Egypt U20 vs New Zealand U20" tvg-name="22:00 FIFA U-20 World Cup : Egypt U20 vs New Zealand U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Match! Football 1 Russia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-136.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Panama U20 vs Ukraine U20" tvg-name="22:00 FIFA U-20 World Cup : Panama U20 vs Ukraine U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Fox Sports 2 USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Panama U20 vs Ukraine U20" tvg-name="22:00 FIFA U-20 World Cup : Panama U20 vs Ukraine U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", NBC UNIVERSO USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-845.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Panama U20 vs Ukraine U20" tvg-name="22:00 FIFA U-20 World Cup : Panama U20 vs Ukraine U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", RPC Panama
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Panama U20 vs Ukraine U20" tvg-name="22:00 FIFA U-20 World Cup : Panama U20 vs Ukraine U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TSN5
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Panama U20 vs Ukraine U20" tvg-name="22:00 FIFA U-20 World Cup : Panama U20 vs Ukraine U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TVP Sport Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Panama U20 vs Ukraine U20" tvg-name="22:00 FIFA U-20 World Cup : Panama U20 vs Ukraine U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 8
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-98.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Panama U20 vs Ukraine U20" tvg-name="22:00 FIFA U-20 World Cup : Panama U20 vs Ukraine U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 1 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Juan Pablo II College vs ADT" tvg-name="22:15 Peru - Primera Division : Juan Pablo II College vs ADT - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Liga 1 Max Peru
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
+
+#EXTINF:-1 tvg-id="Argentina - Primera División - Newell's Old Boys vs Estudiantes" tvg-name="00:00 Argentina - Primera División : Newell's Old Boys vs Estudiantes - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TNT Sports Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-388.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Chile U20 vs Japan U20" tvg-name="01:00 FIFA U-20 World Cup : Chile U20 vs Japan U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Fox Sports 1 USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Chile U20 vs Japan U20" tvg-name="01:00 FIFA U-20 World Cup : Chile U20 vs Japan U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TSN3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-113.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Chile U20 vs Japan U20" tvg-name="01:00 FIFA U-20 World Cup : Chile U20 vs Japan U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Magenta Sport 318
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-10.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Chile U20 vs Japan U20" tvg-name="01:00 FIFA U-20 World Cup : Chile U20 vs Japan U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TVP Sport Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-128.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Chile U20 vs Japan U20" tvg-name="01:00 FIFA U-20 World Cup : Chile U20 vs Japan U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-92.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Chile U20 vs Japan U20" tvg-name="01:00 FIFA U-20 World Cup : Chile U20 vs Japan U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA English 1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-61.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Chile U20 vs Japan U20" tvg-name="01:00 FIFA U-20 World Cup : Chile U20 vs Japan U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 3 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-142.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Korea Republic U20 vs Paraguay U20" tvg-name="01:00 FIFA U-20 World Cup : Korea Republic U20 vs Paraguay U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Fox Sports 2 USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-758.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Korea Republic U20 vs Paraguay U20" tvg-name="01:00 FIFA U-20 World Cup : Korea Republic U20 vs Paraguay U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", TSN4
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-114.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Korea Republic U20 vs Paraguay U20" tvg-name="01:00 FIFA U-20 World Cup : Korea Republic U20 vs Paraguay U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Match TV Russia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-127.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Korea Republic U20 vs Paraguay U20" tvg-name="01:00 FIFA U-20 World Cup : Korea Republic U20 vs Paraguay U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Match! Football 1 Russia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-136.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Korea Republic U20 vs Paraguay U20" tvg-name="01:00 FIFA U-20 World Cup : Korea Republic U20 vs Paraguay U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-93.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Korea Republic U20 vs Paraguay U20" tvg-name="01:00 FIFA U-20 World Cup : Korea Republic U20 vs Paraguay U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA English 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-90.php
+
+#EXTINF:-1 tvg-id="FIFA U-20 World Cup - Korea Republic U20 vs Paraguay U20" tvg-name="01:00 FIFA U-20 World Cup : Korea Republic U20 vs Paraguay U20 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sport 4 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="Major League Soccer - Inter Miami vs Chicago Fire" tvg-name="01:30 Major League Soccer : Inter Miami vs Chicago Fire - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", MLS Season Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-55.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - Atlético Mineiro vs Juventude" tvg-name="02:30 Brazil - Brasileirão : Atlético Mineiro vs Juventude - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sportv Brazil
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-78.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - Atlético Mineiro vs Juventude" tvg-name="02:30 Brazil - Brasileirão : Atlético Mineiro vs Juventude - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Premiere BR
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-88.php
+
+#EXTINF:-1 tvg-id="Brazil - Brasileirão - Atlético Mineiro vs Juventude" tvg-name="02:30 Brazil - Brasileirão : Atlético Mineiro vs Juventude - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Match! Football 3 Russia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-138.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Cusco vs Deportivo Garcilaso" tvg-name="02:30 Peru - Primera Division : Cusco vs Deportivo Garcilaso - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Liga 1 Max Peru
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-18.php
+
+#EXTINF:-1 tvg-id="Peru - Primera Division - Cusco vs Deportivo Garcilaso" tvg-name="02:30 Peru - Primera Division : Cusco vs Deportivo Garcilaso - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", FOX Deportes
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-643.php
+
+#EXTINF:-1 tvg-id="Brazil - Serie B - Goiás vs Atlético Goianiense" tvg-name="02:35 Brazil - Serie B : Goiás vs Atlético Goianiense - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN Brazil
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-81.php
+
+#EXTINF:-1 tvg-id="CONCACAF W Champions Cup - América vs Orlando Pride" tvg-name="03:00 CONCACAF W Champions Cup : América vs Orlando Pride - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", ESPN Mexico
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-925.php
+
+#EXTINF:-1 tvg-id="World - Friendly - Korea Republic vs Paraguay" tvg-name="03:50 World - Friendly : Korea Republic vs Paraguay - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", beIN Sports MENA English 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-90.php
+
+#EXTINF:-1 tvg-id="ATP - BEIJING - Sinner J. vs De Minaur A." tvg-name="08:00 ATP - BEIJING : Sinner J. vs De Minaur A. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - BEIJING - Sinner J. vs De Minaur A." tvg-name="08:00 ATP - BEIJING : Sinner J. vs De Minaur A. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="ATP - BEIJING - Tien L. vs Medvedev D." tvg-name="11:00 ATP - BEIJING : Tien L. vs Medvedev D. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1508.php
+
+#EXTINF:-1 tvg-id="ATP - BEIJING - Tien L. vs Medvedev D." tvg-name="11:00 ATP - BEIJING : Tien L. vs Medvedev D. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Atp - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1519.php
+
+#EXTINF:-1 tvg-id="ATP - TOKYO - Alcaraz C. vs Fritz T." tvg-name="11:00 ATP - TOKYO : Alcaraz C. vs Fritz T. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Τοkyo", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1507.php
+
+#EXTINF:-1 tvg-id="ATP - TOKYO - Alcaraz C. vs Fritz T." tvg-name="11:00 ATP - TOKYO : Alcaraz C. vs Fritz T. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ατρ - Τοkyo", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Bencic B. vs Gauff C." tvg-name="05:00 WTA - BEIJING : Bencic B. vs Gauff C. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1524.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Bencic B. vs Gauff C." tvg-name="05:00 WTA - BEIJING : Bencic B. vs Gauff C. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Bencic B. vs Gauff C." tvg-name="05:00 WTA - BEIJING : Bencic B. vs Gauff C. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Lys E. vs Kessler M." tvg-name="07:30 WTA - BEIJING : Lys E. vs Kessler M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1524.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Lys E. vs Kessler M." tvg-name="07:30 WTA - BEIJING : Lys E. vs Kessler M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1502.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Lys E. vs Kessler M." tvg-name="07:30 WTA - BEIJING : Lys E. vs Kessler M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1519.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Muchova K. vs Anisimova A." tvg-name="13:00 WTA - BEIJING : Muchova K. vs Anisimova A. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1524.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Muchova K. vs Anisimova A." tvg-name="13:00 WTA - BEIJING : Muchova K. vs Anisimova A. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Muchova K. vs Anisimova A." tvg-name="13:00 WTA - BEIJING : Muchova K. vs Anisimova A. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Paolini J. vs Bouzkova M." tvg-name="14:30 WTA - BEIJING : Paolini J. vs Bouzkova M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1524.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Paolini J. vs Bouzkova M." tvg-name="14:30 WTA - BEIJING : Paolini J. vs Bouzkova M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="WTA - BEIJING - Paolini J. vs Bouzkova M." tvg-name="14:30 WTA - BEIJING : Paolini J. vs Bouzkova M. - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wta - Beijing", Tennis Stream
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1501.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Tennis Channel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-40.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports+
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-36.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", beIN Sports 2 France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-117.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sports Tennis DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-884.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sky Sport Tennis Italy
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-576.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", TV4 Tennis
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-701.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Arena Tennis
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-612.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub 2 Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-102.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", MAX Sport 1 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-472.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 3 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-919.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Ziggo Sport 4 NL
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-396.php
+
+#EXTINF:-1 tvg-id="Tokyo-ATP & Beijing-WTA - Tokyo-ATP & Beijing-WTA" tvg-name="13:00 Tokyo-ATP & Beijing-WTA - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Tennis", Sport Klub HD Croatia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-453.php
+
+#EXTINF:-1 tvg-id="UFC - Dana White's Contender Series, Week 8" tvg-name="02:00 UFC: Dana White's Contender Series, Week 8 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", RMC Sport 1 France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-119.php
+
+#EXTINF:-1 tvg-id="UFC - Dana White's Contender Series, Week 8" tvg-name="02:00 UFC: Dana White's Contender Series, Week 8 - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma", Sportsnet 360
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-409.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Nxt)", CW USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-300.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Nxt)", CW PIX 11 USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-280.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Nxt)", SuperSport Variety 3
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-418.php
+
+#EXTINF:-1 tvg-id="WWE NXT - WWE NXT" tvg-name="02:00 WWE NXT - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Nxt)", SuperSport Grandstand
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-412.php
+
+#EXTINF:-1 tvg-id="World Rally Championship 2025-Cile - World Rally Championship 2025-Cile" tvg-name="16:35 World Rally Championship 2025-Cile - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Rai Sport 1 Italy
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-882.php
+
+#EXTINF:-1 tvg-id="FIM Speedway of Nations Semi-Final 1 | Torun - FIM Speedway of Nations Semi-Final 1 | Torun" tvg-name="18:45 FIM Speedway of Nations Semi-Final 1 | Torun - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", EuroSport 2 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-58.php
+
+#EXTINF:-1 tvg-id="FIM Speedway of Nations Semi-Final 1 | Torun - FIM Speedway of Nations Semi-Final 1 | Torun" tvg-name="18:45 FIM Speedway of Nations Semi-Final 1 | Torun - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", EuroSport 2 Spain
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-525.php
+
+#EXTINF:-1 tvg-id="FIM Speedway of Nations Semi-Final 1 | Torun - FIM Speedway of Nations Semi-Final 1 | Torun" tvg-name="18:45 FIM Speedway of Nations Semi-Final 1 | Torun - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", EuroSport 2 France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-773.php
+
+#EXTINF:-1 tvg-id="FIM Speedway of Nations Semi-Final 1 | Torun - FIM Speedway of Nations Semi-Final 1 | Torun" tvg-name="18:45 FIM Speedway of Nations Semi-Final 1 | Torun - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Eurosport 2 SE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-232.php
+
+#EXTINF:-1 tvg-id="FIM Speedway of Nations Semi-Final 1 | Torun - FIM Speedway of Nations Semi-Final 1 | Torun" tvg-name="18:45 FIM Speedway of Nations Semi-Final 1 | Torun - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", EuroSport 2 Italy
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-879.php
+
+#EXTINF:-1 tvg-id="FIM Speedway of Nations Semi-Final 1 | Torun - FIM Speedway of Nations Semi-Final 1 | Torun" tvg-name="18:45 FIM Speedway of Nations Semi-Final 1 | Torun - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", EuroSport 2 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-42.php
+
+#EXTINF:-1 tvg-id="FIM Speedway of Nations Semi-Final 1 | Torun - FIM Speedway of Nations Semi-Final 1 | Torun" tvg-name="18:45 FIM Speedway of Nations Semi-Final 1 | Torun - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Motorsport", Eurosport 2 SE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-232.php
+
+#EXTINF:-1 tvg-id="MLB - Detroit Tigers vs Cleveland Guardians" tvg-name="19:00 MLB : Detroit Tigers vs Cleveland Guardians - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB League Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-207.php
+
+#EXTINF:-1 tvg-id="MLB - Detroit Tigers vs Cleveland Guardians" tvg-name="19:00 MLB : Detroit Tigers vs Cleveland Guardians - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ESPN USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="MLB - Detroit Tigers vs Cleveland Guardians" tvg-name="19:00 MLB : Detroit Tigers vs Cleveland Guardians - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ESPN Deportes
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="MLB - San Diego Padres vs Chicago Cubs" tvg-name="21:00 MLB : San Diego Padres vs Chicago Cubs - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB League Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-208.php
+
+#EXTINF:-1 tvg-id="MLB - San Diego Padres vs Chicago Cubs" tvg-name="21:00 MLB : San Diego Padres vs Chicago Cubs - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ABC NY USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-766.php
+
+#EXTINF:-1 tvg-id="MLB - San Diego Padres vs Chicago Cubs" tvg-name="21:00 MLB : San Diego Padres vs Chicago Cubs - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ABC USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-51.php
+
+#EXTINF:-1 tvg-id="MLB - San Diego Padres vs Chicago Cubs" tvg-name="21:00 MLB : San Diego Padres vs Chicago Cubs - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ESPN Deportes
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:00 MLB : Boston Red Sox vs New York Yankees - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB League Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-11.php
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:00 MLB : Boston Red Sox vs New York Yankees - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ESPN USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:00 MLB : Boston Red Sox vs New York Yankees - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", SPORT1+ DE
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-640.php
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:00 MLB : Boston Red Sox vs New York Yankees - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ESPN Deportes
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="MLB - Boston Red Sox vs New York Yankees" tvg-name="00:00 MLB : Boston Red Sox vs New York Yankees - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Sport 5 Live Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-146.php
+
+#EXTINF:-1 tvg-id="MLB - Cincinnati Reds vs Los Angeles Dodgers" tvg-name="03:00 MLB : Cincinnati Reds vs Los Angeles Dodgers - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", MLB League Pass
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-12.php
+
+#EXTINF:-1 tvg-id="MLB - Cincinnati Reds vs Los Angeles Dodgers" tvg-name="03:00 MLB : Cincinnati Reds vs Los Angeles Dodgers - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ESPN USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
+
+#EXTINF:-1 tvg-id="MLB - Cincinnati Reds vs Los Angeles Dodgers" tvg-name="03:00 MLB : Cincinnati Reds vs Los Angeles Dodgers - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", TNT Sports 1 UK
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-31.php
+
+#EXTINF:-1 tvg-id="MLB - Cincinnati Reds vs Los Angeles Dodgers" tvg-name="03:00 MLB : Cincinnati Reds vs Los Angeles Dodgers - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", Spectrum SportsNet LA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-764.php
+
+#EXTINF:-1 tvg-id="MLB - Cincinnati Reds vs Los Angeles Dodgers" tvg-name="03:00 MLB : Cincinnati Reds vs Los Angeles Dodgers - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Baseball (Mlb)", ESPN Deportes
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-375.php
+
+#EXTINF:-1 tvg-id="Euroleague - Dubai Basketball vs. KK Partizan Nis Belgrade" tvg-name="18:00 Euroleague : Dubai Basketball vs. KK Partizan Nis Belgrade - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 307
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-160.php
+
+#EXTINF:-1 tvg-id="Euroleague - Dubai Basketball vs. KK Partizan Nis Belgrade" tvg-name="18:00 Euroleague : Dubai Basketball vs. KK Partizan Nis Belgrade - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes 2 Spain
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-438.php
+
+#EXTINF:-1 tvg-id="Euroleague - Dubai Basketball vs. KK Partizan Nis Belgrade" tvg-name="18:00 Euroleague : Dubai Basketball vs. KK Partizan Nis Belgrade - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 2 Pland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Euroleague - Dubai Basketball vs. KK Partizan Nis Belgrade" tvg-name="18:00 Euroleague : Dubai Basketball vs. KK Partizan Nis Belgrade - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 2 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-632.php
+
+#EXTINF:-1 tvg-id="Euroleague - Dubai Basketball vs. KK Partizan Nis Belgrade" tvg-name="18:00 Euroleague : Dubai Basketball vs. KK Partizan Nis Belgrade - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 2 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
+
+#EXTINF:-1 tvg-id="Euroleague - Dubai Basketball vs. KK Partizan Nis Belgrade" tvg-name="18:00 Euroleague : Dubai Basketball vs. KK Partizan Nis Belgrade - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Gold Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-148.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 308
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-161.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Oneplay Sport 1 CZ
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1027.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes Spain
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-436.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport TV2 Portugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-74.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 3 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-633.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Detroit
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-891.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Florida
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-892.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Indiana
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-894.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Kansas City
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-895.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network North
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-898.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Oklahoma
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-900.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network SoCal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-902.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", FanDuel Sports Network Southeast
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-904.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", MAX Sport 1 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-472.php
+
+#EXTINF:-1 tvg-id="Euroleague - Hapoel Tel-Aviv vs Barcelona" tvg-name="18:00 Euroleague : Hapoel Tel-Aviv vs Barcelona - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-144.php
+
+#EXTINF:-1 tvg-id="Eurocup - Turk Telekom vs. Ulm Basketball" tvg-name="18:00 Eurocup : Turk Telekom vs. Ulm Basketball - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 313
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-162.php
+
+#EXTINF:-1 tvg-id="Eurocup - Turk Telekom vs. Ulm Basketball" tvg-name="18:00 Eurocup : Turk Telekom vs. Ulm Basketball - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", SVT1 Slovenia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-188.php
+
+#EXTINF:-1 tvg-id="Eurocup - Turk Telekom vs. Ulm Basketball" tvg-name="18:00 Eurocup : Turk Telekom vs. Ulm Basketball - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Max Sport 2 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="Eurocup - Slask Wroclaw vs. BC Neptunas Klaipeda" tvg-name="19:00 Eurocup : Slask Wroclaw vs. BC Neptunas Klaipeda - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 314
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
+
+#EXTINF:-1 tvg-id="Eurocup - Slask Wroclaw vs. BC Neptunas Klaipeda" tvg-name="19:00 Eurocup : Slask Wroclaw vs. BC Neptunas Klaipeda - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", SVT3 Slovenia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-189.php
+
+#EXTINF:-1 tvg-id="Eurocup - Slask Wroclaw vs. BC Neptunas Klaipeda" tvg-name="19:00 Eurocup : Slask Wroclaw vs. BC Neptunas Klaipeda - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 1 Pland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-47.php
+
+#EXTINF:-1 tvg-id="Eurocup - Hamburg vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Hamburg vs Hapoel M. Jerusalem - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 315
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-164.php
+
+#EXTINF:-1 tvg-id="Eurocup - Hamburg vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Hamburg vs Hapoel M. Jerusalem - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", SVT2 Slovenia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-190.php
+
+#EXTINF:-1 tvg-id="Eurocup - Hamburg vs Hapoel M. Jerusalem" tvg-name="19:00 Eurocup : Hamburg vs Hapoel M. Jerusalem - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 1 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-140.php
+
+#EXTINF:-1 tvg-id="Euroleague - Anadolu Efes SK vs. Maccabi Tel-Aviv" tvg-name="19:45 Euroleague : Anadolu Efes SK vs. Maccabi Tel-Aviv - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 309
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="Euroleague - Anadolu Efes SK vs. Maccabi Tel-Aviv" tvg-name="19:45 Euroleague : Anadolu Efes SK vs. Maccabi Tel-Aviv - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes 4 Spain
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-527.php
+
+#EXTINF:-1 tvg-id="Euroleague - Anadolu Efes SK vs. Maccabi Tel-Aviv" tvg-name="19:45 Euroleague : Anadolu Efes SK vs. Maccabi Tel-Aviv - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 6 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-636.php
+
+#EXTINF:-1 tvg-id="Euroleague - Anadolu Efes SK vs. Maccabi Tel-Aviv" tvg-name="19:45 Euroleague : Anadolu Efes SK vs. Maccabi Tel-Aviv - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport Extra 3 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-191.php
+
+#EXTINF:-1 tvg-id="Euroleague - Anadolu Efes SK vs. Maccabi Tel-Aviv" tvg-name="19:45 Euroleague : Anadolu Efes SK vs. Maccabi Tel-Aviv - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Plus Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-145.php
+
+#EXTINF:-1 tvg-id="Eurocup - Venezia vs Aris" tvg-name="20:00 Eurocup : Venezia vs Aris - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 316
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="Eurocup - Venezia vs Aris" tvg-name="20:00 Eurocup : Venezia vs Aris - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", SVT1 Slovenia
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-188.php
+
+#EXTINF:-1 tvg-id="Eurocup - Venezia vs Aris" tvg-name="20:00 Eurocup : Venezia vs Aris - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 5 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-635.php
+
+#EXTINF:-1 tvg-id="Euroleague - Crvena zvezda vs Olimpia Milano" tvg-name="20:00 Euroleague : Crvena zvezda vs Olimpia Milano - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 310
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-167.php
+
+#EXTINF:-1 tvg-id="Euroleague - Crvena zvezda vs Olimpia Milano" tvg-name="20:00 Euroleague : Crvena zvezda vs Olimpia Milano - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes 5 Spain
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="Euroleague - Crvena zvezda vs Olimpia Milano" tvg-name="20:00 Euroleague : Crvena zvezda vs Olimpia Milano - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports Start Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-637.php
+
+#EXTINF:-1 tvg-id="Euroleague - Panathinaikos BC vs. Bayern Munich" tvg-name="20:15 Euroleague : Panathinaikos BC vs. Bayern Munich - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 318
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="Euroleague - Panathinaikos BC vs. Bayern Munich" tvg-name="20:15 Euroleague : Panathinaikos BC vs. Bayern Munich - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Oneplay Sport 1 CZ
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-1027.php
+
+#EXTINF:-1 tvg-id="Euroleague - Panathinaikos BC vs. Bayern Munich" tvg-name="20:15 Euroleague : Panathinaikos BC vs. Bayern Munich - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes 3 Spain
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-526.php
+
+#EXTINF:-1 tvg-id="Euroleague - Panathinaikos BC vs. Bayern Munich" tvg-name="20:15 Euroleague : Panathinaikos BC vs. Bayern Munich - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 4 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-634.php
+
+#EXTINF:-1 tvg-id="Euroleague - Panathinaikos BC vs. Bayern Munich" tvg-name="20:15 Euroleague : Panathinaikos BC vs. Bayern Munich - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport Extra 4 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-192.php
+
+#EXTINF:-1 tvg-id="Euroleague - Panathinaikos BC vs. Bayern Munich" tvg-name="20:15 Euroleague : Panathinaikos BC vs. Bayern Munich - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Gold Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-148.php
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia Vitoria-Gasteiz vs. BC Olympiakos Piraeus" tvg-name="20:30 Euroleague : Baskonia Vitoria-Gasteiz vs. BC Olympiakos Piraeus - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 311
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia Vitoria-Gasteiz vs. BC Olympiakos Piraeus" tvg-name="20:30 Euroleague : Baskonia Vitoria-Gasteiz vs. BC Olympiakos Piraeus - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes 2 Spain
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-438.php
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia Vitoria-Gasteiz vs. BC Olympiakos Piraeus" tvg-name="20:30 Euroleague : Baskonia Vitoria-Gasteiz vs. BC Olympiakos Piraeus - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports Prime Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-638.php
+
+#EXTINF:-1 tvg-id="Euroleague - Baskonia Vitoria-Gasteiz vs. BC Olympiakos Piraeus" tvg-name="20:30 Euroleague : Baskonia Vitoria-Gasteiz vs. BC Olympiakos Piraeus - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", MAX Sport 1 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-472.php
+
+#EXTINF:-1 tvg-id="Euroleague - Virtus Bologna vs. Real Madrid" tvg-name="20:45 Euroleague : Virtus Bologna vs. Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Magenta Sport 312
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="Euroleague - Virtus Bologna vs. Real Madrid" tvg-name="20:45 Euroleague : Virtus Bologna vs. Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 3 Pland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-129.php
+
+#EXTINF:-1 tvg-id="Euroleague - Virtus Bologna vs. Real Madrid" tvg-name="20:45 Euroleague : Virtus Bologna vs. Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Movistar Deportes Spain
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-436.php
+
+#EXTINF:-1 tvg-id="Euroleague - Virtus Bologna vs. Real Madrid" tvg-name="20:45 Euroleague : Virtus Bologna vs. Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Polsat Sport 3 Poland
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-129.php
+
+#EXTINF:-1 tvg-id="Euroleague - Virtus Bologna vs. Real Madrid" tvg-name="20:45 Euroleague : Virtus Bologna vs. Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Nova Sports 2 Greece
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-632.php
+
+#EXTINF:-1 tvg-id="Euroleague - Virtus Bologna vs. Real Madrid" tvg-name="20:45 Euroleague : Virtus Bologna vs. Real Madrid - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Basket", Sport 5 Gold Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-148.php
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Las Vegas Aces W" tvg-name="04:00 WNBA : Indiana Fever W vs Las Vegas Aces W - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wnba", ESPN2 USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Las Vegas Aces W" tvg-name="04:00 WNBA : Indiana Fever W vs Las Vegas Aces W - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wnba", ESPNU USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-316.php
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Las Vegas Aces W" tvg-name="04:00 WNBA : Indiana Fever W vs Las Vegas Aces W - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wnba", TSN1
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-111.php
+
+#EXTINF:-1 tvg-id="WNBA - Indiana Fever W vs Las Vegas Aces W" tvg-name="04:00 WNBA : Indiana Fever W vs Las Vegas Aces W - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wnba", ESPN2 Argentina
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-150.php
+
+#EXTINF:-1 tvg-id="Torna - FIG Challenge Cup - Torna - FIG Challenge Cup" tvg-name="09:00 Torna - FIG Challenge Cup - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ginnastica", M4 Sport Hungary
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-265.php
+
+#EXTINF:-1 tvg-id="Romania, Liga 1 - FK Odorheiu Secuiesc vs. Acs West Deva" tvg-name="17:00 Romania, Liga 1 : FK Odorheiu Secuiesc vs. Acs West Deva - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Futsal", Digi Sport 4 Romania
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-403.php
+
+#EXTINF:-1 tvg-id="NHL - Florida Panthers vs Tampa Bay Lightning" tvg-name="01:00 NHL : Florida Panthers vs Tampa Bay Lightning - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-2.php
+
+#EXTINF:-1 tvg-id="NHL - Montréal Canadiens vs Ottawa Senators" tvg-name="01:00 NHL : Montréal Canadiens vs Ottawa Senators - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-3.php
+
+#EXTINF:-1 tvg-id="NHL - Montréal Canadiens vs Ottawa Senators" tvg-name="01:00 NHL : Montréal Canadiens vs Ottawa Senators - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TSN2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-112.php
+
+#EXTINF:-1 tvg-id="NHL - Montréal Canadiens vs Ottawa Senators" tvg-name="01:00 NHL : Montréal Canadiens vs Ottawa Senators - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TSN5
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-115.php
+
+#EXTINF:-1 tvg-id="NHL - Montréal Canadiens vs Ottawa Senators" tvg-name="01:00 NHL : Montréal Canadiens vs Ottawa Senators - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", RDS CA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-839.php
+
+#EXTINF:-1 tvg-id="NHL - Washington Capitals vs Columbus Blue Jackets" tvg-name="01:00 NHL : Washington Capitals vs Columbus Blue Jackets - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-4.php
+
+#EXTINF:-1 tvg-id="NHL - Washington Capitals vs Columbus Blue Jackets" tvg-name="01:00 NHL : Washington Capitals vs Columbus Blue Jackets - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Monumental Sports Network
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-778.php
+
+#EXTINF:-1 tvg-id="NHL - Washington Capitals vs Columbus Blue Jackets" tvg-name="01:00 NHL : Washington Capitals vs Columbus Blue Jackets - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", FanDuel Sports Network Ohio
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-899.php
+
+#EXTINF:-1 tvg-id="NHL - Detroit Red Wings vs Chicago Blackhawks" tvg-name="02:00 NHL : Detroit Red Wings vs Chicago Blackhawks - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-5.php
+
+#EXTINF:-1 tvg-id="NHL - Detroit Red Wings vs Chicago Blackhawks" tvg-name="02:00 NHL : Detroit Red Wings vs Chicago Blackhawks - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Chicago Sports Network
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-776.php
+
+#EXTINF:-1 tvg-id="NHL - Vegas Golden Knights vs Colorado Avalanche" tvg-name="02:00 NHL : Vegas Golden Knights vs Colorado Avalanche - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-6.php
+
+#EXTINF:-1 tvg-id="NHL - Vegas Golden Knights vs Colorado Avalanche" tvg-name="02:00 NHL : Vegas Golden Knights vs Colorado Avalanche - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", TNT USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-338.php
+
+#EXTINF:-1 tvg-id="NHL - Vegas Golden Knights vs Colorado Avalanche" tvg-name="02:00 NHL : Vegas Golden Knights vs Colorado Avalanche - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", truTV USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-341.php
+
+#EXTINF:-1 tvg-id="NHL - Vegas Golden Knights vs Colorado Avalanche" tvg-name="02:00 NHL : Vegas Golden Knights vs Colorado Avalanche - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", beIN Sports 5 Max France
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-495.php
+
+#EXTINF:-1 tvg-id="NHL - Vegas Golden Knights vs Colorado Avalanche" tvg-name="02:00 NHL : Vegas Golden Knights vs Colorado Avalanche - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", Max Sport 2 Bulgaria
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-473.php
+
+#EXTINF:-1 tvg-id="NHL - Winnipeg Jets vs Minnesota Wild" tvg-name="02:00 NHL : Winnipeg Jets vs Minnesota Wild - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-7.php
+
+#EXTINF:-1 tvg-id="NHL - Winnipeg Jets vs Minnesota Wild" tvg-name="02:00 NHL : Winnipeg Jets vs Minnesota Wild - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", FanDuel Sports Network North
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-898.php
+
+#EXTINF:-1 tvg-id="NHL - Winnipeg Jets vs Minnesota Wild" tvg-name="02:00 NHL : Winnipeg Jets vs Minnesota Wild - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", FanDuel Sports Network Wisconsin
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-907.php
+
+#EXTINF:-1 tvg-id="NHL - Dallas Stars vs St. Louis Blues" tvg-name="02:00 NHL : Dallas Stars vs St. Louis Blues - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-8.php
+
+#EXTINF:-1 tvg-id="NHL - Los Angeles Kings vs Utah Mammoth" tvg-name="03:00 NHL : Los Angeles Kings vs Utah Mammoth - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Nhl", NHL Gamecenter
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-9.php
+
+#EXTINF:-1 tvg-id="Premier Padel, First Round - Premier Padel, First Round" tvg-name="09:00 Premier Padel, First Round - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport 4 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
+
+#EXTINF:-1 tvg-id="Premier Padel, First Round - Premier Padel, First Round" tvg-name="18:30 Premier Padel, First Round - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport TV6 Poutugal
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-291.php
+
+#EXTINF:-1 tvg-id="Premier Padel, First Round - Premier Padel, First Round" tvg-name="18:30 Premier Padel, First Round - 30/09/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Squash", Sport 4 Israel
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-143.php
 
