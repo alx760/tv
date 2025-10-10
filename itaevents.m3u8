@@ -1,11 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Mr Olympia 1 - Mr Olympia 1" tvg-name="13:50 Mr Olympia 1 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+#EXTINF:-1 tvg-id="Mr Olympia 1 - Mr Olympia 1" tvg-name="17:57 Mr Olympia 1 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-205.php
 
-#EXTINF:-1 tvg-id="Mr Olympia 2 - Mr Olympia 2" tvg-name="13:50 Mr Olympia 2 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+#EXTINF:-1 tvg-id="Mr Olympia 1 - Mr Olympia 1" tvg-name="17:57 Mr Olympia 1 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV 2
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-5000.php
+
+#EXTINF:-1 tvg-id="Mr Olympia 2 - Mr Olympia 2" tvg-name="17:57 Mr Olympia 2 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-206.php
 
-#EXTINF:-1 tvg-id="Mr Olympia 3 - Mr Olympia 3" tvg-name="13:50 Mr Olympia 3 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+#EXTINF:-1 tvg-id="Mr Olympia 3 - Mr Olympia 3" tvg-name="17:57 Mr Olympia 3 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-207.php
 
 #EXTINF:-1 tvg-id="2025 No Mercy 16 - 2025 No Mercy 16" tvg-name="16:00 2025 No Mercy 16 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
@@ -880,12 +883,6 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-77.php
 
 #EXTINF:-1 tvg-id="URIJAH FABER'S A-1 COMBAT 31 - URIJAH FABER'S A-1 COMBAT 31" tvg-name="04:00 URIJAH FABER'S A-1 COMBAT 31 - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Mma (Fight)", UFC Fight Pass
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-86.php
-
-#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Smackdown)", WWE Feed
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-163.php
-
-#EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Smackdown)", WWE Feed
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-5000.php
 
 #EXTINF:-1 tvg-id="WWE Friday Night SmackDown - WWE Friday Night SmackDown" tvg-name="02:00 WWE Friday Night SmackDown - 10/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Wwe (Smackdown)", USA Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-343.php
