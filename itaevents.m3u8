@@ -1,4 +1,55 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Mr Olympia 1 - Mr Olympia 1" tvg-name="12:45 Mr Olympia 1 - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-205.php
+
+#EXTINF:-1 tvg-id="Mr Olympia 2 - Mr Olympia 2" tvg-name="12:45 Mr Olympia 2 - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-206.php
+
+#EXTINF:-1 tvg-id="WWE Crown Jewel Perth PPV - WWE Crown Jewel Perth PPV" tvg-name="14:00 WWE Crown Jewel Perth PPV - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-172.php
+
+#EXTINF:-1 tvg-id="2025 No Mercy 16 - 2025 No Mercy 16" tvg-name="14:30 2025 No Mercy 16 - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="Super Dirt Week Oswego - Super Dirt Week Oswego" tvg-name="20:00 Super Dirt Week Oswego - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-165.php
+
+#EXTINF:-1 tvg-id="2025 STSS Short Track SuperNationals at Afton Motorsports Park - 2025 STSS Short Track SuperNationals at Afton Motorsports Park" tvg-name="20:00 2025 STSS Short Track SuperNationals at Afton Motorsports Park - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="Hot Dish Nationals Hibbing - Hot Dish Nationals Hibbing" tvg-name="21:00 Hot Dish Nationals Hibbing - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="2025 Canadian Super DIRT Weekend at Cornwall Motor Speedway - 2025 Canadian Super DIRT Weekend at Cornwall Motor Speedway" tvg-name="21:20 2025 Canadian Super DIRT Weekend at Cornwall Motor Speedway - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-169.php
+
+#EXTINF:-1 tvg-id="2025 SMART Modified Tour Gary Freeman Hoosier 99 at Tri-County Speedway - 2025 SMART Modified Tour Gary Freeman Hoosier 99 at Tri-County Speedway" tvg-name="22:30 2025 SMART Modified Tour Gary Freeman Hoosier 99 at Tri-County Speedway - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-170.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars - World of Outlaws Sprint Cars" tvg-name="22:45 World of Outlaws Sprint Cars - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-171.php
+
+#EXTINF:-1 tvg-id="2025 USAC AMSOIL National Sprint Cars at Lawrenceburg Speedway - 2025 USAC AMSOIL National Sprint Cars at Lawrenceburg Speedway" tvg-name="23:45 2025 USAC AMSOIL National Sprint Cars at Lawrenceburg Speedway - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-172.php
+
+#EXTINF:-1 tvg-id="2025 IMCA Car Wars at 141 Speedway - 2025 IMCA Car Wars at 141 Speedway" tvg-name="00:45 2025 IMCA Car Wars at 141 Speedway - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-155.php
+
+#EXTINF:-1 tvg-id="2025 Kubota High Limit Racing at Lakeside Speedway - 2025 Kubota High Limit Racing at Lakeside Speedway" tvg-name="01:00 2025 Kubota High Limit Racing at Lakeside Speedway - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
+#EXTINF:-1 tvg-id="Armored MMA 2025 - Medieval Cage Fighting Championship" tvg-name="01:00 Armored MMA 2025: Medieval Cage Fighting Championship - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Triller Tv
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-166.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series Salt City - American Sprint Car Series Salt City" tvg-name="01:15 American Sprint Car Series Salt City - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-174.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Late Models Boothill - World of Outlaws Late Models Boothill" tvg-name="01:45 World of Outlaws Late Models Boothill - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-175.php
+
+#EXTINF:-1 tvg-id="Del Sol Boxing - Brawl in the Barrio" tvg-name="03:00 Del Sol Boxing : Brawl in the Barrio - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ppv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-176.php
+
 #EXTINF:-1 tvg-id="England - League One - Northampton Town vs Rotherham United" tvg-name="15:00 England - League One : Northampton Town vs Rotherham United - 11/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="England - League One/League Two", Sky Sports+
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-107.php
 
