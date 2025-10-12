@@ -129,6 +129,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/31633805432b7c3
 #EXTINF:-1 tvg-id="raigulp.it" tvg-name="Rai Gulp" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-gulp-it.png" group-title="Intrattenimento;Rai Tv",RAI GULP (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1803677691b051ba6d360f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raiitalia.it" tvg-name="Rai Italia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1024px-Rai_Italia_-_Logo_2017.svg.png" group-title="Intrattenimento;Rai Tv",RAI ITALIA (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2944572451ecdb3159250&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="raimovie.it" tvg-name="Rai Movie" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-movie-it.png" group-title="Film;Rai Tv",RAI MOVIE (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1925964148b9cb23cc2bce&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -150,6 +153,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/843891896d79f7a
 #EXTINF:-1 tvg-id="raistoria.it" tvg-name="Rai Storia" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-storia-it.png" group-title="Intrattenimento;Rai Tv",RAI STORIA (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/57338653b83f61385a9f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="raisüdtirol.it" tvg-name="Rai Südtirol" tvg-logo="" group-title="Intrattenimento;Rai Tv",RAI SÜDTIROL (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/441082840c9ecc6bf454e&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="raiyoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/rai-yoyo-it.png" group-title="Intrattenimento;Rai Tv",RAI YOYO (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1890950169c0c68782bbe1&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -165,9 +171,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/209862439074120
 #EXTINF:-1 tvg-id="rakutenfamily.it" tvg-name="Rakuten Family" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN FAMILY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3902650955a82543dc27a4&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
-#EXTINF:-1 tvg-id="rakutentopfree.it" tvg-name="Rakuten Top Free" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TOP FREE (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1572866962efea4ca22353&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
 #EXTINF:-1 tvg-id="rakutentvshows.it" tvg-name="Rakuten Tv Shows" tvg-logo="https://img.utdstc.com/icon/7f6/a4a/7f6a4a47aa35e90d889cb8e71ed9a6930fe5832219371761736e87e880f85a5f:200" group-title="Rakuten",RAKUTEN TV SHOWS (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/860912269147f85ae7a8&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -179,6 +182,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/22357320045f329
 
 #EXTINF:-1 tvg-id="la1.it" tvg-name="Rsi La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/1200px-RSI_La_1_2012.svg.png" group-title="Altro",RSI LA 1 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/22903950460d6b257bf610&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
+#EXTINF:-1 tvg-id="la2.it" tvg-name="Rsi La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1200px-RSI_La_2_2012.svg.png" group-title="Altro",RSI LA 2 (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3475299702c52e31a7073f&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyarte.it" tvg-name="Sky Arte" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-arte-it.png" group-title="Documentari;Sky",SKY ARTE (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1902695925283bcfc576b0&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
@@ -201,6 +207,9 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/313110447477173
 #EXTINF:-1 tvg-id="skycinemadue.it" tvg-name="Sky Cinema Due" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-it.png" group-title="Film;Sky",SKY CINEMA DUE (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/2330574729acc52d969174&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
+#EXTINF:-1 tvg-id="skycinemadue+24.it" tvg-name="Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-due-plus24-it.png" group-title="Film;Sky",SKY CINEMA DUE +24 (V)
+linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1078650168cbe5484d34ad&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
+
 #EXTINF:-1 tvg-id="skycinemafamily.it" tvg-name="Sky Cinema Family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="Film;Sky",SKY CINEMA FAMILY (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/32165161175e13c1d3f56a&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
@@ -209,9 +218,6 @@ linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/3060043751014db
 
 #EXTINF:-1 tvg-id="skycinemauno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Film;Sky",SKY CINEMA UNO (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/17596257388e83c18bb676&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
-
-#EXTINF:-1 tvg-id="skycinemauno+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-plus24-it.png" group-title="Film;Sky",SKY CINEMA UNO +24 (V)
-linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/16998765309700e7076450&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
 
 #EXTINF:-1 tvg-id="skyprimafila1.it" tvg-name="Sky Primafila 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-primafila-it.png" group-title="Film;Sky",SKY PRIMAFILA 1 (V)
 linkproxy tvproxy/proxy/m3u?url=https://vavoo.to/vavoo-iptv/play/1492183364e2c25c729efa&h_user-agent=VAVOO/2.6&h_referer=https://vavoo.to/
