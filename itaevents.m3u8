@@ -354,7 +354,7 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-135.php
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-599.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs Belgium" tvg-name="20:45 World Cup Qualifying : Wales vs Belgium - 13/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Polsat Sport 2 Poland
-linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-505.php
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-50.php
 
 #EXTINF:-1 tvg-id="World Cup Qualifying - Wales vs Belgium" tvg-name="20:45 World Cup Qualifying : Wales vs Belgium - 13/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="All Soccer Events", Sportv2 Brazil
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-79.php
