@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Grand Sumo Tournament - Grand Sumo Tournament" tvg-name="20:30 Grand Sumo Tournament - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-105.php
+
+#EXTINF:-1 tvg-id="Porsche Sprint Challenge Lime Rock - Porsche Sprint Challenge Lime Rock" tvg-name="22:00 Porsche Sprint Challenge Lime Rock - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-106.php
+
+#EXTINF:-1 tvg-id="2025 Dirt Track World Championship at Eldora Speedway - 2025 Dirt Track World Championship at Eldora Speedway" tvg-name="22:30 2025 Dirt Track World Championship at Eldora Speedway - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-109.php
+
+#EXTINF:-1 tvg-id="Super DIRTcar Series Brockville - Super DIRTcar Series Brockville" tvg-name="22:45 Super DIRTcar Series Brockville - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-110.php
+
+#EXTINF:-1 tvg-id="2025 CARS Tour & SMART Modifieds at North Wilkesboro Speedway - 2025 CARS Tour & SMART Modifieds at North Wilkesboro Speedway" tvg-name="23:00 2025 CARS Tour & SMART Modifieds at North Wilkesboro Speedway - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-159.php
+
+#EXTINF:-1 tvg-id="2025 Short Track Super Series Octoberfest at Hagerstown Speedway - 2025 Short Track Super Series Octoberfest at Hagerstown Speedway" tvg-name="00:00 2025 Short Track Super Series Octoberfest at Hagerstown Speedway - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-108.php
+
+#EXTINF:-1 tvg-id="World of Outlaws Sprint Cars Lincoln - World of Outlaws Sprint Cars Lincoln" tvg-name="00:15 World of Outlaws Sprint Cars Lincoln - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-107.php
+
+#EXTINF:-1 tvg-id="2025 USAC AMSOIL National Sprint Cars at Dodge City Raceway Park - 2025 USAC AMSOIL National Sprint Cars at Dodge City Raceway Park" tvg-name="00:40 2025 USAC AMSOIL National Sprint Cars at Dodge City Raceway Park - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-151.php
+
+#EXTINF:-1 tvg-id="2025 KKM Giveback Classic at Port City Raceway - 2025 KKM Giveback Classic at Port City Raceway" tvg-name="01:00 2025 KKM Giveback Classic at Port City Raceway - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-152.php
+
+#EXTINF:-1 tvg-id="2025 Trophy Cup at Tulare Thunderbowl Raceway - 2025 Trophy Cup at Tulare Thunderbowl Raceway" tvg-name="01:00 2025 Trophy Cup at Tulare Thunderbowl Raceway - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-153.php
+
+#EXTINF:-1 tvg-id="2025 Kubota High Limit Racing All-In Championship at Texas Motor Speedway - 2025 Kubota High Limit Racing All-In Championship at Texas Motor Speedway" tvg-name="01:15 2025 Kubota High Limit Racing All-In Championship at Texas Motor Speedway - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Floracing
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-154.php
+
+#EXTINF:-1 tvg-id="American Sprint Car Series Tulsa - American Sprint Car Series Tulsa" tvg-name="01:45 American Sprint Car Series Tulsa - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Pv Events", Event PPV
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-156.php
+
 #EXTINF:-1 tvg-id="Ireland Republic - Premier Division - Drogheda United vs Cork City" tvg-name="20:45 Ireland Republic - Premier Division : Drogheda United vs Cork City - 17/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Ireland Republic", LOITV
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-179.php
 
