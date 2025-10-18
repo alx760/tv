@@ -3104,6 +3104,21 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-114.php
 #EXTINF:-1 tvg-id="CFL - Calgary Stampeders vs Toronto Argonauts" tvg-name="01:00 CFL : Calgary Stampeders vs Toronto Argonauts - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", TSN1
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-111.php
 
+#EXTINF:-1 tvg-id="NCAAF - Princeton at Brown" tvg-name="18:00 NCAAF : Princeton at Brown - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="NCAAF - Furman at Wofford" tvg-name="18:00 NCAAF : Furman at Wofford - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-204.php
+
+#EXTINF:-1 tvg-id="NCAAF - Butler at Dayton" tvg-name="18:00 NCAAF : Butler at Dayton - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-206.php
+
+#EXTINF:-1 tvg-id="NCAAF - Merrimack at Harvard" tvg-name="18:00 NCAAF : Merrimack at Harvard - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-214.php
+
+#EXTINF:-1 tvg-id="NCAAF - Robert Morris at Long Island University" tvg-name="18:00 NCAAF : Robert Morris at Long Island University - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-215.php
+
 #EXTINF:-1 tvg-id="NCAAF - Stonehill at Yale" tvg-name="18:00 NCAAF : Stonehill at Yale - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", NESN USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-762.php
 
@@ -3121,6 +3136,9 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
 
 #EXTINF:-1 tvg-id="NCAAF - Central Michigan at Bowling Green" tvg-name="18:00 NCAAF : Central Michigan at Bowling Green - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBSSN
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
+
+#EXTINF:-1 tvg-id="NCAAF - Eastern Michigan at Miami (OH)" tvg-name="18:00 NCAAF : Eastern Michigan at Miami (OH) - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-216.php
 
 #EXTINF:-1 tvg-id="NCAAF - Arizona at Houston" tvg-name="18:00 NCAAF : Arizona at Houston - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FS1 USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
@@ -3143,20 +3161,107 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-766.php
 #EXTINF:-1 tvg-id="NCAAF - No. 14 Oklahoma at South Carolina" tvg-name="18:45 NCAAF : No. 14 Oklahoma at South Carolina - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", SEC Network USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-385.php
 
+#EXTINF:-1 tvg-id="NCAAF - Hampton at Villanova" tvg-name="19:00 NCAAF : Hampton at Villanova - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="NCAAF - Stony Brook at Monmouth" tvg-name="19:00 NCAAF : Stony Brook at Monmouth - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-179.php
+
+#EXTINF:-1 tvg-id="NCAAF - North Dakota State at Indiana State" tvg-name="19:00 NCAAF : North Dakota State at Indiana State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-180.php
+
+#EXTINF:-1 tvg-id="NCAAF - Davidson at Drake" tvg-name="19:00 NCAAF : Davidson at Drake - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-181.php
+
+#EXTINF:-1 tvg-id="NCAAF - Stetson at Presbyterian" tvg-name="19:00 NCAAF : Stetson at Presbyterian - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="NCAAF - Bucknell at Cornell" tvg-name="19:00 NCAAF : Bucknell at Cornell - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-183.php
+
 #EXTINF:-1 tvg-id="NCAAF - Dartmouth at Fordham" tvg-name="19:00 NCAAF : Dartmouth at Fordham - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", SportsNet New York USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-759.php
+
+#EXTINF:-1 tvg-id="NCAAF - Colgate at Georgetown" tvg-name="19:00 NCAAF : Colgate at Georgetown - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-184.php
 
 #EXTINF:-1 tvg-id="NCAAF - West Virginia at UCF" tvg-name="19:00 NCAAF : West Virginia at UCF - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", TNT USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-338.php
 
+#EXTINF:-1 tvg-id="NCAAF - UT Martin at Gardner-Webb" tvg-name="19:30 NCAAF : UT Martin at Gardner-Webb - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-185.php
+
+#EXTINF:-1 tvg-id="NCAAF - East Tennessee State at Chattanooga" tvg-name="19:30 NCAAF : East Tennessee State at Chattanooga - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-186.php
+
+#EXTINF:-1 tvg-id="NCAAF - Samford at VMI" tvg-name="19:30 NCAAF : Samford at VMI - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-187.php
+
+#EXTINF:-1 tvg-id="NCAAF - Pennsylvania at Columbia" tvg-name="19:30 NCAAF : Pennsylvania at Columbia - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-188.php
+
+#EXTINF:-1 tvg-id="NCAAF - Tennessee Tech at Lindenwood" tvg-name="20:00 NCAAF : Tennessee Tech at Lindenwood - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-189.php
+
+#EXTINF:-1 tvg-id="NCAAF - South Dakota at Northern Iowa" tvg-name="20:00 NCAAF : South Dakota at Northern Iowa - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-190.php
+
+#EXTINF:-1 tvg-id="NCAAF - Western Carolina at The Citadel" tvg-name="20:00 NCAAF : Western Carolina at The Citadel - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-191.php
+
+#EXTINF:-1 tvg-id="NCAAF - Marist at Morehead State" tvg-name="20:00 NCAAF : Marist at Morehead State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-192.php
+
+#EXTINF:-1 tvg-id="NCAAF - Valparaiso at St. Thomas (MN)" tvg-name="20:00 NCAAF : Valparaiso at St. Thomas (MN) - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-193.php
+
 #EXTINF:-1 tvg-id="NCAAF - Holy Cross at Richmond" tvg-name="20:00 NCAAF : Holy Cross at Richmond - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", Monumental Sports Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-778.php
+
+#EXTINF:-1 tvg-id="NCAAF - Kent State at Toledo" tvg-name="20:00 NCAAF : Kent State at Toledo - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-194.php
+
+#EXTINF:-1 tvg-id="NCAAF - Buffalo at UMass" tvg-name="20:30 NCAAF : Buffalo at UMass - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-195.php
+
+#EXTINF:-1 tvg-id="NCAAF - Sacred Heart at Montana" tvg-name="21:00 NCAAF : Sacred Heart at Montana - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-196.php
+
+#EXTINF:-1 tvg-id="NCAAF - Eastern Illinois at Southeast Missouri State" tvg-name="21:00 NCAAF : Eastern Illinois at Southeast Missouri State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-197.php
+
+#EXTINF:-1 tvg-id="NCAAF - Grambling at Arkansas-Pine Bluff" tvg-name="21:00 NCAAF : Grambling at Arkansas-Pine Bluff - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-198.php
+
+#EXTINF:-1 tvg-id="NCAAF - Lincoln (CA) at Mississippi Valley State" tvg-name="21:00 NCAAF : Lincoln (CA) at Mississippi Valley State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-199.php
+
+#EXTINF:-1 tvg-id="NCAAF - Prairie View A&M at Southern" tvg-name="21:00 NCAAF : Prairie View A&M at Southern - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-200.php
 
 #EXTINF:-1 tvg-id="NCAAF - Youngstown State at Illinois State" tvg-name="21:00 NCAAF : Youngstown State at Illinois State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", Marquee Sports Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-770.php
 
+#EXTINF:-1 tvg-id="NCAAF - Virginia Lynchburg at Texas Southern" tvg-name="21:00 NCAAF : Virginia Lynchburg at Texas Southern - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-201.php
+
+#EXTINF:-1 tvg-id="NCAAF - North Dakota at Southern Illinois" tvg-name="21:00 NCAAF : North Dakota at Southern Illinois - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-203.php
+
+#EXTINF:-1 tvg-id="NCAAF - Troy at ULM" tvg-name="21:00 NCAAF : Troy at ULM - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-205.php
+
 #EXTINF:-1 tvg-id="NCAAF - Purdue at Northwestern" tvg-name="21:00 NCAAF : Purdue at Northwestern - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", BTN USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-397.php
+
+#EXTINF:-1 tvg-id="NCAAF - New Hampshire at Campbell" tvg-name="21:30 NCAAF : New Hampshire at Campbell - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-168.php
+
+#EXTINF:-1 tvg-id="NCAAF - Elon at William & Mary" tvg-name="21:30 NCAAF : Elon at William & Mary - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-173.php
+
+#EXTINF:-1 tvg-id="NCAAF - Rhode Island at UAlbany" tvg-name="21:30 NCAAF : Rhode Island at UAlbany - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-209.php
 
 #EXTINF:-1 tvg-id="NCAAF - No. 5 Ole Miss at No. 9 Georgia" tvg-name="21:30 NCAAF : No. 5 Ole Miss at No. 9 Georgia - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ABC USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-51.php
@@ -3173,11 +3278,26 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-44.php
 #EXTINF:-1 tvg-id="NCAAF - SMU at Clemson" tvg-name="21:30 NCAAF : SMU at Clemson - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ACC Network USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-664.php
 
+#EXTINF:-1 tvg-id="NCAAF - Michigan State at No. 3 Indiana" tvg-name="21:30 NCAAF : Michigan State at No. 3 Indiana - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", Peacock
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-210.php
+
 #EXTINF:-1 tvg-id="NCAAF - No. 1 Ohio State at Wisconsin" tvg-name="21:30 NCAAF : No. 1 Ohio State at Wisconsin - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBS USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-52.php
 
 #EXTINF:-1 tvg-id="NCAAF - No. 1 Ohio State at Wisconsin" tvg-name="21:30 NCAAF : No. 1 Ohio State at Wisconsin - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBSNY USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-767.php
+
+#EXTINF:-1 tvg-id="NCAAF - Akron at Ball State" tvg-name="21:30 NCAAF : Akron at Ball State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-211.php
+
+#EXTINF:-1 tvg-id="NCAAF - Northern Illinois at Ohio" tvg-name="21:30 NCAAF : Northern Illinois at Ohio - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-212.php
+
+#EXTINF:-1 tvg-id="NCAAF - Temple at Charlotte" tvg-name="21:30 NCAAF : Temple at Charlotte - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-213.php
+
+#EXTINF:-1 tvg-id="NCAAF - UTSA at North Texas" tvg-name="21:30 NCAAF : UTSA at North Texas - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-214.php
 
 #EXTINF:-1 tvg-id="NCAAF - UNLV at Boise State" tvg-name="21:30 NCAAF : UNLV at Boise State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FS1 USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
@@ -3185,8 +3305,23 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
 #EXTINF:-1 tvg-id="NCAAF - Wyoming at Air Force" tvg-name="21:30 NCAAF : Wyoming at Air Force - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", CBSSN
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-308.php
 
-#EXTINF:-1 tvg-id="NCAAF - ODU at James Madison" tvg-name="21:30 NCAAF : ODU at James Madison - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPNU USA
+#EXTINF:-1 tvg-id="NCAAF - Coastal Carolina at App State" tvg-name="21:30 NCAAF : Coastal Carolina at App State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-215.php
+
+#EXTINF:-1 tvg-id="NCAAF - Old Dominion at James Madison" tvg-name="21:30 NCAAF : Old Dominion at James Madison - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPNU USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-316.php
+
+#EXTINF:-1 tvg-id="NCAAF - Texas State at Marshall" tvg-name="21:30 NCAAF : Texas State at Marshall - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-216.php
+
+#EXTINF:-1 tvg-id="NCAAF - Charleston Southern at Western Illinois" tvg-name="22:00 NCAAF : Charleston Southern at Western Illinois - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-178.php
+
+#EXTINF:-1 tvg-id="NCAAF - Alcorn State at Florida A&M" tvg-name="22:00 NCAAF : Alcorn State at Florida A&M - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-179.php
+
+#EXTINF:-1 tvg-id="NCAAF - UT Rio Grande Valley at Lamar" tvg-name="22:00 NCAAF : UT Rio Grande Valley at Lamar - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-180.php
 
 #EXTINF:-1 tvg-id="NCAAF - No. 22 Memphis at UAB" tvg-name="22:00 NCAAF : No. 22 Memphis at UAB - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN2 USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-45.php
@@ -3200,6 +3335,27 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
 #EXTINF:-1 tvg-id="NCAAF - Mississippi State at Florida" tvg-name="22:15 NCAAF : Mississippi State at Florida - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", SEC Network USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-385.php
 
+#EXTINF:-1 tvg-id="NCAAF - Weber State at Portland State" tvg-name="23:00 NCAAF : Weber State at Portland State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-181.php
+
+#EXTINF:-1 tvg-id="NCAAF - Northwestern State at SE Louisiana" tvg-name="23:00 NCAAF : Northwestern State at SE Louisiana - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-182.php
+
+#EXTINF:-1 tvg-id="NCAAF - Central Connecticut at Wagner" tvg-name="23:00 NCAAF : Central Connecticut at Wagner - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-183.php
+
+#EXTINF:-1 tvg-id="NCAAF - Southern Miss at Louisiana" tvg-name="23:00 NCAAF : Southern Miss at Louisiana - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-184.php
+
+#EXTINF:-1 tvg-id="NCAAF - Howard at Tennessee State" tvg-name="23:30 NCAAF : Howard at Tennessee State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-185.php
+
+#EXTINF:-1 tvg-id="NCAAF - East Texas A&M at Incarnate Word" tvg-name="23:30 NCAAF : East Texas A&M at Incarnate Word - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-186.php
+
+#EXTINF:-1 tvg-id="NCAAF - Duquesne at Mercyhurst" tvg-name="00:00 NCAAF : Duquesne at Mercyhurst - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-187.php
+
 #EXTINF:-1 tvg-id="NCAAF - Washington State at No. 18 Virginia" tvg-name="00:30 NCAAF : Washington State at No. 18 Virginia - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", The CW Network
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-300.php
 
@@ -3209,11 +3365,35 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-280.php
 #EXTINF:-1 tvg-id="NCAAF - No. 8 Oregon at Rutgers" tvg-name="00:30 NCAAF : No. 8 Oregon at Rutgers - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", BTN USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-397.php
 
+#EXTINF:-1 tvg-id="NCAAF - Idaho at Eastern Washington" tvg-name="01:00 NCAAF : Idaho at Eastern Washington - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-188.php
+
+#EXTINF:-1 tvg-id="NCAAF - Eastern Kentucky at North Alabama" tvg-name="01:00 NCAAF : Eastern Kentucky at North Alabama - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-189.php
+
+#EXTINF:-1 tvg-id="NCAAF - West Georgia at Tarleton State" tvg-name="01:00 NCAAF : West Georgia at Tarleton State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-190.php
+
+#EXTINF:-1 tvg-id="NCAAF - Houston Christian at McNeese" tvg-name="01:00 NCAAF : Houston Christian at McNeese - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-191.php
+
+#EXTINF:-1 tvg-id="NCAAF - South Dakota State at Murray State" tvg-name="01:00 NCAAF : South Dakota State at Murray State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-192.php
+
+#EXTINF:-1 tvg-id="NCAAF - Nicholls at Stephen F. Austin" tvg-name="01:00 NCAAF : Nicholls at Stephen F. Austin - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-193.php
+
+#EXTINF:-1 tvg-id="NCAAF - Penn State at Iowa" tvg-name="01:00 NCAAF : Penn State at Iowa - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", Peacock
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-194.php
+
 #EXTINF:-1 tvg-id="NCAAF - Maryland at UCLA" tvg-name="01:00 NCAAF : Maryland at UCLA - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FS1 USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
 
 #EXTINF:-1 tvg-id="NCAAF - Hawaii at Colorado State" tvg-name="01:00 NCAAF : Hawaii at Colorado State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", Spectrum SportsNet USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-982.php
+
+#EXTINF:-1 tvg-id="NCAAF - Georgia State at Georgia Southern" tvg-name="01:00 NCAAF : Georgia State at Georgia Southern - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-195.php
 
 #EXTINF:-1 tvg-id="NCAAF - No. 16 Missouri at Auburn" tvg-name="01:00 NCAAF : No. 16 Missouri at Auburn - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", SEC Network USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-385.php
@@ -3262,6 +3442,12 @@ linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-54.php
 
 #EXTINF:-1 tvg-id="NCAAF - No. 23 Utah at No. 15 BYU" tvg-name="02:00 NCAAF : No. 23 Utah at No. 15 BYU - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FOXNY USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-768.php
+
+#EXTINF:-1 tvg-id="NCAAF - Abilene Christian at Southern Utah" tvg-name="02:30 NCAAF : Abilene Christian at Southern Utah - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-196.php
+
+#EXTINF:-1 tvg-id="NCAAF - Northern Colorado at Sacramento State" tvg-name="03:00 NCAAF : Northern Colorado at Sacramento State - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", ESPN+ USA
+linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-197.php
 
 #EXTINF:-1 tvg-id="NCAAF - Nevada at New Mexico" tvg-name="03:45 NCAAF : Nevada at New Mexico - 18/10/25" tvg-logo="https://raw.githubusercontent.com/cribbiox/eventi/refs/heads/main/ddsport.png" group-title="Am. Football (Ncaaf)", FS1 USA
 linkproxy tvproxy/proxy/m3u?url=https://daddylive.dad/stream/stream-39.php
